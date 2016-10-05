@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: dedication.aux
+A level-1 auxiliary file: acknowledgments.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: related-work.aux
+A level-1 auxiliary file: design.aux
+A level-1 auxiliary file: implementation.aux
+A level-1 auxiliary file: results.aux
+A level-1 auxiliary file: conclusion.aux
+A level-1 auxiliary file: appendix.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--to sort, need author or key in vemco
+Warning--empty journal in Heupel2006
+Warning--can't use both author and editor fields in OU
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            649 strings with 8682 characters,
+and the built_in function-call counts, 6361 in all, are:
+= -- 620
+> -- 314
+< -- 3
++ -- 127
+- -- 104
+* -- 394
+:= -- 1067
+add.period$ -- 73
+call.type$ -- 21
+change.case$ -- 114
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 207
+empty$ -- 509
+format.name$ -- 104
+if$ -- 1335
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 11
+newline$ -- 118
+num.names$ -- 40
+pop$ -- 157
+preamble$ -- 1
+purify$ -- 94
+quote$ -- 0
+skip$ -- 159
+stack$ -- 0
+substring$ -- 298
+swap$ -- 40
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 82
+warning$ -- 3
+while$ -- 57
+width$ -- 23
+write$ -- 238
+(There were 3 warnings)

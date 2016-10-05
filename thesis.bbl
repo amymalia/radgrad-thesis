@@ -1,0 +1,144 @@
+\begin{thebibliography}{10}
+
+\bibitem{vemco}
+Vr2w – 69 khz.
+\newblock \url{<http://vemco.com/products/vr2w-69khz/?product-specifications>},
+  2016.
+\newblock [Online; accessed 30-July-2016].
+
+\bibitem{Akbarzadeh2013}
+Vahab Akbarzadeh, Christian Gagn\'{e}, Marc Parizeau, Meysam Argany, and
+  Mir~Abolfazl Mostafavi.
+\newblock {Probabilistic sensing model for sensor placement optimization based
+  on line-of-sight coverage}.
+\newblock {\em IEEE Transactions on Instrumentation and Measurement},
+  62(2):293--303, 2013.
+
+\bibitem{telonicsTR-5}
+Perry Barboza.
+\newblock Innovative technology/lab support proposal online form.
+\newblock
+  \url{<https://www.uaf.edu/tab/past-proposals/proposalDetails.xml?id=667>},
+  2014.
+\newblock [Online; accessed 19-November-2015].
+
+\bibitem{acousitcdeploy}
+Gregory Burgess, Martin Pedersen, and Kevin Weng.
+\newblock Mande.
+\newblock \url{<https://github.com/gregorylburgess/MANDe/archive/Update.zip>},
+  2013-2016.
+\newblock [Online; accessed 27-July-2016].
+
+\bibitem{acousticdeployWiki}
+Gregory Burgess, Martin Pedersen, and Kevin Weng.
+\newblock Mande wiki.
+\newblock \url{<https://github.com/gregorylburgess/MANDe/wiki>}, 2013-2016.
+\newblock [Online; accessed 27-July-2016].
+
+\bibitem{USDA}
+Rey Farve.
+\newblock Technology and development at the usda forest service, satellite/gps
+  telemetry for monitoring lesser prairie chickens.
+\newblock
+  \url{http://www.fs.fed.us/t-d/programs/im/satellite_gps_telemetry/wildlifetrackingtelementry.htm}.
+\newblock [Online; accessed 11-September-2015].
+
+\bibitem{Hansen2008}
+Gretchen J.~A. Hansen and Michael~L. Jones.
+\newblock The value of information in fishery management.
+\newblock {\em Fisheries}, 33(7):340--348, 2008.
+
+\bibitem{Heupel2006}
+M.~R. Heupel, J.~M. Semmens, and a.~J. Hobday.
+\newblock {Automated acoustic tracking of aquatic animals: Scales, design and
+  deployment of listening station arrays}.
+\newblock 57(1):113, 2006.
+
+\bibitem{Howard2002}
+Andrew Howard, M.J. Mataric, and G.S. Sukhatme.
+\newblock {Mobile sensor network deployment using potential fields: A
+  distributed, scalable solution to the area coverage problem}.
+\newblock {\em Proceedings of the 6th International Symposium on Distributed
+  Autonomous Robotics Systems (DARS02)}, 5:299--308, 2002.
+
+\bibitem{telonicsFIS-550}
+Telonics Inc.
+\newblock Vhf systems for fish (fis).
+\newblock \url{<http://www.telonics.com/products/vhfImplants/vhfFish.php>}.
+\newblock [Online; accessed 5-November-2015].
+
+\bibitem{Kessel2015}
+Steven~Thomas Kessel, Nigel~Edward Hussey, Dale~Mitchell Webber, Samuel~Harvey
+  Gruber, Joy~Michelle Young, Malcolm~John Smale, and Aaron~Thomas Fisk.
+\newblock {Close proximity detection interference with acoustic telemetry: the
+  importance of considering tag power output in low ambient noise
+  environments}.
+\newblock {\em Animal Biotelemetry}, 3(1):1--14, 2015.
+
+\bibitem{OU}
+Ross~A. Maller, Gernot M{\"u}ller, and Alex Szimayer.
+\newblock {\em Handbook of Financial Time Series}, chapter Ornstein--Uhlenbeck
+  Processes and Extensions, pages 421--437.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2009.
+
+\bibitem{rayTracing}
+James McNeill.
+\newblock Playtechs: Programming for fun: Raytracing on a grid.
+\newblock \url{http://playtechs.blogspot.com/2007/03/raytracing-on-grid.html>},
+  March 2007.
+\newblock [Online; accessed 5-May-2016].
+
+\bibitem{EstimatingIndividual}
+Martin~W. Pedersen and Kevin~C. Weng.
+\newblock Estimating individual animal movement from observation networks.
+\newblock {\em Methods in Ecology and Evolution}, 4(10):920--929, 2013.
+
+\bibitem{statespacemodel}
+{Martin W.} Pedersen and Kevin~C. Weng.
+\newblock A state-space model for estimating detailed movements and home range
+  from acoustic receiver data.
+\newblock
+  \url{<http://orbit.dtu.dk/en/publications/a-statespace-model-for-estimating-detailed-movements-and-home-range-from-acoustic-receiver-data(85d741c7-33ae-47f0-aac0-f0af6b244e3d).html>},
+  2013.
+\newblock [Online; accessed 19-April-2016].
+
+\bibitem{Poduri2004}
+S.~Poduri and G.S. Sukhatme.
+\newblock {Constrained coverage for mobile sensor networks}.
+\newblock {\em IEEE International Conference on Robotics and Automation, 2004.
+  Proceedings. ICRA '04. 2004}, 1, 2004.
+
+\bibitem{ARGOS}
+Collecte~Localisation Satellites.
+\newblock How argos works.
+\newblock \url{<http://www.argos-system.org/web/en/337-how-argos-works.php>}.
+\newblock [Online; accessed 5-November-2015].
+
+\bibitem{wildlifetracking}
+Seaturtle.org.
+\newblock Wildlife tracking.
+\newblock \url{<http://www.wildlifetracking.org/faq.shtml>}.
+\newblock [Online; accessed 5-November-2015].
+
+\bibitem{Steel2014}
+Anna~E Steel, Julia~H Coates, Alex~R Hearn, and a~Peter Klimley.
+\newblock {Performance of an ultrasonic telemetry positioning system under
+  varied environmental conditions}.
+\newblock {\em Animal Biotelemetry}, 2(1):15, 2014.
+
+\bibitem{Wikipedia_RadioTracking}
+Wikipedia.
+\newblock Animal migration tracking.
+\newblock
+  \url{<https://en.wikipedia.org/wiki/Animal_migration_tracking#Radio_tracking>},
+  2015.
+\newblock [Online; accessed 5-November-2015].
+
+\bibitem{Zhaohui2008}
+Yuan Zhaohui, Tan Rui, Xing Guoliang, Lu~Chenyang, Chen Yixin, and Wang
+  Jianping.
+\newblock {Fast sensor placement algorithms for fusion-based target detection}.
+\newblock {\em Proceedings - Real-Time Systems Symposium}, pages 103--112,
+  2008.
+
+\end{thebibliography}

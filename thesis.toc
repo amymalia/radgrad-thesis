@@ -1,0 +1,156 @@
+\contentsline {chapter}{Acknowledgments}{iv}{chapter*.1}
+\contentsline {chapter}{Abstract}{v}{chapter*.2}
+\contentsline {chapter}{List of Tables}{ix}{chapter*.4}
+\contentsline {chapter}{List of Figures}{x}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Related Work}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Degree Planners}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}STAR}{3}{subsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.1}Academic Essentials}{3}{subsubsection.2.1.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.2}Graduation Pathway}{3}{subsubsection.2.1.1.2}
+\contentsline {subsubsection}{\numberline {2.1.1.3}What If Journey}{4}{subsubsection.2.1.1.3}
+\contentsline {subsubsection}{\numberline {2.1.1.4}Transcripts}{4}{subsubsection.2.1.1.4}
+\contentsline {subsubsection}{\numberline {2.1.1.5}Scholarships}{4}{subsubsection.2.1.1.5}
+\contentsline {subsection}{\numberline {2.1.2}MyEdu}{4}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.2.1}GPA Calculator}{4}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {2.1.2.2}Schedule Planner}{4}{subsubsection.2.1.2.2}
+\contentsline {subsubsection}{\numberline {2.1.2.3}Profiles}{5}{subsubsection.2.1.2.3}
+\contentsline {subsubsection}{\numberline {2.1.2.4}Internships/Jobs}{5}{subsubsection.2.1.2.4}
+\contentsline {subsubsection}{\numberline {2.1.2.5}Professor Recommendations}{5}{subsubsection.2.1.2.5}
+\contentsline {subsubsection}{\numberline {2.1.2.6}Course Grades}{5}{subsubsection.2.1.2.6}
+\contentsline {subsubsection}{\numberline {2.1.2.7}Degree Timeline}{5}{subsubsection.2.1.2.7}
+\contentsline {subsection}{\numberline {2.1.3}Starfish by Hobsons}{6}{subsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.3.1}Early Alert}{6}{subsubsection.2.1.3.1}
+\contentsline {subsubsection}{\numberline {2.1.3.2}Connect}{6}{subsubsection.2.1.3.2}
+\contentsline {subsubsection}{\numberline {2.1.3.3}Degree Planner}{6}{subsubsection.2.1.3.3}
+\contentsline {subsection}{\numberline {2.1.4}College Scheduler}{6}{subsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.4.1}Schedule Planner}{7}{subsubsection.2.1.4.1}
+\contentsline {subsubsection}{\numberline {2.1.4.2}Pathway Planner}{7}{subsubsection.2.1.4.2}
+\contentsline {subsection}{\numberline {2.1.5}Coursicle}{7}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Individual Student Software}{7}{subsection.2.1.6}
+\contentsline {section}{\numberline {2.2}Social Network}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}LinkedIn}{8}{subsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Home}{8}{subsubsection.2.2.1.1}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Profile}{8}{subsubsection.2.2.1.2}
+\contentsline {subsubsection}{\numberline {2.2.1.3}My Network}{8}{subsubsection.2.2.1.3}
+\contentsline {subsubsection}{\numberline {2.2.1.4}Learning}{8}{subsubsection.2.2.1.4}
+\contentsline {subsubsection}{\numberline {2.2.1.5}Jobs}{8}{subsubsection.2.2.1.5}
+\contentsline {subsubsection}{\numberline {2.2.1.6}Interests}{9}{subsubsection.2.2.1.6}
+\contentsline {subsection}{\numberline {2.2.2}TechHui}{9}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Profile}{9}{subsubsection.2.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Members}{9}{subsubsection.2.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Events}{9}{subsubsection.2.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.2.4}Forum}{9}{subsubsection.2.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.2.5}Groups}{10}{subsubsection.2.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.2.6}Photos}{10}{subsubsection.2.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.2.7}Videos}{10}{subsubsection.2.2.2.7}
+\contentsline {subsubsection}{\numberline {2.2.2.8}Blogs}{10}{subsubsection.2.2.2.8}
+\contentsline {subsubsection}{\numberline {2.2.2.9}Directory}{10}{subsubsection.2.2.2.9}
+\contentsline {subsubsection}{\numberline {2.2.2.10}Coders}{10}{subsubsection.2.2.2.10}
+\contentsline {subsection}{\numberline {2.2.3}Rate My Professors}{10}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Other Popular Social Networks}{11}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Gamification}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Summoners War}{11}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}League Of Legends}{12}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Hearthstone}{12}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Overwatch}{13}{subsection.2.3.4}
+\contentsline {chapter}{\numberline {3}Design}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Program Requirements}{14}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Motivation}{14}{subsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1.1}Cost Efficiency}{14}{subsubsection.3.1.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1.2}Metrics}{14}{subsubsection.3.1.1.2}
+\contentsline {subsubsection}{\numberline {3.1.1.3}Transparency}{14}{subsubsection.3.1.1.3}
+\contentsline {subsection}{\numberline {3.1.2}Supported Workflows}{15}{subsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2.1}Static Analysis}{15}{subsubsection.3.1.2.1}
+\contentsline {subsubsection}{\numberline {3.1.2.2}Optimal Design}{15}{subsubsection.3.1.2.2}
+\contentsline {subsubsection}{\numberline {3.1.2.3}Optimal Addition}{15}{subsubsection.3.1.2.3}
+\contentsline {section}{\numberline {3.2}Conceptual Model}{15}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Time/Space Modeling}{15}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Spatial Modeling}{15}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Temporal Modeling}{15}{subsubsection.3.2.1.2}
+\contentsline {subsection}{\numberline {3.2.2}Bathymetric Modeling}{16}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}Bathymetric Grid}{16}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}Bathymetric Filetypes}{16}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.3}Bathymetric Resolution}{16}{subsubsection.3.2.2.3}
+\contentsline {subsubsection}{\numberline {3.2.2.4}Bathymetric Shadowing}{18}{subsubsection.3.2.2.4}
+\contentsline {subsection}{\numberline {3.2.3}Animal Modeling}{19}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}Behavior Grid}{19}{subsubsection.3.2.3.1}
+\contentsline {subsubsection}{\numberline {3.2.3.2}Horizontal Movement Modeling}{19}{subsubsection.3.2.3.2}
+\contentsline {paragraph}{\numberline {3.2.3.2.1}Random Walk Model}{19}{paragraph.3.2.3.2.1}
+\contentsline {paragraph}{\numberline {3.2.3.2.2}Ornstein-Uhlenbeck Model}{19}{paragraph.3.2.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3.3}Vertical Movement Modeling}{20}{subsubsection.3.2.3.3}
+\contentsline {paragraph}{\numberline {3.2.3.3.1}Habitat Preference}{20}{paragraph.3.2.3.3.1}
+\contentsline {paragraph}{\numberline {3.2.3.3.2}Restricted Vertical Habitat Range}{21}{paragraph.3.2.3.3.2}
+\contentsline {subsection}{\numberline {3.2.4}Receiver Modeling}{21}{subsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.4.1}Acoustic Attenuation}{21}{subsubsection.3.2.4.1}
+\contentsline {subsubsection}{\numberline {3.2.4.2}Detection Range}{21}{subsubsection.3.2.4.2}
+\contentsline {subsubsection}{\numberline {3.2.4.3}Detection Area}{22}{subsubsection.3.2.4.3}
+\contentsline {subsubsection}{\numberline {3.2.4.4}Network Specification}{22}{subsubsection.3.2.4.4}
+\contentsline {section}{\numberline {3.3}Evaluation of Receiver Emplacements}{22}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Goodness Grid}{23}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Evaluation Algorithms (Bias)}{23}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}Animal Only (Option “1”)}{23}{subsubsection.3.3.2.1}
+\contentsline {subsubsection}{\numberline {3.3.2.2}Visible Fish (Option “3”)}{24}{subsubsection.3.3.2.2}
+\contentsline {subsubsection}{\numberline {3.3.2.3}Topography Only (Option “2”)}{24}{subsubsection.3.3.2.3}
+\contentsline {subsection}{\numberline {3.3.3}Line of Sight Evaluation}{25}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Selection of Optimal Emplacements}{25}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Suppression}{26}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Suppression Area}{26}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Suppression Algorithms}{27}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Static Suppression}{28}{subsubsection.3.4.2.1}
+\contentsline {subsubsection}{\numberline {3.4.2.2}Scalar Suppression}{28}{subsubsection.3.4.2.2}
+\contentsline {subsubsection}{\numberline {3.4.2.3}Exact Suppression}{28}{subsubsection.3.4.2.3}
+\contentsline {section}{\numberline {3.5}Optimal Receiver Projection}{29}{section.3.5}
+\contentsline {section}{\numberline {3.6}Time and Space Complexity}{29}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Bathymetry Grid}{29}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Behavior Grid}{29}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Line of Sight Computation}{30}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Goodness Grid}{30}{subsection.3.6.4}
+\contentsline {subsubsection}{\numberline {3.6.4.1}Evaluation Algorithm 1}{31}{subsubsection.3.6.4.1}
+\contentsline {subsubsection}{\numberline {3.6.4.2}Evaluation Algorithm 2 \& 3}{31}{subsubsection.3.6.4.2}
+\contentsline {subsection}{\numberline {3.6.5}Optimal Receiver Placement}{32}{subsection.3.6.5}
+\contentsline {subsection}{\numberline {3.6.6}Suppression}{32}{subsection.3.6.6}
+\contentsline {subsubsection}{\numberline {3.6.6.1}Static Suppression Algorithm}{32}{subsubsection.3.6.6.1}
+\contentsline {subsubsection}{\numberline {3.6.6.2}Exact Suppression}{33}{subsubsection.3.6.6.2}
+\contentsline {chapter}{\numberline {4}Implementation}{35}{chapter.4}
+\contentsline {subsection}{\numberline {4.0.1}Parameter Dictionary}{35}{subsection.4.0.1}
+\contentsline {subsection}{\numberline {4.0.2}Sub-Functions}{35}{subsection.4.0.2}
+\contentsline {subsection}{\numberline {4.0.3}Dispatcher Functions}{35}{subsection.4.0.3}
+\contentsline {subsection}{\numberline {4.0.4}Major Modules}{36}{subsection.4.0.4}
+\contentsline {subsubsection}{\numberline {4.0.4.1}Parameter Checking}{36}{subsubsection.4.0.4.1}
+\contentsline {subsubsection}{\numberline {4.0.4.2}File Output}{36}{subsubsection.4.0.4.2}
+\contentsline {subsubsection}{\numberline {4.0.4.3}Bathymetry Parsing}{36}{subsubsection.4.0.4.3}
+\contentsline {subsubsection}{\numberline {4.0.4.4}Animal Modeling}{37}{subsubsection.4.0.4.4}
+\contentsline {subsubsection}{\numberline {4.0.4.5}Goodness Computation}{38}{subsubsection.4.0.4.5}
+\contentsline {subsubsection}{\numberline {4.0.4.6}Suppression}{39}{subsubsection.4.0.4.6}
+\contentsline {subsubsection}{\numberline {4.0.4.7}Sensor Placement}{39}{subsubsection.4.0.4.7}
+\contentsline {subsubsection}{\numberline {4.0.4.8}Sample Application}{40}{subsubsection.4.0.4.8}
+\contentsline {subsubsection}{\numberline {4.0.4.9}Web Server}{40}{subsubsection.4.0.4.9}
+\contentsline {subsection}{\numberline {4.0.5}Implementation Hurdles}{42}{subsection.4.0.5}
+\contentsline {subsubsection}{\numberline {4.0.5.1}Complexity and Usability}{42}{subsubsection.4.0.5.1}
+\contentsline {subsubsection}{\numberline {4.0.5.2}Coordinate Conversion}{42}{subsubsection.4.0.5.2}
+\contentsline {subsubsection}{\numberline {4.0.5.3}Rook}{42}{subsubsection.4.0.5.3}
+\contentsline {chapter}{\numberline {5}Results}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}Output Files}{44}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Grid Graphs}{44}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Data Recovery Graphs}{44}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Text Files}{44}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}Distinguishing Characteristics}{46}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Availability}{46}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Adaptability}{47}{subsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.2.1}Flexability}{47}{subsubsection.5.2.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2.2}Simple Data Formats}{47}{subsubsection.5.2.2.2}
+\contentsline {subsubsection}{\numberline {5.2.2.3}Customizable}{48}{subsubsection.5.2.2.3}
+\contentsline {subsection}{\numberline {5.2.3}Drawbacks}{48}{subsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5.2.3.1}Explicit Data Validation}{48}{subsubsection.5.2.3.1}
+\contentsline {subsubsection}{\numberline {5.2.3.2}Technical Capability}{50}{subsubsection.5.2.3.2}
+\contentsline {subsubsection}{\numberline {5.2.3.3}Language Limitations}{50}{subsubsection.5.2.3.3}
+\contentsline {section}{\numberline {5.3}Future Work}{50}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Empirical Analysis}{50}{subsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.1.1}Acoustic Coverage}{50}{subsubsection.5.3.1.1}
+\contentsline {subsubsection}{\numberline {5.3.1.2}Workflows}{51}{subsubsection.5.3.1.2}
+\contentsline {subsection}{\numberline {5.3.2}Heuristic Algorithms}{51}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Interactive Visualizations}{51}{subsection.5.3.3}
+\contentsline {chapter}{\numberline {6}Conclusions}{53}{chapter.6}
+\contentsline {chapter}{\numberline {A}Table of Notations}{54}{appendix.A}
+\contentsline {chapter}{Bibliography}{57}{appendix*.23}
