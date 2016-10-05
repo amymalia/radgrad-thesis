@@ -1,17 +1,34 @@
 \chapter{Related Work}
 RadGrad can be reduced into three major parts: degree planner, social network, and gamification. All three of these parts are combined to create a robust, interactive, and effective system to enhance the academic journeys of current and future ICS students. 
 \section{Degree Planners}
+\includegraphics[scale=.35]{star_home}
 \subsection{STAR}
 STAR is the degree planning system currently used by the University of Hawaii. As of September 2016, the student interface provides five main capabilities: Academic Essentials, Graduation Pathway, What If Journey, Transcripts, and Scholarships. 
-
+\begin{figure}[h]
+\centering
+\includegraphics[width=1.0\textwidth]{star_edgoals}
+\caption{Academic Essentials Page on the STAR interface2.)}
+\end{figure}
 \subsubsection{Academic Essentials}
 This interface provides information about the student's academic progress, and compares it to the student's academic requirements to show how close the student currently is to graduation. This information includes credit totals, grades, and required courses. This interface also includes a section for ``Advisor Notes", which is filled out during advising sessions. There is another section for ``Events and Actions" which lists important student academic events such as college applications, admittance, and graduation, and student academic actions such as Deans List award. A third section is called ``Educational Goals", which provides the student's ``immediate goals" and ``highest ed goals" on a semester-by-semester basis. This information is provided by the student through occasional assessments upon log-in to STAR. The top of the page also has a section for students with financial aid.
+\section{Degree Planners}
+\includegraphics[scale=.35]{star_pathway}
 \subsubsection{Graduation Pathway}
 This interface is provided for certain programs or exploratory or pre-major students. It shows the course information for the courses that the student has taken previously and is currently enrolled in, and shows which requirements each course fulfills. It also shows future semesters and suggests future types of classes that the student should enroll in, in order to fulfill their major requirements. This interface does not suggest specific classes, but only lists the requirement that the class will need to fulfill. 
+\section{Degree Planners}
+\includegraphics[scale=.35]{star_whatif}
 \subsubsection{What If Journey}
 This interface is provided for undergraduates at UH Manoa. It allows students to choose a different major than the one they are currently in. The page then reloads to show the STAR homepage, altered to show the requirements of the chosen major. This shows students where they would be in the program if they were to switch majors.
+\section{Degree Planners}
+\includegraphics[scale=.35]{star_trans}
 \subsubsection{Transcripts}
 This interface allows students to access their campus transcripts by semester and by department. It also allows transfer students to access their transfer transcripts by semester and by institution. 
+\section{Degree Planners}
+\includegraphics[scale=.35]{star_scholar2}
+\section{Degree Planners}
+\includegraphics[scale=.35]{star_scholar3}
+\section{Degree Planners}
+\includegraphics[scale=.35]{star_scholar4}
 \subsubsection{Scholarships}
 This interface allows students to find scholarships by either using a keyword search or by selecting the ``My Best Fit Scholarship" tab, which presumably gathers student academic data and compares it with scholarship data to find matches.
 
@@ -53,6 +70,21 @@ The slogan of Coursicle is ``Course registration sucks but Coursicle makes it be
 
 \subsection{Individual Student Software}
 There are other types of download-able software currently available for students to use individually. These systems are for individual use, and are not tailored for institutional implementation. To use these systems, students input information about their education, such as classes, credits, and requirements. This data is then used to create organized visualizations to help students to better see their goals and pathway. A popular generic system is the Microsoft Office College Credit Planner Template. Many individual colleges and universities have their own custom download-able course planning spreadsheets as well.
+
+\subsection{Degree Planners and RadGrad}
+The goal of RadGrad is not to replace STAR, but rather to supplement it and provide department-specific services that STAR realistically cannot provide due to the size of the scope. Thus, after RadGrad is deployed, STAR will still be the first place students should check for their progress in general education courses, their University status in terms of enrollment and tuition payment, and their official transcripts. Ideally, RadGrad will be the first place students check for progress in ICS courses, to check on their non-academic ICS-related involvement, to receive support and advice from others within the ICS community, and to simply feel connected. 
+
+RadGrad will be integrated with STAR in two ways: transcripts and scholarships. RadGrad will pull students' ICS course data from STAR transcripts so that RadGrad can provide students with more specialized guidance relating to their past and current courses, grades, work, and other outside activities. RadGrad will also filter and pull ICS-related scholarship data from the STAR scholarship database. When students declare their goals and priorities on RadGrad, if one of their main concerns is affordability, then RadGrad will automatically encourage those students to apply for eligible scholarships. Since RadGrad will have a smaller pool of scholarships to focus on, it can offer more detailed assistance than STAR realistically could. This could include a convenient way to contact the right people, and to optimize the student's chance of being accepted, based off the scholarship requirements and the student's data. 
+
+There are several features of MyEdu that RadGrad will not be implementing because they do not directly fit the goals of RadGrad. These features are: GPA Calculator and Assignment Tracker, Schedule Planner and Internships/Job search engine. However, similarly to MyEdu, RadGrad will be implementing a profile feature, a professor recommendations feature, a course grades feature, and a degree timeline feature. 
+The profile feature of RadGrad will include similar academic, work, and personal information as the MyEdu profiles, but they will focus primarily on ICS related topics, and the format will be more readable. Similarly to MyEdu, the professor recommendations feature on RadGrad will focus on decidedly important questions that truly help students to make decisions and succeed. Similarly to MyEdu, RadGrad will incorporate official course grade records, but it will focus only on the ICS courses (not general education courses). RadGrad could also gather all encompassing statistics to provide an overall view of the current status and progress of the students in the department. 
+Starfish by Hobsons primarily differs from RadGrad from the fact that it is used as an embedded system within a University. Starfish assumes the University will be utilizing several different systems and combining them together to achieve the overall Starfish goals. RadGrad is non-embedded, and stands alone as a separate application from other University software, with the exception of some integration with STAR as mentioned previously. 
+
+Some Starfish features that RadGrad will not implement because they do not directly fit with the goals of RadGrad are: online appointment scheduling and case management, schedule planner, and pathway planner. RadGrad will implement features similar to Early Alert, Degree Planner, and Pathway Planner. 
+
+Although RadGrad will not provide an early warning system that alerts advisers, it will provide a type of warning system to alert students about their own progress or lack thereof. Instead of advisers being liable for getting students back on track, RadGrad enables students to easily check their statuses themselves and decide whether or not they would like to improve. RadGrad will also not provide a degree planner that alerts advisers when the student is deviating from a given course. However, RadGrad will provide information regarding a student's goals, past activities, current status, and future activities, to ensure that the student is on their ideal path. RadGrad will also provide a feature similar to Starfish's Pathway Planner, which will advise students about their predicted course load, workload, and extra curricular load, and how it may affect their graduation date and other goals. Since students are able to plan classes ahead of time, ICS administrators will also be able to see which courses are requested the most prior to each semester. 
+
+RadGrad will be the least similar to Coursicle, which primarily aims to aid students in their course registration. While RadGrad will aid students in deciding which courses to take, it will not provide detailed features such as notifications when a seat opens up, personalized schedule planners, and textbook price comparisons. While Coursicle shares some of the same goals with RadGrad, Coursicle expands more on the course registration process itself while RadGrad will expand more upon the effects after the registration process (i.e. what happens after a student completes a class and how that fits in to the student's overall ICS journey.)
 
 \section{Social Network}
 \subsection{LinkedIn}

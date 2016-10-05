@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  5 OCT 2016 09:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  5 OCT 2016 11:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -296,7 +296,7 @@ Package caption Info: hyperref package is loaded.
 )
 (./thesis.aux (./dedication.aux) (./acknowledgments.aux) (./abstract.aux)
 (./introduction.aux) (./related-work.aux) (./description.aux) (./design.aux)
-(./implementation.aux) (./results.aux) (./conclusion.aux) (./appendix.aux))
+(./milestones.aux) (./appendix.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
@@ -485,62 +485,114 @@ l.21
 
  (./related-work.tex
 Chapter 2.
+<images/star_home.png, id=393, 1249.66875pt x 660.4675pt>
+File: images/star_home.png Graphic file (type png)
+
+<use images/star_home.png>
+Package pdftex.def Info: images/star_home.png used on input line 4.
+(pdftex.def)             Requested size: 437.39063pt x 231.16708pt.
+
+<images/star_edgoals.png, id=395, 1251.67625pt x 663.47874pt>
+File: images/star_edgoals.png Graphic file (type png)
+
+<use images/star_edgoals.png>
+Package pdftex.def Info: images/star_edgoals.png used on input line 9.
+(pdftex.def)             Requested size: 469.75502pt x 249.0064pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [3
 
 
 
-] [4] [5] [6] [7]
-Overfull \hbox (5.47433pt too wide) in paragraph at lines 65--66
+ <./images/star_home.png>]
+<images/star_pathway.png, id=403, 1927.2pt x 942.52126pt>
+File: images/star_pathway.png Graphic file (type png)
+
+<use images/star_pathway.png>
+Package pdftex.def Info: images/star_pathway.png used on input line 15.
+(pdftex.def)             Requested size: 674.53012pt x 329.88739pt.
+
+Overfull \hbox (204.7751pt too wide) in paragraph at lines 15--16
+[] 
+ []
+
+[4 <./images/star_edgoals.png>]
+<images/star_whatif.png, id=409, 1917.1625pt x 936.49875pt>
+File: images/star_whatif.png Graphic file (type png)
+
+<use images/star_whatif.png>
+Package pdftex.def Info: images/star_whatif.png used on input line 19.
+(pdftex.def)             Requested size: 671.01694pt x 327.77946pt.
+
+Overfull \hbox (201.26192pt too wide) in paragraph at lines 19--20
+[] 
+ []
+
+[5 <./images/star_pathway.png>]
+<images/star_trans.png, id=416, 1253.68375pt x 661.47125pt>
+File: images/star_trans.png Graphic file (type png)
+
+<use images/star_trans.png>
+Package pdftex.def Info: images/star_trans.png used on input line 23.
+(pdftex.def)             Requested size: 438.79588pt x 231.5184pt.
+ [6 <./images/star_whatif.png>]
+<images/star_scholar2.png, id=423, 1250.6725pt x 661.47125pt>
+File: images/star_scholar2.png Graphic file (type png)
+
+<use images/star_scholar2.png>
+Package pdftex.def Info: images/star_scholar2.png used on input line 27.
+(pdftex.def)             Requested size: 437.74194pt x 231.5184pt.
+
+<images/star_scholar3.png, id=424, 1252.68pt x 661.47125pt>
+File: images/star_scholar3.png Graphic file (type png)
+
+<use images/star_scholar3.png>
+Package pdftex.def Info: images/star_scholar3.png used on input line 29.
+(pdftex.def)             Requested size: 438.44456pt x 231.5184pt.
+ [7 <./images/star_trans.png> <./images/star_scholar2.png>] <images/star_schola
+r4.png, id=432, 1251.67625pt x 660.4675pt>
+File: images/star_scholar4.png Graphic file (type png)
+
+<use images/star_scholar4.png>
+Package pdftex.def Info: images/star_scholar4.png used on input line 31.
+(pdftex.def)             Requested size: 438.09325pt x 231.16708pt.
+ [8 <./images/star_scholar3.png> <./images/star_scholar4.png>] [9] [10] [11] [1
+2] [13]
+Overfull \hbox (5.47433pt too wide) in paragraph at lines 97--98
 \OT1/cmr/m/n/10.95 A user's net-work in-cludes cur-rent con-nec-tions, rec-om-m
 ended con-nec-tions, con-nec-tions added through
  []
 
-[8] [9] [10] [11] [12]) [13]
+[14] [15] [16] [17] [18]) [19] [20]
 \openout2 = `description.aux'.
 
  (./description.tex
 Chapter 3.
-[14
+[21
 
 
 
-] [15] [16] [17]) [18]
+] [22] [23] [24]) [25]
 \openout2 = `design.aux'.
 
  (./design.tex
 Chapter 4.
-[19
+[26
 
 
 
-] [20]
+] [27]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [21]) [22]
-\openout2 = `implementation.aux'.
+ [28]) [29]
+\openout2 = `milestones.aux'.
 
- (./implementation.tex
+ (./milestones.tex
 Chapter 5.
-) [23
-
-
-
-]
-\openout2 = `results.aux'.
-
- (./results.tex
-Chapter 6.
-) [24
-
-
-
-]
-\openout2 = `conclusion.aux'.
-
- (./conclusion.tex
-Chapter 7.
-) [25
+) [30
 
 
 
@@ -549,7 +601,7 @@ Chapter 7.
 
  (./appendix.tex
 Appendix A.
-) [26
+) [31
 
 
 
@@ -557,7 +609,7 @@ Appendix A.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [27
+ [32
 
 
 ]
@@ -591,26 +643,26 @@ m/n/10.95 <[]https : / / en . wikipedia . org / wiki / Animal _
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
- [28]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
+ [33]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
  (./thesis.aux (./dedication.aux) (./acknowledgments.aux) (./abstract.aux) (./i
 ntroduction.aux) (./related-work.aux) (./description.aux) (./design.aux)
-(./implementation.aux) (./results.aux) (./conclusion.aux) (./appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
+(./milestones.aux) (./appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 2BBCC23D8D79B690471BA3B5E97A82B1;3737.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 138.
+(rerunfilecheck)             Checksum: E51F7C2C63CA4AFEA1C43AA4A3DCC59A;4096.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
  ) 
 Here is how much of TeX's memory you used:
- 7536 strings out of 493014
- 115286 string characters out of 6133351
- 213761 words of memory out of 5000000
- 10755 multiletter control sequences out of 15000+600000
+ 7580 strings out of 493014
+ 116293 string characters out of 6133351
+ 212909 words of memory out of 5000000
+ 10792 multiletter control sequences out of 15000+600000
  8668 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,5n,40p,1464b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,6n,41p,1464b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -618,10 +670,10 @@ usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (38 pages, 191985 bytes).
+Output written on thesis.pdf (43 pages, 2692200 bytes).
 PDF statistics:
- 636 PDF objects out of 1000 (max. 8388607)
- 583 compressed objects within 6 object streams
- 178 named destinations out of 1000 (max. 500000)
- 473 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 705 PDF objects out of 1000 (max. 8388607)
+ 630 compressed objects within 7 object streams
+ 189 named destinations out of 1000 (max. 500000)
+ 553 words of extra memory for PDF output out of 10000 (max. 10000000)
 
