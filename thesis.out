@@ -21,50 +21,39 @@
 \BOOKMARK [2][-]{subsection.2.3.2}{League Of Legends}{section.2.3}% 21
 \BOOKMARK [2][-]{subsection.2.3.3}{Hearthstone}{section.2.3}% 22
 \BOOKMARK [2][-]{subsection.2.3.4}{Overwatch}{section.2.3}% 23
-\BOOKMARK [0][-]{chapter.3}{Design}{}% 24
-\BOOKMARK [1][-]{section.3.1}{Program Requirements}{chapter.3}% 25
-\BOOKMARK [2][-]{subsection.3.1.1}{Motivation}{section.3.1}% 26
-\BOOKMARK [2][-]{subsection.3.1.2}{Supported Workflows}{section.3.1}% 27
-\BOOKMARK [1][-]{section.3.2}{Conceptual Model}{chapter.3}% 28
-\BOOKMARK [2][-]{subsection.3.2.1}{Time/Space Modeling}{section.3.2}% 29
-\BOOKMARK [2][-]{subsection.3.2.2}{Bathymetric Modeling}{section.3.2}% 30
-\BOOKMARK [2][-]{subsection.3.2.3}{Animal Modeling}{section.3.2}% 31
-\BOOKMARK [2][-]{subsection.3.2.4}{Receiver Modeling}{section.3.2}% 32
-\BOOKMARK [1][-]{section.3.3}{Evaluation of Receiver Emplacements}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.3.1}{Goodness Grid}{section.3.3}% 34
-\BOOKMARK [2][-]{subsection.3.3.2}{Evaluation Algorithms \(Bias\)}{section.3.3}% 35
-\BOOKMARK [2][-]{subsection.3.3.3}{Line of Sight Evaluation}{section.3.3}% 36
-\BOOKMARK [2][-]{subsection.3.3.4}{Selection of Optimal Emplacements}{section.3.3}% 37
-\BOOKMARK [1][-]{section.3.4}{Suppression}{chapter.3}% 38
-\BOOKMARK [2][-]{subsection.3.4.1}{Suppression Area}{section.3.4}% 39
-\BOOKMARK [2][-]{subsection.3.4.2}{Suppression Algorithms}{section.3.4}% 40
-\BOOKMARK [1][-]{section.3.5}{Optimal Receiver Projection}{chapter.3}% 41
-\BOOKMARK [1][-]{section.3.6}{Time and Space Complexity}{chapter.3}% 42
-\BOOKMARK [2][-]{subsection.3.6.1}{Bathymetry Grid}{section.3.6}% 43
-\BOOKMARK [2][-]{subsection.3.6.2}{Behavior Grid}{section.3.6}% 44
-\BOOKMARK [2][-]{subsection.3.6.3}{Line of Sight Computation}{section.3.6}% 45
-\BOOKMARK [2][-]{subsection.3.6.4}{Goodness Grid}{section.3.6}% 46
-\BOOKMARK [2][-]{subsection.3.6.5}{Optimal Receiver Placement}{section.3.6}% 47
-\BOOKMARK [2][-]{subsection.3.6.6}{Suppression}{section.3.6}% 48
-\BOOKMARK [0][-]{chapter.4}{Implementation}{}% 49
-\BOOKMARK [1][-]{subsection.4.0.1}{Parameter Dictionary}{chapter.4}% 50
-\BOOKMARK [2][-]{subsection.4.0.2}{Sub-Functions}{subsection.4.0.1}% 51
-\BOOKMARK [2][-]{subsection.4.0.3}{Dispatcher Functions}{subsection.4.0.1}% 52
-\BOOKMARK [2][-]{subsection.4.0.4}{Major Modules}{subsection.4.0.1}% 53
-\BOOKMARK [2][-]{subsection.4.0.5}{Implementation Hurdles}{subsection.4.0.1}% 54
-\BOOKMARK [0][-]{chapter.5}{Results}{}% 55
-\BOOKMARK [1][-]{section.5.1}{Output Files}{chapter.5}% 56
-\BOOKMARK [2][-]{subsection.5.1.1}{Grid Graphs}{section.5.1}% 57
-\BOOKMARK [2][-]{subsection.5.1.2}{Data Recovery Graphs}{section.5.1}% 58
-\BOOKMARK [2][-]{subsection.5.1.3}{Text Files}{section.5.1}% 59
-\BOOKMARK [1][-]{section.5.2}{Distinguishing Characteristics}{chapter.5}% 60
-\BOOKMARK [2][-]{subsection.5.2.1}{Availability}{section.5.2}% 61
-\BOOKMARK [2][-]{subsection.5.2.2}{Adaptability}{section.5.2}% 62
-\BOOKMARK [2][-]{subsection.5.2.3}{Drawbacks}{section.5.2}% 63
-\BOOKMARK [1][-]{section.5.3}{Future Work}{chapter.5}% 64
-\BOOKMARK [2][-]{subsection.5.3.1}{Empirical Analysis}{section.5.3}% 65
-\BOOKMARK [2][-]{subsection.5.3.2}{Heuristic Algorithms}{section.5.3}% 66
-\BOOKMARK [2][-]{subsection.5.3.3}{Interactive Visualizations}{section.5.3}% 67
-\BOOKMARK [0][-]{chapter.6}{Conclusions}{}% 68
-\BOOKMARK [0][-]{appendix.A}{Table of Notations}{}% 69
-\BOOKMARK [0][-]{appendix*.23}{Bibliography}{}% 70
+\BOOKMARK [0][-]{chapter.3}{Description}{}% 24
+\BOOKMARK [1][-]{section.3.1}{Degree Planner}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.1.1}{Degree Plan}{section.3.1}% 26
+\BOOKMARK [2][-]{subsection.3.1.2}{Degree Goal}{section.3.1}% 27
+\BOOKMARK [2][-]{subsection.3.1.3}{Dashboard}{section.3.1}% 28
+\BOOKMARK [2][-]{subsection.3.1.4}{Predictions}{section.3.1}% 29
+\BOOKMARK [2][-]{subsection.3.1.5}{Recommendations}{section.3.1}% 30
+\BOOKMARK [2][-]{subsection.3.1.6}{STAR Interface}{section.3.1}% 31
+\BOOKMARK [2][-]{subsection.3.1.7}{Workload Adviser}{section.3.1}% 32
+\BOOKMARK [1][-]{section.3.2}{Social Network}{chapter.3}% 33
+\BOOKMARK [2][-]{subsection.3.2.1}{Profile}{section.3.2}% 34
+\BOOKMARK [2][-]{subsection.3.2.2}{Mentorship}{section.3.2}% 35
+\BOOKMARK [2][-]{subsection.3.2.3}{Department Feedback}{section.3.2}% 36
+\BOOKMARK [2][-]{subsection.3.2.4}{Course Feedback}{section.3.2}% 37
+\BOOKMARK [2][-]{subsection.3.2.5}{Degree Feedback}{section.3.2}% 38
+\BOOKMARK [2][-]{subsection.3.2.6}{Feedback and User Evaluation}{section.3.2}% 39
+\BOOKMARK [2][-]{subsection.3.2.7}{Billboard}{section.3.2}% 40
+\BOOKMARK [1][-]{section.3.3}{Gamification}{chapter.3}% 41
+\BOOKMARK [2][-]{subsection.3.3.1}{Stoplight}{section.3.3}% 42
+\BOOKMARK [2][-]{subsection.3.3.2}{Leaderboard}{section.3.3}% 43
+\BOOKMARK [2][-]{subsection.3.3.3}{ICE}{section.3.3}% 44
+\BOOKMARK [0][-]{chapter.4}{Design}{}% 45
+\BOOKMARK [1][-]{section.4.1}{Preliminary Assessment}{chapter.4}% 46
+\BOOKMARK [2][-]{subsection.4.1.1}{Basic Information}{section.4.1}% 47
+\BOOKMARK [2][-]{subsection.4.1.2}{Prospective ICS Students}{section.4.1}% 48
+\BOOKMARK [2][-]{subsection.4.1.3}{Prospective ICS Students: Feelings}{section.4.1}% 49
+\BOOKMARK [2][-]{subsection.4.1.4}{Current ICS Students}{section.4.1}% 50
+\BOOKMARK [2][-]{subsection.4.1.5}{Current ICS Students: Influences}{section.4.1}% 51
+\BOOKMARK [2][-]{subsection.4.1.6}{Graduating ICS Students}{section.4.1}% 52
+\BOOKMARK [1][-]{section.4.2}{Post-Deployment Assessment}{chapter.4}% 53
+\BOOKMARK [1][-]{section.4.3}{Comparison}{chapter.4}% 54
+\BOOKMARK [0][-]{chapter.5}{Implementation}{}% 55
+\BOOKMARK [0][-]{chapter.6}{Results}{}% 56
+\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 57
+\BOOKMARK [0][-]{appendix.A}{Table of Notations}{}% 58
+\BOOKMARK [0][-]{appendix*.6}{Bibliography}{}% 59

@@ -2,10 +2,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces A summary of the key-value pairs in the \texttt {result} dictionary. \relax }}{37}{table.caption.12}
-\contentsline {table}{\numberline {4.2}{\ignorespaces A summary of the \texttt {params} key-value pairs used in Bathymetry Parsing module. \relax }}{37}{table.caption.13}
-\contentsline {table}{\numberline {4.3}{\ignorespaces A summary of the \texttt {params} key-value pairs used in Animal Modeling module. \newline * optional parameters. \relax }}{38}{table.caption.14}
-\contentsline {table}{\numberline {4.4}{\ignorespaces A summary of the \texttt {params} key-value pairs used in the Suppression module. \newline * optional parameters. \relax }}{39}{table.caption.15}
+\addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
