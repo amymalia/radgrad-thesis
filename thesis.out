@@ -8,51 +8,47 @@
 \BOOKMARK [2][-]{subsection.2.1.4}{Blackboard Planner}{section.2.1}% 8
 \BOOKMARK [2][-]{subsection.2.1.5}{Coursicle}{section.2.1}% 9
 \BOOKMARK [2][-]{subsection.2.1.6}{Individual Student Software and Academic Engagement}{section.2.1}% 10
-\BOOKMARK [2][-]{subsection.2.1.7}{Degree Planners and RadGrad}{section.2.1}% 11
-\BOOKMARK [1][-]{section.2.2}{Social Network}{chapter.2}% 12
-\BOOKMARK [2][-]{subsection.2.2.1}{LinkedIn}{section.2.2}% 13
-\BOOKMARK [2][-]{subsection.2.2.2}{TechHui}{section.2.2}% 14
-\BOOKMARK [2][-]{subsection.2.2.3}{Rate My Professor}{section.2.2}% 15
-\BOOKMARK [2][-]{subsection.2.2.4}{Other Popular Social Networks and Social Engagement}{section.2.2}% 16
-\BOOKMARK [2][-]{subsection.2.2.5}{Social Networks and RadGrad}{section.2.2}% 17
-\BOOKMARK [1][-]{section.2.3}{Gamification}{chapter.2}% 18
-\BOOKMARK [2][-]{subsection.2.3.1}{Summoners War}{section.2.3}% 19
-\BOOKMARK [2][-]{subsection.2.3.2}{League Of Legends}{section.2.3}% 20
-\BOOKMARK [2][-]{subsection.2.3.3}{Hearthstone}{section.2.3}% 21
-\BOOKMARK [2][-]{subsection.2.3.4}{Overwatch}{section.2.3}% 22
-\BOOKMARK [2][-]{subsection.2.3.5}{Pokemon Go}{section.2.3}% 23
-\BOOKMARK [2][-]{subsection.2.3.6}{Gamification and RadGrad}{section.2.3}% 24
-\BOOKMARK [0][-]{chapter.3}{Description}{}% 25
-\BOOKMARK [1][-]{section.3.1}{Degree Planner}{chapter.3}% 26
-\BOOKMARK [2][-]{subsection.3.1.1}{Degree Plan}{section.3.1}% 27
-\BOOKMARK [2][-]{subsection.3.1.2}{Degree Goal}{section.3.1}% 28
-\BOOKMARK [2][-]{subsection.3.1.3}{Dashboard}{section.3.1}% 29
-\BOOKMARK [2][-]{subsection.3.1.4}{Predictions}{section.3.1}% 30
-\BOOKMARK [2][-]{subsection.3.1.5}{Recommendations}{section.3.1}% 31
-\BOOKMARK [2][-]{subsection.3.1.6}{STAR Interface}{section.3.1}% 32
-\BOOKMARK [2][-]{subsection.3.1.7}{Workload Adviser}{section.3.1}% 33
-\BOOKMARK [1][-]{section.3.2}{Social Network}{chapter.3}% 34
-\BOOKMARK [2][-]{subsection.3.2.1}{Profile}{section.3.2}% 35
-\BOOKMARK [2][-]{subsection.3.2.2}{Mentorship}{section.3.2}% 36
-\BOOKMARK [2][-]{subsection.3.2.3}{Department Feedback}{section.3.2}% 37
-\BOOKMARK [2][-]{subsection.3.2.4}{Course Feedback}{section.3.2}% 38
-\BOOKMARK [2][-]{subsection.3.2.5}{Degree Feedback}{section.3.2}% 39
-\BOOKMARK [2][-]{subsection.3.2.6}{Feedback and User Evaluation}{section.3.2}% 40
-\BOOKMARK [2][-]{subsection.3.2.7}{Billboard}{section.3.2}% 41
-\BOOKMARK [1][-]{section.3.3}{Gamification}{chapter.3}% 42
-\BOOKMARK [2][-]{subsection.3.3.1}{Stoplight}{section.3.3}% 43
-\BOOKMARK [2][-]{subsection.3.3.2}{Leaderboard}{section.3.3}% 44
-\BOOKMARK [2][-]{subsection.3.3.3}{ICE}{section.3.3}% 45
-\BOOKMARK [0][-]{chapter.4}{Design}{}% 46
-\BOOKMARK [1][-]{section.4.1}{Preliminary Assessment}{chapter.4}% 47
-\BOOKMARK [2][-]{subsection.4.1.1}{Basic Information}{section.4.1}% 48
-\BOOKMARK [2][-]{subsection.4.1.2}{Prospective ICS Students}{section.4.1}% 49
-\BOOKMARK [2][-]{subsection.4.1.3}{Prospective ICS Students: Feelings}{section.4.1}% 50
-\BOOKMARK [2][-]{subsection.4.1.4}{Current ICS Students}{section.4.1}% 51
-\BOOKMARK [2][-]{subsection.4.1.5}{Current ICS Students: Influences}{section.4.1}% 52
-\BOOKMARK [2][-]{subsection.4.1.6}{Graduating ICS Students}{section.4.1}% 53
-\BOOKMARK [1][-]{section.4.2}{Post-Deployment Assessment}{chapter.4}% 54
-\BOOKMARK [1][-]{section.4.3}{Comparison}{chapter.4}% 55
-\BOOKMARK [0][-]{chapter.5}{Milestones}{}% 56
-\BOOKMARK [0][-]{appendix.A}{Table of Notations}{}% 57
-\BOOKMARK [0][-]{appendix*.39}{Bibliography}{}% 58
+\BOOKMARK [1][-]{section.2.2}{Social Network}{chapter.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.1}{LinkedIn}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.2}{TechHui}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.3}{Rate My Professor}{section.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.4}{Other Popular Social Networks and Social Engagement}{section.2.2}% 15
+\BOOKMARK [1][-]{section.2.3}{Gamification}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.3.1}{Summoners War}{section.2.3}% 17
+\BOOKMARK [2][-]{subsection.2.3.2}{League Of Legends}{section.2.3}% 18
+\BOOKMARK [2][-]{subsection.2.3.3}{Hearthstone}{section.2.3}% 19
+\BOOKMARK [2][-]{subsection.2.3.4}{Overwatch}{section.2.3}% 20
+\BOOKMARK [2][-]{subsection.2.3.5}{Pokemon Go}{section.2.3}% 21
+\BOOKMARK [2][-]{subsection.2.3.6}{Gamification and RadGrad}{section.2.3}% 22
+\BOOKMARK [0][-]{chapter.3}{Description}{}% 23
+\BOOKMARK [1][-]{section.3.1}{Degree Planner}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.1.1}{Degree Plan}{section.3.1}% 25
+\BOOKMARK [2][-]{subsection.3.1.2}{Degree Goal}{section.3.1}% 26
+\BOOKMARK [2][-]{subsection.3.1.3}{Dashboard}{section.3.1}% 27
+\BOOKMARK [2][-]{subsection.3.1.4}{Predictions}{section.3.1}% 28
+\BOOKMARK [2][-]{subsection.3.1.5}{Recommendations}{section.3.1}% 29
+\BOOKMARK [2][-]{subsection.3.1.6}{STAR Interface}{section.3.1}% 30
+\BOOKMARK [2][-]{subsection.3.1.7}{Workload Adviser}{section.3.1}% 31
+\BOOKMARK [1][-]{section.3.2}{Social Network}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.2.1}{Profile}{section.3.2}% 33
+\BOOKMARK [2][-]{subsection.3.2.2}{Mentorship}{section.3.2}% 34
+\BOOKMARK [2][-]{subsection.3.2.3}{Department Feedback}{section.3.2}% 35
+\BOOKMARK [2][-]{subsection.3.2.4}{Course Feedback}{section.3.2}% 36
+\BOOKMARK [2][-]{subsection.3.2.5}{Degree Feedback}{section.3.2}% 37
+\BOOKMARK [2][-]{subsection.3.2.6}{Feedback and User Evaluation}{section.3.2}% 38
+\BOOKMARK [2][-]{subsection.3.2.7}{Billboard}{section.3.2}% 39
+\BOOKMARK [1][-]{section.3.3}{Gamification}{chapter.3}% 40
+\BOOKMARK [2][-]{subsection.3.3.1}{Stoplight}{section.3.3}% 41
+\BOOKMARK [2][-]{subsection.3.3.2}{Leaderboard}{section.3.3}% 42
+\BOOKMARK [2][-]{subsection.3.3.3}{ICE}{section.3.3}% 43
+\BOOKMARK [0][-]{chapter.4}{Design}{}% 44
+\BOOKMARK [1][-]{section.4.1}{Preliminary Assessment}{chapter.4}% 45
+\BOOKMARK [2][-]{subsection.4.1.1}{Basic Information}{section.4.1}% 46
+\BOOKMARK [2][-]{subsection.4.1.2}{Prospective ICS Students}{section.4.1}% 47
+\BOOKMARK [2][-]{subsection.4.1.3}{Prospective ICS Students: Feelings}{section.4.1}% 48
+\BOOKMARK [2][-]{subsection.4.1.4}{Current ICS Students}{section.4.1}% 49
+\BOOKMARK [2][-]{subsection.4.1.5}{Current ICS Students: Influences}{section.4.1}% 50
+\BOOKMARK [2][-]{subsection.4.1.6}{Graduating ICS Students}{section.4.1}% 51
+\BOOKMARK [1][-]{section.4.2}{Post-Deployment Assessment}{chapter.4}% 52
+\BOOKMARK [1][-]{section.4.3}{Comparison}{chapter.4}% 53
+\BOOKMARK [0][-]{chapter.5}{Milestones}{}% 54
