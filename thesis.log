@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 OCT 2016 14:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=latex 2016.5.22)  11 OCT 2016 14:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -121,18 +121,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 96.
+Package graphics Info: Driver file: dvips.def on input line 96.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count93
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
 ))
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
@@ -147,8 +139,8 @@ Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package hobsub Info: Skipping package `ifvtex' (already loaded).
@@ -166,7 +158,7 @@ Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
@@ -190,13 +182,13 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen113
-\Hy@linkcounter=\count94
-\Hy@pagecounter=\count95
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count96
+\Hy@SavedSpaceFactor=\count95
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -208,7 +200,7 @@ Package hyperref Info: Plain pages OFF on input line 4461.
 Package hyperref Info: Backreferencing OFF on input line 4466.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4691.
-\c@Hy@tempcnt=\count97
+\c@Hy@tempcnt=\count96
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
@@ -216,7 +208,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5044.
 \XeTeXLinkMargin=\dimen114
-\Fld@menulength=\count98
+\Fld@menulength=\count97
 \Field@Width=\dimen115
 \Fld@charsize=\dimen116
 Package hyperref Info: Hyper figures OFF on input line 6298.
@@ -228,15 +220,23 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6323.
 Package hyperref Info: PDF/A mode OFF on input line 6328.
 LaTeX Info: Redefining \ref on input line 6368.
 LaTeX Info: Redefining \pageref on input line 6372.
-\Hy@abspage=\count99
-\c@Item=\count100
-\c@Hfootnote=\count101
+\Hy@abspage=\count98
+\c@Item=\count99
+\c@Hfootnote=\count100
 )
 
-Package hyperref Message: Driver (autodetected): hpdftex.
+Package hyperref Message: Driver (default): hdvips.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2016/05/05 v6.83n Hyperref driver for dvips
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2016/05/05 v6.83n Hyperref definitions for pdfmark specials
+\pdf@docset=\toks16
+\pdf@box=\box26
+\pdf@toks=\toks17
+\pdf@defaulttoks=\toks18
+\HyField@AnnotCount=\count101
 \Fld@listcount=\count102
 \c@bookmark@seq@number=\count103
 
@@ -246,18 +246,18 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip77
-)
+))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks16
-\verbatim@line=\toks17
+\every@verbatim=\toks19
+\verbatim@line=\toks20
 \verbatim@in@stream=\read1
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen117
 \extrarowheight=\dimen118
-\NC@list=\toks18
+\NC@list=\toks21
 \extratabsurround=\skip78
 \backup@length=\skip79
 )
@@ -269,7 +269,7 @@ Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 \TX@target=\dimen122
 \TX@delta=\dimen123
 \TX@cols=\count104
-\TX@ftn=\toks19
+\TX@ftn=\toks22
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
@@ -294,8 +294,8 @@ Package caption Info: hyperref package is loaded.
 \c@subfigure=\count106
 \c@subtable=\count107
 )
-(./thesis.aux (./introduction.aux) (./related-work.aux) (./description.aux)
-(./design.aux) (./milestones.aux))
+(./thesis.aux (./abstract.aux) (./introduction.aux) (./related-work.aux)
+(./description.aux) (./design.aux) (./milestones.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
@@ -314,9 +314,9 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
 LaTeX Font Info:    ... okay on input line 81.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: dvips
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -347,44 +347,15 @@ LaTeX Font Info:    ... okay on input line 81.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count108
-\scratchdimen=\dimen131
-\scratchbox=\box26
-\nofMPsegments=\count109
-\nofMParguments=\count110
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count111
-\MPscratchDim=\dimen132
-\MPnumerator=\count112
-\makeMPintoPDFobject=\count113
-\everyMPtoPDFconversion=\toks21
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-)
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 \AtBeginShipoutBox=\box27
 Package hyperref Info: Link coloring OFF on input line 81.
-
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count114
+\c@section@level=\count108
 )
 LaTeX Info: Redefining \ref on input line 81.
 LaTeX Info: Redefining \pageref on input line 81.
@@ -398,7 +369,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  [1
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 90.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
@@ -423,7 +394,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
- [4
+
+Overfull \hbox (3.62018pt too wide) in paragraph at lines 52--52
+ [][] [] []  
+ []
+
+[4
 
 
 
@@ -436,12 +412,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  (./introduction.tex
 Chapter 1.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.21 
-      [1
+[1
 
 
 
@@ -450,140 +421,206 @@ l.21
 
  (./related-work.tex
 Chapter 2.
-<images/star_home.png, id=321, 1249.66875pt x 660.4675pt>
-File: images/star_home.png Graphic file (type png)
 
-<use images/star_home.png>
-Package pdftex.def Info: images/star_home.png used on input line 7.
-(pdftex.def)             Requested size: 469.75502pt x 248.26929pt.
+! LaTeX Error: File `star_home' not found.
 
-<images/star_edgoals.png, id=323, 1251.67625pt x 663.47874pt>
-File: images/star_edgoals.png Graphic file (type png)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...udegraphics[width=1.0\textwidth]{star_home}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use images/star_edgoals.png>
-Package pdftex.def Info: images/star_edgoals.png used on input line 15.
-(pdftex.def)             Requested size: 469.75502pt x 249.0064pt.
+
+! LaTeX Error: File `star_edgoals' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...raphics[width=1.0\textwidth]{star_edgoals}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+! LaTeX Error: File `star_pathway' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...raphics[width=1.0\textwidth]{star_pathway}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 [3
 
 
 
- <./images/star_home.png>]
-<images/star_pathway.png, id=332, 1927.2pt x 942.52126pt>
-File: images/star_pathway.png Graphic file (type png)
+]
 
-<use images/star_pathway.png>
-Package pdftex.def Info: images/star_pathway.png used on input line 23.
-(pdftex.def)             Requested size: 469.75502pt x 229.73323pt.
+! LaTeX Error: File `star_whatif' not found.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/star_whatif.png, id=333, 1917.1625pt x 936.49875pt>
-File: images/star_whatif.png Graphic file (type png)
-
-<use images/star_whatif.png>
-Package pdftex.def Info: images/star_whatif.png used on input line 32.
-(pdftex.def)             Requested size: 469.75502pt x 229.46564pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 ...graphics[width=1.0\textwidth]{star_whatif}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+! LaTeX Error: File `star_trans' not found.
 
-[4 <./images/star_edgoals.png>]
-<images/star_trans.png, id=342, 1253.68375pt x 661.47125pt>
-File: images/star_trans.png Graphic file (type png)
-
-<use images/star_trans.png>
-Package pdftex.def Info: images/star_trans.png used on input line 41.
-(pdftex.def)             Requested size: 469.75502pt x 247.84924pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/star_scholar2.png, id=343, 1250.6725pt x 661.47125pt>
-File: images/star_scholar2.png Graphic file (type png)
-
-<use images/star_scholar2.png>
-Package pdftex.def Info: images/star_scholar2.png used on input line 49.
-(pdftex.def)             Requested size: 469.75502pt x 248.44475pt.
-
-<images/star_scholar3.png, id=344, 1252.68pt x 661.47125pt>
-File: images/star_scholar3.png Graphic file (type png)
-
-<use images/star_scholar3.png>
-Package pdftex.def Info: images/star_scholar3.png used on input line 54.
-(pdftex.def)             Requested size: 469.75502pt x 248.0511pt.
-
-<images/star_scholar4.png, id=345, 1251.67625pt x 660.4675pt>
-File: images/star_scholar4.png Graphic file (type png)
-
-<use images/star_scholar4.png>
-Package pdftex.def Info: images/star_scholar4.png used on input line 59.
-(pdftex.def)             Requested size: 469.75502pt x 247.87625pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...egraphics[width=1.0\textwidth]{star_trans}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+! LaTeX Error: File `star_scholar2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 ...aphics[width=1.0\textwidth]{star_scholar2}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+! LaTeX Error: File `star_scholar3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 ...aphics[width=1.0\textwidth]{star_scholar3}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+! LaTeX Error: File `star_scholar4' not found.
 
-[5 <./images/star_pathway.png>]
-<images/starfish_connect.png, id=356, 904.37875pt x 514.92375pt>
-File: images/starfish_connect.png Graphic file (type png)
-
-<use images/starfish_connect.png>
-Package pdftex.def Info: images/starfish_connect.png used on input line 71.
-(pdftex.def)             Requested size: 469.75502pt x 267.46332pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./images/star_whatif.png>] [7 <./images/star_trans.png>] [8 <./images/star_
-scholar2.png>] <images/college_sched_sp.png, id=380, 564.1075pt x 345.29pt>
-File: images/college_sched_sp.png Graphic file (type png)
-
-<use images/college_sched_sp.png>
-Package pdftex.def Info: images/college_sched_sp.png used on input line 91.
-(pdftex.def)             Requested size: 469.75502pt x 287.53897pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ...aphics[width=1.0\textwidth]{star_scholar4}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/college_sched_pp.png, id=381, 551.05875pt x 284.06125pt>
-File: images/college_sched_pp.png Graphic file (type png)
 
-<use images/college_sched_pp.png>
-Package pdftex.def Info: images/college_sched_pp.png used on input line 101.
-(pdftex.def)             Requested size: 469.75502pt x 242.15968pt.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4]
+
+! LaTeX Error: File `starfish_connect' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 ...ics[width=1.0\textwidth]{starfish_connect}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[5]
+
+! LaTeX Error: File `college_sched_sp' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...ics[width=1.0\textwidth]{college_sched_sp}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <./images/star_scholar3.png>]
-<images/blackboard_students.png, id=390, 838.13126pt x 503.8825pt>
-File: images/blackboard_students.png Graphic file (type png)
+[6]
 
-<use images/blackboard_students.png>
-Package pdftex.def Info: images/blackboard_students.png used on input line 113.
+! LaTeX Error: File `college_sched_pp' not found.
 
-(pdftex.def)             Requested size: 469.75502pt x 282.41061pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 ...cs[width=1.0\textwidth]{college_sched_pp}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+! LaTeX Error: File `blackboard_students' not found.
 
-[10 <./images/star_scholar4.png>]
-<images/blackboard_adviser.png, id=398, 874.26625pt x 509.905pt>
-File: images/blackboard_adviser.png Graphic file (type png)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 ...width=1.0\textwidth]{blackboard_students}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use images/blackboard_adviser.png>
-Package pdftex.def Info: images/blackboard_adviser.png used on input line 127.
-(pdftex.def)             Requested size: 469.75502pt x 273.983pt.
+[7]
+
+! LaTeX Error: File `blackboard_adviser' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.127 ...[width=1.0\textwidth]{blackboard_adviser}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 128--128
 []\OT1/cmr/m/n/10.95 Figure 2.13: |Ex-am-ple ad-viser view of Black-board Plan-
@@ -591,15 +628,19 @@ ner. \OT1/cmr/m/it/10.95 Source:
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+! LaTeX Error: File `coursicle' not found.
 
-[11 <./images/starfish_connect.png>]
-<images/coursicle.png, id=408, 1203.49625pt x 692.5875pt>
-File: images/coursicle.png Graphic file (type png)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ...egraphics[width=1.0\textwidth]{coursicle}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use images/coursicle.png>
-Package pdftex.def Info: images/coursicle.png used on input line 139.
-(pdftex.def)             Requested size: 469.75502pt x 270.32996pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 140--140
 []\OT1/cmr/m/n/10.95 Figure 2.14: |The Cour-si-cle page for the Uni-ver-sity of
@@ -609,37 +650,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--140
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12 <./images/college_sched_sp.png>] [13 <./images/college_sched_pp.png>]
-<images/linkedin_home.png, id=424, 1201.48875pt x 692.5875pt>
-File: images/linkedin_home.png Graphic file (type png)
+[8]
 
-<use images/linkedin_home.png>
-Package pdftex.def Info: images/linkedin_home.png used on input line 157.
-(pdftex.def)             Requested size: 469.75502pt x 270.78438pt.
+! LaTeX Error: File `linkedin_home' not found.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/linkedin_profile.png, id=425, 1201.48875pt x 695.59875pt>
-File: images/linkedin_profile.png Graphic file (type png)
-
-<use images/linkedin_profile.png>
-Package pdftex.def Info: images/linkedin_profile.png used on input line 166.
-(pdftex.def)             Requested size: 469.75502pt x 271.96172pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 ...phics[width=1.0\textwidth]{linkedin_home}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14 <./images/blackboard_students.png>]
-<images/linkedin_network.png, id=433, 1197.47375pt x 693.59125pt>
-File: images/linkedin_network.png Graphic file (type png)
+[9]
 
-<use images/linkedin_network.png>
-Package pdftex.def Info: images/linkedin_network.png used on input line 174.
-(pdftex.def)             Requested size: 469.75502pt x 272.08699pt.
+! LaTeX Error: File `linkedin_profile' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.166 ...cs[width=1.0\textwidth]{linkedin_profile}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+! LaTeX Error: File `linkedin_network' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.174 ...cs[width=1.0\textwidth]{linkedin_network}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (5.47433pt too wide) in paragraph at lines 178--179
@@ -647,147 +703,244 @@ Overfull \hbox (5.47433pt too wide) in paragraph at lines 178--179
 ended con-nec-tions, con-nec-tions added through
  []
 
-<images/linkedin_learning.png, id=434, 1201.48875pt x 694.595pt>
-File: images/linkedin_learning.png Graphic file (type png)
 
-<use images/linkedin_learning.png>
-Package pdftex.def Info: images/linkedin_learning.png used on input line 182.
-(pdftex.def)             Requested size: 469.75502pt x 271.56927pt.
+! LaTeX Error: File `linkedin_learning' not found.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/linkedin_jobs.png, id=435, 1202.4925pt x 693.59125pt>
-File: images/linkedin_jobs.png Graphic file (type png)
-
-<use images/linkedin_jobs.png>
-Package pdftex.def Info: images/linkedin_jobs.png used on input line 190.
-(pdftex.def)             Requested size: 469.75502pt x 270.95457pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 ...s[width=1.0\textwidth]{linkedin_learning}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15 <./images/blackboard_adviser.png>]
-<images/linkedin_companies.png, id=445, 1201.48875pt x 696.6025pt>
-File: images/linkedin_companies.png Graphic file (type png)
 
-<use images/linkedin_companies.png>
-Package pdftex.def Info: images/linkedin_companies.png used on input line 198.
-(pdftex.def)             Requested size: 469.75502pt x 272.35416pt.
+! LaTeX Error: File `linkedin_jobs' not found.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[16 <./images/coursicle.png>]
-<images/techhui_profile.png, id=455, 1201.48875pt x 693.59125pt>
-File: images/techhui_profile.png Graphic file (type png)
-
-<use images/techhui_profile.png>
-Package pdftex.def Info: images/techhui_profile.png used on input line 212.
-(pdftex.def)             Requested size: 469.75502pt x 271.17683pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...phics[width=1.0\textwidth]{linkedin_jobs}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/techhui_members.png, id=456, 1200.485pt x 695.59875pt>
-File: images/techhui_members.png Graphic file (type png)
 
-<use images/techhui_members.png>
-Package pdftex.def Info: images/techhui_members.png used on input line 220.
-(pdftex.def)             Requested size: 469.75502pt x 272.18462pt.
+! LaTeX Error: File `linkedin_companies' not found.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/techhui_events.png, id=457, 1200.485pt x 692.5875pt>
-File: images/techhui_events.png Graphic file (type png)
-
-<use images/techhui_events.png>
-Package pdftex.def Info: images/techhui_events.png used on input line 228.
-(pdftex.def)             Requested size: 469.75502pt x 271.00632pt.
- [17 <./images/linkedin_home.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/techhui_forum.png, id=466, 1200.485pt x 695.59875pt>
-File: images/techhui_forum.png Graphic file (type png)
-
-<use images/techhui_forum.png>
-Package pdftex.def Info: images/techhui_forum.png used on input line 236.
-(pdftex.def)             Requested size: 469.75502pt x 272.18462pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.198 ...[width=1.0\textwidth]{linkedin_companies}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/techhui_groups.png, id=467, 1200.485pt x 693.59125pt>
-File: images/techhui_groups.png Graphic file (type png)
+[10]
 
-<use images/techhui_groups.png>
-Package pdftex.def Info: images/techhui_groups.png used on input line 244.
-(pdftex.def)             Requested size: 469.75502pt x 271.39908pt.
+! LaTeX Error: File `techhui_profile' not found.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[18 <./images/linkedin_profile.png>]
-<images/techhui_photos.png, id=477, 1199.48125pt x 693.59125pt>
-File: images/techhui_photos.png Graphic file (type png)
-
-<use images/techhui_photos.png>
-Package pdftex.def Info: images/techhui_photos.png used on input line 252.
-(pdftex.def)             Requested size: 469.75502pt x 271.63191pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...ics[width=1.0\textwidth]{techhui_profile}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/techhui_videos.png, id=478, 1199.48125pt x 699.61375pt>
-File: images/techhui_videos.png Graphic file (type png)
 
-<use images/techhui_videos.png>
-Package pdftex.def Info: images/techhui_videos.png used on input line 260.
-(pdftex.def)             Requested size: 469.75502pt x 273.99051pt.
+! LaTeX Error: File `techhui_members' not found.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/techhui_blogs.png, id=479, 1201.48875pt x 696.6025pt>
-File: images/techhui_blogs.png Graphic file (type png)
-
-<use images/techhui_blogs.png>
-Package pdftex.def Info: images/techhui_blogs.png used on input line 268.
-(pdftex.def)             Requested size: 469.75502pt x 272.35416pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 ...ics[width=1.0\textwidth]{techhui_members}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19 <./images/linkedin_network.png>]
-<images/techhui_directory.png, id=490, 1201.48875pt x 695.59875pt>
-File: images/techhui_directory.png Graphic file (type png)
 
-<use images/techhui_directory.png>
-Package pdftex.def Info: images/techhui_directory.png used on input line 276.
-(pdftex.def)             Requested size: 469.75502pt x 271.96172pt.
+! LaTeX Error: File `techhui_events' not found.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/techhui_coders.png, id=491, 1202.4925pt x 694.595pt>
-File: images/techhui_coders.png Graphic file (type png)
-
-<use images/techhui_coders.png>
-Package pdftex.def Info: images/techhui_coders.png used on input line 284.
-(pdftex.def)             Requested size: 469.75502pt x 271.3467pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.228 ...hics[width=1.0\textwidth]{techhui_events}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <./images/linkedin_learning.png>]
-<images/ratemyprofessor.png, id=502, 1203.49625pt x 695.59875pt>
-File: images/ratemyprofessor.png Graphic file (type png)
+[11]
 
-<use images/ratemyprofessor.png>
-Package pdftex.def Info: images/ratemyprofessor.png used on input line 295.
-(pdftex.def)             Requested size: 469.75502pt x 271.50531pt.
+! LaTeX Error: File `techhui_forum' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.236 ...phics[width=1.0\textwidth]{techhui_forum}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: File `techhui_groups' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.244 ...hics[width=1.0\textwidth]{techhui_groups}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: File `techhui_photos' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.252 ...hics[width=1.0\textwidth]{techhui_photos}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: File `techhui_videos' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 ...hics[width=1.0\textwidth]{techhui_videos}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: File `techhui_blogs' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.268 ...phics[width=1.0\textwidth]{techhui_blogs}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12]
+
+! LaTeX Error: File `techhui_directory' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.276 ...s[width=1.0\textwidth]{techhui_directory}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: File `techhui_coders' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 ...hics[width=1.0\textwidth]{techhui_coders}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: File `ratemyprofessor' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.295 ...ics[width=1.0\textwidth]{ratemyprofessor}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 296--296
 []\OT1/cmr/m/n/10.95 Figure 2.31: |Ex-am-ple Rate My Pro-fes-sor page for UH Ma
@@ -797,135 +950,246 @@ noa. \OT1/cmr/m/it/10.95 Source:
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21 <./images/linkedin_jobs.png>] [22 <./images/linkedin_companies.png>]
+[13]
 Overfull \hbox (7.03627pt too wide) in paragraph at lines 308--334
 [] 
  []
 
-<images/sw.png, id=516, 1103.12125pt x 663.47874pt>
-File: images/sw.png Graphic file (type png)
- <use images/sw.png>
-Package pdftex.def Info: images/sw.png used on input line 337.
-(pdftex.def)             Requested size: 469.75502pt x 282.5366pt.
+[14]
 
-[23 <./images/techhui_profile.png>]
+! LaTeX Error: File `sw' not found.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[24 <./images/techhui_members.png>] [25 <./images/techhui_events.png>]
-<images/lol.png, id=536, 1171.37625pt x 659.46375pt>
-File: images/lol.png Graphic file (type png)
- <use images/lol.png>
-Package pdftex.def Info: images/lol.png used on input line 349.
-(pdftex.def)             Requested size: 469.75502pt x 264.46507pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.337 \includegraphics[width=1.0\textwidth]{sw}
+                                               
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26 <./images/techhui_forum.png>]
-<images/hearthstone.png, id=543, 1171.37625pt x 659.46375pt>
-File: images/hearthstone.png Graphic file (type png)
+[15]
 
-<use images/hearthstone.png>
-Package pdftex.def Info: images/hearthstone.png used on input line 360.
-(pdftex.def)             Requested size: 469.75502pt x 264.46507pt.
+! LaTeX Error: File `lol' not found.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[27 <./images/techhui_groups.png>]
-<images/overwatch.png, id=550, 1176.395pt x 661.47125pt>
-File: images/overwatch.png Graphic file (type png)
-
-<use images/overwatch.png>
-Package pdftex.def Info: images/overwatch.png used on input line 368.
-(pdftex.def)             Requested size: 469.75502pt x 264.13971pt.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.349 \includegraphics[width=1.0\textwidth]{lol}
+                                                
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28 <./images/techhui_photos.png>]
-<images/pokemon.png, id=557, 1174.3875pt x 661.47125pt>
-File: images/pokemon.png Graphic file (type png)
+[16]
 
-<use images/pokemon.png>
-Package pdftex.def Info: images/pokemon.png used on input line 378.
-(pdftex.def)             Requested size: 469.75502pt x 264.58382pt.
+! LaTeX Error: File `hearthstone' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.360 ...raphics[width=1.0\textwidth]{hearthstone}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[29 <./images/techhui_videos.png>] [30 <./images/techhui_blogs.png>] [31 <./ima
-ges/techhui_directory.png>]) [32 <./images/techhui_coders.png>] [33 <./images/r
-atemyprofessor.png>] [34 <./images/sw.png> <./images/lol.png>] [35 <./images/he
-arthstone.png> <./images/overwatch.png>] [36 <./images/pokemon.png>]
+
+! LaTeX Error: File `overwatch' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.368 ...egraphics[width=1.0\textwidth]{overwatch}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17]
+
+! LaTeX Error: File `pokemon' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.378 ...udegraphics[width=1.0\textwidth]{pokemon}
+                                                  
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18]) [19] [20]
 \openout2 = `description.aux'.
 
-
-(./description.tex
+ (./description.tex
 Chapter 3.
-[37
+[21
 
 
 
-] [38] [39] [40]) [41]
+] [22] [23] [24]) [25]
 \openout2 = `design.aux'.
 
  (./design.tex
 Chapter 4.
-[42
+[26
 
 
 
-] [43]
+] [27]
 Missing character: There is no â in font cmti10!
 Missing character: There is no € in font cmti10!
 Missing character: There is no ™ in font cmti10!
- [44]) [45]
+ [28]) [29]
 \openout2 = `milestones.aux'.
 
  (./milestones.tex
 Chapter 5.
-) [46
+) [30
 
+
+
+] (./thesis.bbl
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+[]\OT1/cmr/m/n/10.95 Perry Bar-boza.  In-no-va-tive tech-nol-ogy/lab sup-port p
+ro-posal on-line form.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+[][][][]\OT1/cmr/m/n/10.95 , 2014.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--31
+[]\OT1/cmr/m/n/10.95 Gregory Burgess, Mar-tin Ped-er-sen, and Kevin Weng.  Mand
+e.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--37
+[]\OT1/cmr/m/n/10.95 Gregory Burgess, Mar-tin Ped-er-sen, and Kevin Weng.  Mand
+e wiki.
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 33--37
+[][][][]\OT1/cmr/m/n/10.95 , 2013-2016.  [On-line; ac-cessed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
+[]\OT1/cmr/m/n/10.95 Rey Farve.  Tech-nol-ogy and de-vel-op-ment at the usda fo
+r-est ser-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
+\OT1/cmr/m/n/10.95 vice, satel-lite/gps teleme-try for mon-i-tor-ing lesser pra
+irie chick-ens.
+ []
+
+
+Overfull \hbox (79.4256pt too wide) in paragraph at lines 39--45
+[][][][]\OT1/cmr/m/n/10.95 .
+ []
+
+
+Overfull \hbox (70.94872pt too wide) in paragraph at lines 65--69
+[]\OT1/cmr/m/n/10.95 Telonics Inc.  Vhf sys-tems for fish (fis).  [][][][].
+ []
+
+[31
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 85--90
+[]\OT1/cmr/m/n/10.95 James Mc-Neill.  Playtechs: Pro-gram-ming for fun: Ray-tra
+c-ing on a grid.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--90
+[][][][]\OT1/cmr/m/n/10.95 , March 2007.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--104
+[]\OT1/cmr/m/n/10.95 Martin W. Ped-er-sen and Kevin C. Weng.  A state-space mod
+el for es-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--104
+\OT1/cmr/m/n/10.95 ti-mat-ing de-tailed move-ments and home range from acous-ti
+c re-ceiver data.
+ []
+
+
+Overfull \hbox (577.06406pt too wide) in paragraph at lines 97--104
+[][][][]\OT1/cmr/m/n/10.95 ,
+ []
+
+
+Overfull \hbox (138.34448pt too wide) in paragraph at lines 112--116
+[]\OT1/cmr/m/n/10.95 Collecte Lo-cal-i-sa-tion Satel-lites.  How ar-gos works. 
+ [][][][].
+ []
+
+
+Overfull \hbox (156.57083pt too wide) in paragraph at lines 130--136
+[]\OT1/cmr/m/n/10.95 Wikipedia.  An-i-mal mi-gra-tion track-ing.  [][][][],
+ []
+
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
+ [32]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
  (./thesis.aux (./abstract.aux) (./introduction.aux) (./related-work.aux) (./de
 scription.aux) (./design.aux) (./milestones.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 136.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
-
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: CB320450B547146AA84B5AA2CDF8FF28;3636
-(rerunfilecheck)             After:  2371C6DE6B214F86EBC26178FC63D132;3681.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: C5C3FB76DBD7AE8AE300C8CA659B763E;3731.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
  ) 
 Here is how much of TeX's memory you used:
- 7669 strings out of 493014
- 119457 string characters out of 6133351
- 218602 words of memory out of 5000000
- 10865 multiletter control sequences out of 15000+600000
- 8500 words of font info for 30 fonts, out of 8000000 for 9000
+ 6941 strings out of 493015
+ 106616 string characters out of 6133377
+ 216712 words of memory out of 5000000
+ 10282 multiletter control sequences out of 15000+600000
+ 8668 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,8n,41p,1545b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on thesis.pdf (52 pages, 46713642 bytes).
-PDF statistics:
- 738 PDF objects out of 1000 (max. 8388607)
- 600 compressed objects within 6 object streams
- 207 named destinations out of 1000 (max. 500000)
- 605 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+Output written on thesis.dvi (38 pages, 182920 bytes).
