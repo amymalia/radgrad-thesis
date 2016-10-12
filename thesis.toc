@@ -1,3 +1,4 @@
+\contentsline {chapter}{Abstract}{iii}{chapter*.1}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {chapter}{\numberline {2}Related Work}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Degree Planners}{3}{section.2.1}
