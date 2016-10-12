@@ -5,88 +5,88 @@
 \contentsline {subsection}{\numberline {2.1.1}STAR}{3}{subsection.2.1.1}
 \contentsline {subsubsection}{\numberline {2.1.1.1}Academic Essentials}{3}{subsubsection.2.1.1.1}
 \contentsline {subsubsection}{\numberline {2.1.1.2}Graduation Pathway}{4}{subsubsection.2.1.1.2}
-\contentsline {subsubsection}{\numberline {2.1.1.3}What If Journey}{4}{subsubsection.2.1.1.3}
-\contentsline {subsubsection}{\numberline {2.1.1.4}Transcripts}{4}{subsubsection.2.1.1.4}
-\contentsline {subsubsection}{\numberline {2.1.1.5}Scholarships}{4}{subsubsection.2.1.1.5}
-\contentsline {subsubsection}{\numberline {2.1.1.6}STAR and Academic/Professional/Social Engagement}{4}{subsubsection.2.1.1.6}
-\contentsline {subsection}{\numberline {2.1.2}Starfish by Hobsons}{5}{subsection.2.1.2}
-\contentsline {subsubsection}{\numberline {2.1.2.1}Early Alert}{5}{subsubsection.2.1.2.1}
-\contentsline {subsubsection}{\numberline {2.1.2.2}Connect}{6}{subsubsection.2.1.2.2}
-\contentsline {subsubsection}{\numberline {2.1.2.3}Degree Planner}{6}{subsubsection.2.1.2.3}
-\contentsline {subsubsection}{\numberline {2.1.2.4}Starfish by Hobsons and Academic/Professional/Social Engagement}{6}{subsubsection.2.1.2.4}
-\contentsline {subsection}{\numberline {2.1.3}College Scheduler}{6}{subsection.2.1.3}
-\contentsline {subsubsection}{\numberline {2.1.3.1}Schedule Planner}{7}{subsubsection.2.1.3.1}
-\contentsline {subsubsection}{\numberline {2.1.3.2}Pathway Planner}{7}{subsubsection.2.1.3.2}
-\contentsline {subsubsection}{\numberline {2.1.3.3}College Scheduler and Academic/Professional/Social Engagement}{7}{subsubsection.2.1.3.3}
-\contentsline {subsection}{\numberline {2.1.4}Blackboard Planner}{8}{subsection.2.1.4}
-\contentsline {subsubsection}{\numberline {2.1.4.1}Improve Student Outcomes}{8}{subsubsection.2.1.4.1}
-\contentsline {subsubsection}{\numberline {2.1.4.2}Simplify Planning}{8}{subsubsection.2.1.4.2}
-\contentsline {subsubsection}{\numberline {2.1.4.3}Provide Better Support}{8}{subsubsection.2.1.4.3}
-\contentsline {subsubsection}{\numberline {2.1.4.4}Blackboard Planner and Academic/Professional/Social Engagement}{8}{subsubsection.2.1.4.4}
-\contentsline {subsection}{\numberline {2.1.5}Coursicle}{9}{subsection.2.1.5}
-\contentsline {subsubsection}{\numberline {2.1.5.1}Coursicle and Academic/Professional/Social Engagement}{9}{subsubsection.2.1.5.1}
-\contentsline {subsection}{\numberline {2.1.6}Individual Student Software and Academic/Professional/Social Engagement}{9}{subsection.2.1.6}
-\contentsline {section}{\numberline {2.2}Social Network}{9}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}LinkedIn}{9}{subsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.1.1}Home}{10}{subsubsection.2.2.1.1}
-\contentsline {subsubsection}{\numberline {2.2.1.2}Profile}{10}{subsubsection.2.2.1.2}
-\contentsline {subsubsection}{\numberline {2.2.1.3}My Network}{10}{subsubsection.2.2.1.3}
-\contentsline {subsubsection}{\numberline {2.2.1.4}Learning}{10}{subsubsection.2.2.1.4}
-\contentsline {subsubsection}{\numberline {2.2.1.5}Jobs}{10}{subsubsection.2.2.1.5}
-\contentsline {subsubsection}{\numberline {2.2.1.6}Interests}{11}{subsubsection.2.2.1.6}
-\contentsline {subsubsection}{\numberline {2.2.1.7}LinkedIn and Academic/Professional/Social Engagement}{11}{subsubsection.2.2.1.7}
-\contentsline {subsection}{\numberline {2.2.2}TechHui}{11}{subsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.2.1}Profile}{11}{subsubsection.2.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2.2}Members}{11}{subsubsection.2.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.2.3}Events}{12}{subsubsection.2.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.2.4}Forum}{12}{subsubsection.2.2.2.4}
-\contentsline {subsubsection}{\numberline {2.2.2.5}Groups}{12}{subsubsection.2.2.2.5}
-\contentsline {subsubsection}{\numberline {2.2.2.6}Photos}{12}{subsubsection.2.2.2.6}
-\contentsline {subsubsection}{\numberline {2.2.2.7}Videos}{12}{subsubsection.2.2.2.7}
-\contentsline {subsubsection}{\numberline {2.2.2.8}Blogs}{13}{subsubsection.2.2.2.8}
-\contentsline {subsubsection}{\numberline {2.2.2.9}Directory}{13}{subsubsection.2.2.2.9}
-\contentsline {subsubsection}{\numberline {2.2.2.10}Coders}{13}{subsubsection.2.2.2.10}
-\contentsline {subsubsection}{\numberline {2.2.2.11}TechHui and Academic/Professional/Social Engagement}{13}{subsubsection.2.2.2.11}
-\contentsline {subsection}{\numberline {2.2.3}Rate My Professor}{13}{subsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.3.1}Rate My Professor and Academic/Professional/Social Engagement}{14}{subsubsection.2.2.3.1}
-\contentsline {subsection}{\numberline {2.2.4}Other Popular Social Networks and Academic/Professional/Social Engagement}{14}{subsection.2.2.4}
-\contentsline {section}{\numberline {2.3}Gamification}{14}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Summoners War}{15}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}League Of Legends}{16}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Hearthstone}{17}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Overwatch}{17}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Pokemon Go}{18}{subsection.2.3.5}
-\contentsline {subsection}{\numberline {2.3.6}Gamification and Academic/Professional/Social}{19}{subsection.2.3.6}
-\contentsline {chapter}{\numberline {3}RadGrad System Requirements}{21}{chapter.3}
-\contentsline {section}{\numberline {3.1}Degree Planner}{21}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Degree Plan}{21}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Degree Goal}{21}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Dashboard}{21}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Predictions}{21}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}Recommendations}{22}{subsection.3.1.5}
-\contentsline {subsection}{\numberline {3.1.6}STAR Interface}{22}{subsection.3.1.6}
-\contentsline {subsection}{\numberline {3.1.7}Workload Adviser}{22}{subsection.3.1.7}
-\contentsline {section}{\numberline {3.2}Social Network}{22}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Profile}{22}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Mentorship}{23}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Department Feedback}{23}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Course Feedback}{23}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Degree Feedback}{23}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Feedback and User Evaluation}{24}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}Billboard}{24}{subsection.3.2.7}
-\contentsline {section}{\numberline {3.3}Gamification}{24}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Stoplight}{24}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Leaderboard}{25}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}ICE}{25}{subsection.3.3.3}
-\contentsline {chapter}{\numberline {4}Experimental Evaluation}{26}{chapter.4}
-\contentsline {section}{\numberline {4.1}Baseline Assessment}{26}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Basic Information}{26}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Prospective ICS Students}{26}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Prospective ICS Students: Feelings}{27}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Current ICS Students}{27}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Current ICS Students: Influences}{28}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Graduating ICS Students}{29}{subsection.4.1.6}
-\contentsline {section}{\numberline {4.2}Post-Deployment Assessment}{29}{section.4.2}
-\contentsline {section}{\numberline {4.3}Comparison}{29}{section.4.3}
-\contentsline {chapter}{\numberline {5}Thesis Timeline}{30}{chapter.5}
-\contentsline {chapter}{Bibliography}{31}{chapter*.39}
+\contentsline {subsubsection}{\numberline {2.1.1.3}What If Journey}{5}{subsubsection.2.1.1.3}
+\contentsline {subsubsection}{\numberline {2.1.1.4}Transcripts}{5}{subsubsection.2.1.1.4}
+\contentsline {subsubsection}{\numberline {2.1.1.5}Scholarships}{5}{subsubsection.2.1.1.5}
+\contentsline {subsubsection}{\numberline {2.1.1.6}STAR and Academic/Professional/Social Engagement}{5}{subsubsection.2.1.1.6}
+\contentsline {subsection}{\numberline {2.1.2}Starfish by Hobsons}{6}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.2.1}Early Alert}{7}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {2.1.2.2}Connect}{7}{subsubsection.2.1.2.2}
+\contentsline {subsubsection}{\numberline {2.1.2.3}Degree Planner}{8}{subsubsection.2.1.2.3}
+\contentsline {subsubsection}{\numberline {2.1.2.4}Starfish by Hobsons and Academic/Professional/Social Engagement}{8}{subsubsection.2.1.2.4}
+\contentsline {subsection}{\numberline {2.1.3}College Scheduler}{9}{subsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.3.1}Schedule Planner}{9}{subsubsection.2.1.3.1}
+\contentsline {subsubsection}{\numberline {2.1.3.2}Pathway Planner}{9}{subsubsection.2.1.3.2}
+\contentsline {subsubsection}{\numberline {2.1.3.3}College Scheduler and Academic/Professional/Social Engagement}{10}{subsubsection.2.1.3.3}
+\contentsline {subsection}{\numberline {2.1.4}Blackboard Planner}{10}{subsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.4.1}Improve Student Outcomes}{11}{subsubsection.2.1.4.1}
+\contentsline {subsubsection}{\numberline {2.1.4.2}Simplify Planning}{11}{subsubsection.2.1.4.2}
+\contentsline {subsubsection}{\numberline {2.1.4.3}Provide Better Support}{11}{subsubsection.2.1.4.3}
+\contentsline {subsubsection}{\numberline {2.1.4.4}Blackboard Planner and Academic/Professional/Social Engagement}{12}{subsubsection.2.1.4.4}
+\contentsline {subsection}{\numberline {2.1.5}Coursicle}{12}{subsection.2.1.5}
+\contentsline {subsubsection}{\numberline {2.1.5.1}Coursicle and Academic/Professional/Social Engagement}{13}{subsubsection.2.1.5.1}
+\contentsline {subsection}{\numberline {2.1.6}Individual Student Software and Academic/Professional/Social Engagement}{13}{subsection.2.1.6}
+\contentsline {section}{\numberline {2.2}Social Network}{14}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}LinkedIn}{14}{subsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Home}{14}{subsubsection.2.2.1.1}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Profile}{15}{subsubsection.2.2.1.2}
+\contentsline {subsubsection}{\numberline {2.2.1.3}My Network}{15}{subsubsection.2.2.1.3}
+\contentsline {subsubsection}{\numberline {2.2.1.4}Learning}{15}{subsubsection.2.2.1.4}
+\contentsline {subsubsection}{\numberline {2.2.1.5}Jobs}{16}{subsubsection.2.2.1.5}
+\contentsline {subsubsection}{\numberline {2.2.1.6}Interests}{16}{subsubsection.2.2.1.6}
+\contentsline {subsubsection}{\numberline {2.2.1.7}LinkedIn and Academic/Professional/Social Engagement}{16}{subsubsection.2.2.1.7}
+\contentsline {subsection}{\numberline {2.2.2}TechHui}{17}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Profile}{17}{subsubsection.2.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Members}{17}{subsubsection.2.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Events}{18}{subsubsection.2.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.2.4}Forum}{18}{subsubsection.2.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.2.5}Groups}{19}{subsubsection.2.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.2.6}Photos}{19}{subsubsection.2.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.2.7}Videos}{19}{subsubsection.2.2.2.7}
+\contentsline {subsubsection}{\numberline {2.2.2.8}Blogs}{20}{subsubsection.2.2.2.8}
+\contentsline {subsubsection}{\numberline {2.2.2.9}Directory}{20}{subsubsection.2.2.2.9}
+\contentsline {subsubsection}{\numberline {2.2.2.10}Coders}{20}{subsubsection.2.2.2.10}
+\contentsline {subsubsection}{\numberline {2.2.2.11}TechHui and Academic/Professional/Social Engagement}{20}{subsubsection.2.2.2.11}
+\contentsline {subsection}{\numberline {2.2.3}Rate My Professor}{21}{subsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Rate My Professor and Academic/Professional/Social Engagement}{22}{subsubsection.2.2.3.1}
+\contentsline {subsection}{\numberline {2.2.4}Other Popular Social Networks and Academic/Professional/Social Engagement}{22}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Gamification}{23}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Summoners War}{25}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}League Of Legends}{26}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Hearthstone}{27}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Overwatch}{28}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Pokemon Go}{30}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Gamification and Academic/Professional/Social}{31}{subsection.2.3.6}
+\contentsline {chapter}{\numberline {3}RadGrad System Requirements}{37}{chapter.3}
+\contentsline {section}{\numberline {3.1}Degree Planner}{37}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Degree Plan}{37}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Degree Goal}{37}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Dashboard}{37}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Predictions}{37}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Recommendations}{38}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}STAR Interface}{38}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {3.1.7}Workload Adviser}{38}{subsection.3.1.7}
+\contentsline {section}{\numberline {3.2}Social Network}{38}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Profile}{38}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Mentorship}{39}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Department Feedback}{39}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Course Feedback}{39}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Degree Feedback}{39}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Feedback and User Evaluation}{40}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Billboard}{40}{subsection.3.2.7}
+\contentsline {section}{\numberline {3.3}Gamification}{40}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Stoplight}{40}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Leaderboard}{41}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}ICE}{41}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4}Experimental Evaluation}{42}{chapter.4}
+\contentsline {section}{\numberline {4.1}Baseline Assessment}{42}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Basic Information}{42}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Prospective ICS Students}{42}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Prospective ICS Students: Feelings}{43}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Current ICS Students}{43}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Current ICS Students: Influences}{44}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Graduating ICS Students}{45}{subsection.4.1.6}
+\contentsline {section}{\numberline {4.2}Post-Deployment Assessment}{45}{section.4.2}
+\contentsline {section}{\numberline {4.3}Comparison}{45}{section.4.3}
+\contentsline {chapter}{\numberline {5}Thesis Timeline}{46}{chapter.5}
+\contentsline {chapter}{Bibliography}{47}{chapter*.39}
