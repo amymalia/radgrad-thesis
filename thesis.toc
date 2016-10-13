@@ -47,7 +47,7 @@
 \contentsline {subsubsection}{\numberline {2.2.2.9}Directory}{20}{subsubsection.2.2.2.9}
 \contentsline {subsubsection}{\numberline {2.2.2.10}Coders}{20}{subsubsection.2.2.2.10}
 \contentsline {subsubsection}{\numberline {2.2.2.11}TechHui and Academic/Professional/Social Engagement}{20}{subsubsection.2.2.2.11}
-\contentsline {subsection}{\numberline {2.2.3}Rate My Professor}{21}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}Rate My Professors}{21}{subsection.2.2.3}
 \contentsline {subsubsection}{\numberline {2.2.3.1}Rate My Professor and Academic/Professional/Social Engagement}{22}{subsubsection.2.2.3.1}
 \contentsline {subsection}{\numberline {2.2.4}Other Popular Social Networks and Academic/Professional/Social Engagement}{22}{subsection.2.2.4}
 \contentsline {section}{\numberline {2.3}Gamification}{23}{section.2.3}

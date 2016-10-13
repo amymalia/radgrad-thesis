@@ -1,4 +1,69 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{Blackboard}
+Blackboard planner.
+\newblock \url{<http://www.blackboard.com/sites/bbplanner/>}, 2016.
+\newblock [Online; accessed 10-October-2016].
+
+\bibitem{CollegeScheduler}
+College scheduler.
+\newblock \url{<http://www.collegescheduler.com>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{Coursicle}
+Coursicle.
+\newblock \url{<http://www.coursicle.com>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{Hearthstone}
+Hearthstone.
+\newblock \url{<http://us.battle.net/hearthstone/en/>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{LeagueOfLegends}
+League of legends.
+\newblock \url{<http://play.na.leagueoflegends.com/en_US>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{LinkedIn}
+Linkedin.
+\newblock \url{<http://www.linkedin.com>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{Overwatch}
+Overwatch.
+\newblock \url{<https://playoverwatch.com/en-us/>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{PokemonGo}
+Pokemon go.
+\newblock \url{<http://pokemongo.nianticlabs.com/en/>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{RateMyProfessors}
+Rate my professors.
+\newblock \url{<http://www.ratemyprofessors.com>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{STAR}
+Star university of hawaii.
+\newblock \url{<https://www.star.hawaii.edu:10012/studentinterface/>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{Starfish}
+Starfish by hobsons.
+\newblock \url{<http://www.starfishsolutions.com/>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{SummonersWar}
+Summoners war.
+\newblock \url{<http://www.summonerswar.co>}, 2016.
+\newblock [Online; accessed 4-October-2016].
+
+\bibitem{TechHui}
+Techhui.
+\newblock \url{<http://www.techhui.com>}, 2016.
+\newblock [Online; accessed 4-October-2016].
 
 \bibitem{Most_Popular_Social_Media}
 Top 15 most popular social networking sites.
@@ -6,12 +71,67 @@ Top 15 most popular social networking sites.
   2016.
 \newblock [Online; accessed 28-September-2016].
 
-\bibitem{TechHui}
+\bibitem{Carini}
+Robert Carini, George Kuh, and Stephen Klein.
+\newblock {Student Engagement and Student Learning}.
+\newblock {\em Research in Higher Education}, 47, 2006.
+
+\bibitem{Chen}
+Pu-Shih Daniel~Chen, Amber Lambert, and Kevin Guidry.
+\newblock {Engaging online learners: The impact of Web-based learning
+  technology on college student engagement}.
+\newblock {\em Computers And Education}, 54, 2009.
+
+\bibitem{Handelsman}
+Mitchell Handelsman, William Briggs, Nora Sullivan, and Annette Towler.
+\newblock {A Measure of College Student Course Engagement}.
+\newblock {\em Journal of Educational Research}, 98, 2005.
+
+\bibitem{Huang}
+Wendy Hsin-Yuan~Huang and Dilip Soman.
+\newblock {Gamification in Education}.
+\newblock {\em Research Report Series Behavioral Economics in Action}, 2013.
+
+\bibitem{TechHuiQuestions}
 Philip Johnson.
 \newblock Three bad things about being an ics student.
 \newblock
   \url{<http://www.techhui.com/group/uhicsstudents/forum/topics/1702911:Topic:20093
   >}, 2008.
 \newblock [Online; accessed 4-October-2016].
+
+\bibitem{Junco}
+R.~Junco, G.~Heiberger, and E.~Loken.
+\newblock {The effect of Twitter on college student engagement and grades}.
+\newblock {\em Journal of Computer Assisted Learning}, 2010.
+
+\bibitem{Junco2011}
+Reynol Junco.
+\newblock {The relationship between frequency of Facebook use, participation in
+  Facebook activities, and student engagement}.
+\newblock {\em Computers and Education}, 58, 2011.
+
+\bibitem{Kuh2001}
+George Kuh.
+\newblock {Assessing what really matters to student learning: inside the
+  national survey of student engagement}.
+\newblock {\em Change}, 33, 2001.
+
+\bibitem{Kuh2003}
+George Kuh.
+\newblock {What we're learning about student engagement from NSSE: Benchmarks
+  for effective educational practice}.
+\newblock {\em Change}, 35, 2003.
+
+\bibitem{Kuh}
+George Kuh, Ty~Cruce, Rick Shoup, and Jilian Kinzie.
+\newblock {Unmasking the Effects of Student Engagement on First-Year College
+  Grades and Persistence}.
+\newblock {\em Research in Higher Education}, 79, 2008.
+
+\bibitem{Zhao}
+Chun-Mei Zhao and George Kuh.
+\newblock {Adding Value: Learning Communities and Student Engagement}.
+\newblock {\em Research in Higher Education}, 45, 2004.
 
 \end{thebibliography}
