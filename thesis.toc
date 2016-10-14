@@ -62,32 +62,35 @@
 \contentsline {subsection}{\numberline {3.1.1}Degree Plan}{28}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Degree Goal}{28}{subsection.3.1.2}
 \contentsline {subsection}{\numberline {3.1.3}Dashboard}{28}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Predictions}{28}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}Recommendations}{29}{subsection.3.1.5}
-\contentsline {subsection}{\numberline {3.1.6}STAR Interface}{29}{subsection.3.1.6}
-\contentsline {subsection}{\numberline {3.1.7}Workload Adviser}{29}{subsection.3.1.7}
-\contentsline {section}{\numberline {3.2}Social Network}{29}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Profile}{29}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Mentorship}{30}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Department Feedback}{30}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Course Feedback}{30}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Degree Feedback}{30}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Feedback and User Evaluation}{31}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}Billboard}{31}{subsection.3.2.7}
-\contentsline {section}{\numberline {3.3}Gamification}{31}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Stoplight}{31}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Leaderboard}{32}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}ICE}{32}{subsection.3.3.3}
-\contentsline {chapter}{\numberline {4}Experimental Evaluation}{33}{chapter.4}
-\contentsline {section}{\numberline {4.1}Baseline Assessment}{33}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Basic Information}{33}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Prospective ICS Students}{33}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Prospective ICS Students: Feelings}{34}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Current ICS Students}{34}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Current ICS Students: Influences}{35}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Graduating ICS Students}{36}{subsection.4.1.6}
-\contentsline {section}{\numberline {4.2}Post-Deployment Assessment}{36}{section.4.2}
-\contentsline {section}{\numberline {4.3}Comparison}{36}{section.4.3}
-\contentsline {chapter}{\numberline {5}Thesis Timeline}{37}{chapter.5}
-\contentsline {chapter}{\numberline {A}Baseline Assessment}{38}{appendix.A}
-\contentsline {chapter}{Bibliography}{47}{appendix*.49}
+\contentsline {subsection}{\numberline {3.1.4}Recommendations}{28}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}STAR Interface}{29}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Workload Adviser}{29}{subsection.3.1.6}
+\contentsline {section}{\numberline {3.2}Degree Planner: Possible Further Implementations}{29}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Predictions}{29}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Social Network}{30}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Profile}{30}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Department Feedback}{30}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Course Feedback}{30}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Degree Feedback}{30}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Feedback and User Evaluation}{31}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}Social Network: Possible Further Implementations}{31}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Mentorship}{31}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Billboard}{31}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Gamification}{31}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Stoplight}{31}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Leaderboard}{32}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Gamification: Possible Further Implementations}{32}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}ICE}{32}{subsection.3.5.4}
+\contentsline {chapter}{\numberline {4}Experimental Evaluation}{34}{chapter.4}
+\contentsline {section}{\numberline {4.1}Baseline Assessment}{34}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Basic Information}{34}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Prospective ICS Students}{34}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Prospective ICS Students: Feelings}{35}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Current ICS Students}{35}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Current ICS Students: Influences}{36}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Graduating ICS Students}{37}{subsection.4.1.6}
+\contentsline {section}{\numberline {4.2}Post-Deployment Assessment}{37}{section.4.2}
+\contentsline {section}{\numberline {4.3}Comparison}{37}{section.4.3}
+\contentsline {chapter}{\numberline {5}Thesis Timeline}{38}{chapter.5}
+\contentsline {chapter}{\numberline {A}Baseline Assessment}{39}{appendix.A}
+\contentsline {chapter}{Bibliography}{48}{appendix*.49}

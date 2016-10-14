@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 OCT 2016 20:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 OCT 2016 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -804,25 +804,25 @@ Chapter 3.
 
 
 
-] [29] [30] [31]) [32]
+] [29] [30] [31] [32]) [33]
 \openout2 = `design.aux'.
 
  (./design.tex
 Chapter 4.
-[33
+[34
 
 
 
-] [34]
+] [35]
 Missing character: There is no â in font cmti10!
 Missing character: There is no € in font cmti10!
 Missing character: There is no ™ in font cmti10!
- [35]) [36]
+ [36]) [37]
 \openout2 = `milestones.aux'.
 
  (./milestones.tex
 Chapter 5.
-) [37
+) [38
 
 
 
@@ -831,13 +831,13 @@ Chapter 5.
 
  (./appendix.tex
 Appendix A.
-<images/q1.png, id=677, 581.17125pt x 603.25375pt>
+<images/q1.png, id=691, 581.17125pt x 603.25375pt>
 File: images/q1.png Graphic file (type png)
  <use images/q1.png>
 Package pdftex.def Info: images/q1.png used on input line 16.
 (pdftex.def)             Requested size: 422.77664pt x 438.84357pt.
 
-<images/q2.png, id=678, 581.17125pt x 261.97874pt>
+<images/q2.png, id=692, 581.17125pt x 261.97874pt>
 File: images/q2.png Graphic file (type png)
  <use images/q2.png>
 Package pdftex.def Info: images/q2.png used on input line 22.
@@ -846,7 +846,7 @@ Package pdftex.def Info: images/q2.png used on input line 22.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/q3.png, id=679, 581.17125pt x 443.6575pt>
+<images/q3.png, id=693, 581.17125pt x 443.6575pt>
 File: images/q3.png Graphic file (type png)
  <use images/q3.png>
 Package pdftex.def Info: images/q3.png used on input line 28.
@@ -855,7 +855,7 @@ Package pdftex.def Info: images/q3.png used on input line 28.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/q41.png, id=680, 582.175pt x 430.60875pt>
+<images/q41.png, id=694, 582.175pt x 430.60875pt>
 File: images/q41.png Graphic file (type png)
  <use images/q41.png>
 Package pdftex.def Info: images/q41.png used on input line 34.
@@ -864,7 +864,7 @@ Package pdftex.def Info: images/q41.png used on input line 34.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/q42.png, id=681, 584.1825pt x 333.245pt>
+<images/q42.png, id=695, 584.1825pt x 333.245pt>
 File: images/q42.png Graphic file (type png)
  <use images/q42.png>
 Package pdftex.def Info: images/q42.png used on input line 40.
@@ -873,7 +873,7 @@ Package pdftex.def Info: images/q42.png used on input line 40.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/q43.png, id=682, 579.16376pt x 413.545pt>
+<images/q43.png, id=696, 579.16376pt x 413.545pt>
 File: images/q43.png Graphic file (type png)
  <use images/q43.png>
 Package pdftex.def Info: images/q43.png used on input line 46.
@@ -882,7 +882,7 @@ Package pdftex.def Info: images/q43.png used on input line 46.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/q44.png, id=683, 580.1675pt x 561.09625pt>
+<images/q44.png, id=697, 580.1675pt x 561.09625pt>
 File: images/q44.png Graphic file (type png)
  <use images/q44.png>
 Package pdftex.def Info: images/q44.png used on input line 52.
@@ -891,7 +891,7 @@ Package pdftex.def Info: images/q44.png used on input line 52.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/q51.png, id=684, 582.175pt x 553.06625pt>
+<images/q51.png, id=698, 582.175pt x 553.06625pt>
 File: images/q51.png Graphic file (type png)
  <use images/q51.png>
 Package pdftex.def Info: images/q51.png used on input line 58.
@@ -900,7 +900,7 @@ Package pdftex.def Info: images/q51.png used on input line 58.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/q52.png, id=685, 579.16376pt x 193.72375pt>
+<images/q52.png, id=699, 579.16376pt x 193.72375pt>
 File: images/q52.png Graphic file (type png)
  <use images/q52.png>
 Package pdftex.def Info: images/q52.png used on input line 64.
@@ -909,7 +909,7 @@ Package pdftex.def Info: images/q52.png used on input line 64.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/q6.png, id=686, 585.18625pt x 441.65pt>
+<images/q6.png, id=700, 585.18625pt x 441.65pt>
 File: images/q6.png Graphic file (type png)
  <use images/q6.png>
 Package pdftex.def Info: images/q6.png used on input line 70.
@@ -918,48 +918,79 @@ Package pdftex.def Info: images/q6.png used on input line 70.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [38
+) [39
 
 
 
- <./images/q1.png>] [39 <./images/q2.png>] [40 <./images/q3.png>] [41 <./images
-/q41.png>] [42 <./images/q42.png>] [43 <./images/q43.png>] [44 <./images/q44.pn
-g>] [45 <./images/q51.png>] [46 <./images/q52.png> <./images/q6.png>]
-(./thesis.bbl [47
+ <./images/q1.png>] [40 <./images/q2.png>] [41 <./images/q3.png>] [42 <./images
+/q41.png>] [43 <./images/q42.png>] [44 <./images/q43.png>] [45 <./images/q44.pn
+g>] [46 <./images/q51.png>] [47 <./images/q52.png> <./images/q6.png>]
+(./thesis.bbl [48
 
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
- [48]
+ [49]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
  (./thesis.aux (./abstract.aux) (./introduction.aux)
 (./related-work.aux) (./description.aux) (./design.aux) (./milestones.aux)
 (./appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 2A53B0CF70AEF6AE349392A04EB5B54C;3789.
+
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: 2A53B0CF70AEF6AE349392A04EB5B54C;3789
+(rerunfilecheck)             After:  3A76303487105C8C3D1C2BC4604D59E9;4079.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 7800 strings out of 493014
- 121315 string characters out of 6133351
+ 7811 strings out of 493014
+ 121472 string characters out of 6133351
  218215 words of memory out of 5000000
  10936 multiletter control sequences out of 15000+600000
  8668 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,8n,41p,1545b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (54 pages, 47369635 bytes).
+pdfTeX warning (dest): name{subsection.3.2.7} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.2.6} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.2.5} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.2.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.2.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.2.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.1.7} has been referenced but does not 
+exist, replaced by a fixed one
+
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on thesis.pdf (55 pages, 47370388 bytes).
 PDF statistics:
- 861 PDF objects out of 1000 (max. 8388607)
- 699 compressed objects within 7 object streams
- 245 named destinations out of 1000 (max. 500000)
+ 880 PDF objects out of 1000 (max. 8388607)
+ 716 compressed objects within 8 object streams
+ 256 named destinations out of 1000 (max. 500000)
  679 words of extra memory for PDF output out of 10000 (max. 10000000)
 

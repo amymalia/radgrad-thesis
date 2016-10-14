@@ -25,32 +25,35 @@
 \BOOKMARK [2][-]{subsection.3.1.1}{Degree Plan}{section.3.1}% 25
 \BOOKMARK [2][-]{subsection.3.1.2}{Degree Goal}{section.3.1}% 26
 \BOOKMARK [2][-]{subsection.3.1.3}{Dashboard}{section.3.1}% 27
-\BOOKMARK [2][-]{subsection.3.1.4}{Predictions}{section.3.1}% 28
-\BOOKMARK [2][-]{subsection.3.1.5}{Recommendations}{section.3.1}% 29
-\BOOKMARK [2][-]{subsection.3.1.6}{STAR Interface}{section.3.1}% 30
-\BOOKMARK [2][-]{subsection.3.1.7}{Workload Adviser}{section.3.1}% 31
-\BOOKMARK [1][-]{section.3.2}{Social Network}{chapter.3}% 32
-\BOOKMARK [2][-]{subsection.3.2.1}{Profile}{section.3.2}% 33
-\BOOKMARK [2][-]{subsection.3.2.2}{Mentorship}{section.3.2}% 34
-\BOOKMARK [2][-]{subsection.3.2.3}{Department Feedback}{section.3.2}% 35
-\BOOKMARK [2][-]{subsection.3.2.4}{Course Feedback}{section.3.2}% 36
-\BOOKMARK [2][-]{subsection.3.2.5}{Degree Feedback}{section.3.2}% 37
-\BOOKMARK [2][-]{subsection.3.2.6}{Feedback and User Evaluation}{section.3.2}% 38
-\BOOKMARK [2][-]{subsection.3.2.7}{Billboard}{section.3.2}% 39
-\BOOKMARK [1][-]{section.3.3}{Gamification}{chapter.3}% 40
-\BOOKMARK [2][-]{subsection.3.3.1}{Stoplight}{section.3.3}% 41
-\BOOKMARK [2][-]{subsection.3.3.2}{Leaderboard}{section.3.3}% 42
-\BOOKMARK [2][-]{subsection.3.3.3}{ICE}{section.3.3}% 43
-\BOOKMARK [0][-]{chapter.4}{Experimental Evaluation}{}% 44
-\BOOKMARK [1][-]{section.4.1}{Baseline Assessment}{chapter.4}% 45
-\BOOKMARK [2][-]{subsection.4.1.1}{Basic Information}{section.4.1}% 46
-\BOOKMARK [2][-]{subsection.4.1.2}{Prospective ICS Students}{section.4.1}% 47
-\BOOKMARK [2][-]{subsection.4.1.3}{Prospective ICS Students: Feelings}{section.4.1}% 48
-\BOOKMARK [2][-]{subsection.4.1.4}{Current ICS Students}{section.4.1}% 49
-\BOOKMARK [2][-]{subsection.4.1.5}{Current ICS Students: Influences}{section.4.1}% 50
-\BOOKMARK [2][-]{subsection.4.1.6}{Graduating ICS Students}{section.4.1}% 51
-\BOOKMARK [1][-]{section.4.2}{Post-Deployment Assessment}{chapter.4}% 52
-\BOOKMARK [1][-]{section.4.3}{Comparison}{chapter.4}% 53
-\BOOKMARK [0][-]{chapter.5}{Thesis Timeline}{}% 54
-\BOOKMARK [0][-]{appendix.A}{Baseline Assessment}{}% 55
-\BOOKMARK [0][-]{appendix*.49}{Bibliography}{}% 56
+\BOOKMARK [2][-]{subsection.3.1.4}{Recommendations}{section.3.1}% 28
+\BOOKMARK [2][-]{subsection.3.1.5}{STAR Interface}{section.3.1}% 29
+\BOOKMARK [2][-]{subsection.3.1.6}{Workload Adviser}{section.3.1}% 30
+\BOOKMARK [1][-]{section.3.2}{Degree Planner: Possible Further Implementations}{chapter.3}% 31
+\BOOKMARK [2][-]{subsection.3.2.1}{Predictions}{section.3.2}% 32
+\BOOKMARK [1][-]{section.3.3}{Social Network}{chapter.3}% 33
+\BOOKMARK [2][-]{subsection.3.3.1}{Profile}{section.3.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.2}{Department Feedback}{section.3.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.3}{Course Feedback}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.4}{Degree Feedback}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.5}{Feedback and User Evaluation}{section.3.3}% 38
+\BOOKMARK [1][-]{section.3.4}{Social Network: Possible Further Implementations}{chapter.3}% 39
+\BOOKMARK [2][-]{subsection.3.4.1}{Mentorship}{section.3.4}% 40
+\BOOKMARK [2][-]{subsection.3.4.2}{Billboard}{section.3.4}% 41
+\BOOKMARK [1][-]{section.3.5}{Gamification}{chapter.3}% 42
+\BOOKMARK [2][-]{subsection.3.5.1}{Stoplight}{section.3.5}% 43
+\BOOKMARK [2][-]{subsection.3.5.2}{Leaderboard}{section.3.5}% 44
+\BOOKMARK [2][-]{subsection.3.5.3}{Gamification: Possible Further Implementations}{section.3.5}% 45
+\BOOKMARK [2][-]{subsection.3.5.4}{ICE}{section.3.5}% 46
+\BOOKMARK [0][-]{chapter.4}{Experimental Evaluation}{}% 47
+\BOOKMARK [1][-]{section.4.1}{Baseline Assessment}{chapter.4}% 48
+\BOOKMARK [2][-]{subsection.4.1.1}{Basic Information}{section.4.1}% 49
+\BOOKMARK [2][-]{subsection.4.1.2}{Prospective ICS Students}{section.4.1}% 50
+\BOOKMARK [2][-]{subsection.4.1.3}{Prospective ICS Students: Feelings}{section.4.1}% 51
+\BOOKMARK [2][-]{subsection.4.1.4}{Current ICS Students}{section.4.1}% 52
+\BOOKMARK [2][-]{subsection.4.1.5}{Current ICS Students: Influences}{section.4.1}% 53
+\BOOKMARK [2][-]{subsection.4.1.6}{Graduating ICS Students}{section.4.1}% 54
+\BOOKMARK [1][-]{section.4.2}{Post-Deployment Assessment}{chapter.4}% 55
+\BOOKMARK [1][-]{section.4.3}{Comparison}{chapter.4}% 56
+\BOOKMARK [0][-]{chapter.5}{Thesis Timeline}{}% 57
+\BOOKMARK [0][-]{appendix.A}{Baseline Assessment}{}% 58
+\BOOKMARK [0][-]{appendix*.49}{Bibliography}{}% 59
