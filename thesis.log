@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 OCT 2016 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 OCT 2016 20:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -295,7 +295,7 @@ Package caption Info: hyperref package is loaded.
 \c@subtable=\count107
 )
 (./thesis.aux (./abstract.aux) (./introduction.aux) (./related-work.aux)
-(./description.aux) (./design.aux) (./milestones.aux))
+(./description.aux) (./design.aux) (./milestones.aux) (./appendix.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
@@ -440,7 +440,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.21 
+l.20 
       [1
 
 
@@ -450,140 +450,118 @@ l.21
 
  (./related-work.tex
 Chapter 2.
-<images/star_home.png, id=333, 1249.66875pt x 660.4675pt>
+<images/star_home.png, id=337, 1249.66875pt x 660.4675pt>
 File: images/star_home.png Graphic file (type png)
 
 <use images/star_home.png>
 Package pdftex.def Info: images/star_home.png used on input line 8.
-(pdftex.def)             Requested size: 469.75502pt x 248.26929pt.
+(pdftex.def)             Requested size: 234.8775pt x 124.12961pt.
 
-<images/star_edgoals.png, id=336, 1251.67625pt x 663.47874pt>
+<images/star_edgoals.png, id=340, 1251.67625pt x 663.47874pt>
 File: images/star_edgoals.png Graphic file (type png)
 
 <use images/star_edgoals.png>
 Package pdftex.def Info: images/star_edgoals.png used on input line 16.
-(pdftex.def)             Requested size: 469.75502pt x 249.0064pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[3
+(pdftex.def)             Requested size: 234.8775pt x 124.49307pt.
+ [3
 
 
 
- <./images/star_home.png>]
-<images/star_pathway.png, id=346, 1927.2pt x 942.52126pt>
+ <./images/star_home.png> <./images/star_edgoals.png>] <images/star_pathway.png
+, id=351, 1927.2pt x 942.52126pt>
 File: images/star_pathway.png Graphic file (type png)
 
 <use images/star_pathway.png>
 Package pdftex.def Info: images/star_pathway.png used on input line 24.
-(pdftex.def)             Requested size: 469.75502pt x 229.73323pt.
+(pdftex.def)             Requested size: 234.8775pt x 114.86661pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/star_whatif.png, id=347, 1917.1625pt x 936.49875pt>
+<images/star_whatif.png, id=352, 1917.1625pt x 936.49875pt>
 File: images/star_whatif.png Graphic file (type png)
 
 <use images/star_whatif.png>
 Package pdftex.def Info: images/star_whatif.png used on input line 33.
-(pdftex.def)             Requested size: 469.75502pt x 229.46564pt.
+(pdftex.def)             Requested size: 234.8775pt x 114.73282pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./images/star_edgoals.png>]
-<images/star_trans.png, id=355, 1253.68375pt x 661.47125pt>
+<images/star_trans.png, id=353, 1253.68375pt x 661.47125pt>
 File: images/star_trans.png Graphic file (type png)
 
 <use images/star_trans.png>
 Package pdftex.def Info: images/star_trans.png used on input line 42.
-(pdftex.def)             Requested size: 469.75502pt x 247.84924pt.
+(pdftex.def)             Requested size: 234.8775pt x 123.92462pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/star_scholar2.png, id=356, 1250.6725pt x 661.47125pt>
+<images/star_scholar2.png, id=354, 1250.6725pt x 661.47125pt>
 File: images/star_scholar2.png Graphic file (type png)
 
 <use images/star_scholar2.png>
 Package pdftex.def Info: images/star_scholar2.png used on input line 50.
-(pdftex.def)             Requested size: 469.75502pt x 248.44475pt.
+(pdftex.def)             Requested size: 234.8775pt x 124.21732pt.
 
-<images/star_scholar3.png, id=357, 1252.68pt x 661.47125pt>
+<images/star_scholar3.png, id=355, 1252.68pt x 661.47125pt>
 File: images/star_scholar3.png Graphic file (type png)
 
 <use images/star_scholar3.png>
 Package pdftex.def Info: images/star_scholar3.png used on input line 55.
-(pdftex.def)             Requested size: 469.75502pt x 248.0511pt.
+(pdftex.def)             Requested size: 234.8775pt x 124.02554pt.
 
-<images/star_scholar4.png, id=358, 1251.67625pt x 660.4675pt>
+<images/star_scholar4.png, id=356, 1251.67625pt x 660.4675pt>
 File: images/star_scholar4.png Graphic file (type png)
 
 <use images/star_scholar4.png>
 Package pdftex.def Info: images/star_scholar4.png used on input line 60.
-(pdftex.def)             Requested size: 469.75502pt x 247.87625pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+(pdftex.def)             Requested size: 234.8775pt x 123.92804pt.
+ [4 <./images/star_pathway.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./images/star_pathway.png>]
-<images/starfish_connect.png, id=369, 904.37875pt x 514.92375pt>
+[5 <./images/star_whatif.png> <./images/star_trans.png> <./images/star_scholar2
+.png>] [6 <./images/star_scholar3.png> <./images/star_scholar4.png>]
+<images/starfish_connect.png, id=387, 904.37875pt x 514.92375pt>
 File: images/starfish_connect.png Graphic file (type png)
 
 <use images/starfish_connect.png>
 Package pdftex.def Info: images/starfish_connect.png used on input line 72.
-(pdftex.def)             Requested size: 469.75502pt x 267.46332pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./images/star_whatif.png>] [7 <./images/star_trans.png>] [8 <./images/star_
-scholar2.png>] <images/college_sched_sp.png, id=397, 564.1075pt x 345.29pt>
+(pdftex.def)             Requested size: 234.8775pt x 133.72772pt.
+ [7 <./images/starfish_connect.png>]
+<images/college_sched_sp.png, id=401, 564.1075pt x 345.29pt>
 File: images/college_sched_sp.png Graphic file (type png)
 
 <use images/college_sched_sp.png>
 Package pdftex.def Info: images/college_sched_sp.png used on input line 92.
-(pdftex.def)             Requested size: 469.75502pt x 287.53897pt.
+(pdftex.def)             Requested size: 234.8775pt x 143.76685pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/college_sched_pp.png, id=398, 551.05875pt x 284.06125pt>
+[8] <images/college_sched_pp.png, id=410, 551.05875pt x 284.06125pt>
 File: images/college_sched_pp.png Graphic file (type png)
 
 <use images/college_sched_pp.png>
 Package pdftex.def Info: images/college_sched_pp.png used on input line 102.
-(pdftex.def)             Requested size: 469.75502pt x 242.15968pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9 <./images/star_scholar3.png>]
-<images/blackboard_students.png, id=408, 838.13126pt x 503.8825pt>
+(pdftex.def)             Requested size: 234.8775pt x 121.07333pt.
+ [9 <./images/college_sched_sp.png> <./images/college_sched_pp.png>]
+<images/blackboard_students.png, id=421, 838.13126pt x 503.8825pt>
 File: images/blackboard_students.png Graphic file (type png)
 
 <use images/blackboard_students.png>
 Package pdftex.def Info: images/blackboard_students.png used on input line 114.
 
-(pdftex.def)             Requested size: 469.75502pt x 282.41061pt.
+(pdftex.def)             Requested size: 234.8775pt x 141.20146pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10 <./images/star_scholar4.png>]
-<images/blackboard_adviser.png, id=418, 874.26625pt x 509.905pt>
+<images/blackboard_adviser.png, id=423, 874.26625pt x 509.905pt>
 File: images/blackboard_adviser.png Graphic file (type png)
 
 <use images/blackboard_adviser.png>
 Package pdftex.def Info: images/blackboard_adviser.png used on input line 128.
-(pdftex.def)             Requested size: 469.75502pt x 273.983pt.
+(pdftex.def)             Requested size: 234.8775pt x 136.9915pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 129--129
 []\OT1/cmr/m/n/10.95 Figure 2.13: |Ex-am-ple ad-viser view of Black-board Plan-
@@ -593,50 +571,43 @@ ner. \OT1/cmr/m/it/10.95 Source:
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11 <./images/starfish_connect.png>]
-<images/coursicle.png, id=428, 1203.49625pt x 692.5875pt>
+[10 <./images/blackboard_students.png>]
+<images/coursicle.png, id=433, 1203.49625pt x 692.5875pt>
 File: images/coursicle.png Graphic file (type png)
 
 <use images/coursicle.png>
 Package pdftex.def Info: images/coursicle.png used on input line 140.
-(pdftex.def)             Requested size: 469.75502pt x 270.32996pt.
+(pdftex.def)             Requested size: 234.8775pt x 135.16498pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 141--141
 []\OT1/cmr/m/n/10.95 Figure 2.14: |The Cour-si-cle page for the Uni-ver-sity of
  North Car-olina.\OT1/cmr/m/it/10.95 Source:
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[12 <./images/college_sched_sp.png>] [13 <./images/college_sched_pp.png>]
-<images/linkedin_home.png, id=447, 1201.48875pt x 692.5875pt>
+[11 <./images/blackboard_adviser.png> <./images/coursicle.png>]
+<images/linkedin_home.png, id=446, 1201.48875pt x 692.5875pt>
 File: images/linkedin_home.png Graphic file (type png)
 
 <use images/linkedin_home.png>
 Package pdftex.def Info: images/linkedin_home.png used on input line 158.
-(pdftex.def)             Requested size: 469.75502pt x 270.78438pt.
+(pdftex.def)             Requested size: 234.8775pt x 135.3869pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/linkedin_profile.png, id=448, 1201.48875pt x 695.59875pt>
+[12] <images/linkedin_profile.png, id=454, 1201.48875pt x 695.59875pt>
 File: images/linkedin_profile.png Graphic file (type png)
 
 <use images/linkedin_profile.png>
 Package pdftex.def Info: images/linkedin_profile.png used on input line 167.
-(pdftex.def)             Requested size: 469.75502pt x 271.96172pt.
+(pdftex.def)             Requested size: 234.8775pt x 135.97554pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[14 <./images/blackboard_students.png>]
-<images/linkedin_network.png, id=457, 1197.47375pt x 693.59125pt>
+<images/linkedin_network.png, id=455, 1197.47375pt x 693.59125pt>
 File: images/linkedin_network.png Graphic file (type png)
 
 <use images/linkedin_network.png>
 Package pdftex.def Info: images/linkedin_network.png used on input line 175.
-(pdftex.def)             Requested size: 469.75502pt x 272.08699pt.
+(pdftex.def)             Requested size: 234.8775pt x 136.03821pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -647,147 +618,135 @@ Overfull \hbox (5.47433pt too wide) in paragraph at lines 179--180
 ended con-nec-tions, con-nec-tions added through
  []
 
-<images/linkedin_learning.png, id=458, 1201.48875pt x 694.595pt>
+<images/linkedin_learning.png, id=456, 1201.48875pt x 694.595pt>
 File: images/linkedin_learning.png Graphic file (type png)
 
 <use images/linkedin_learning.png>
 Package pdftex.def Info: images/linkedin_learning.png used on input line 183.
-(pdftex.def)             Requested size: 469.75502pt x 271.56927pt.
+(pdftex.def)             Requested size: 234.8775pt x 135.77933pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/linkedin_jobs.png, id=459, 1202.4925pt x 693.59125pt>
+[13 <./images/linkedin_home.png> <./images/linkedin_profile.png>]
+<images/linkedin_jobs.png, id=469, 1202.4925pt x 693.59125pt>
 File: images/linkedin_jobs.png Graphic file (type png)
 
 <use images/linkedin_jobs.png>
 Package pdftex.def Info: images/linkedin_jobs.png used on input line 191.
-(pdftex.def)             Requested size: 469.75502pt x 270.95457pt.
+(pdftex.def)             Requested size: 234.8775pt x 135.4667pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15 <./images/blackboard_adviser.png>]
-<images/linkedin_companies.png, id=469, 1201.48875pt x 696.6025pt>
+<images/linkedin_companies.png, id=470, 1201.48875pt x 696.6025pt>
 File: images/linkedin_companies.png Graphic file (type png)
 
 <use images/linkedin_companies.png>
 Package pdftex.def Info: images/linkedin_companies.png used on input line 199.
-(pdftex.def)             Requested size: 469.75502pt x 272.35416pt.
+(pdftex.def)             Requested size: 234.8775pt x 136.17175pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16 <./images/coursicle.png>]
-<images/techhui_profile.png, id=481, 1201.48875pt x 693.59125pt>
+[14 <./images/linkedin_network.png> <./images/linkedin_learning.png>]
+<images/techhui_profile.png, id=484, 1201.48875pt x 693.59125pt>
 File: images/techhui_profile.png Graphic file (type png)
 
 <use images/techhui_profile.png>
 Package pdftex.def Info: images/techhui_profile.png used on input line 213.
-(pdftex.def)             Requested size: 469.75502pt x 271.17683pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/techhui_members.png, id=482, 1200.485pt x 695.59875pt>
+(pdftex.def)             Requested size: 234.8775pt x 135.58311pt.
+ [15 <./images/linkedin_jobs.png> <./images/linkedin_companies.png>]
+<images/techhui_members.png, id=495, 1200.485pt x 695.59875pt>
 File: images/techhui_members.png Graphic file (type png)
 
 <use images/techhui_members.png>
 Package pdftex.def Info: images/techhui_members.png used on input line 221.
-(pdftex.def)             Requested size: 469.75502pt x 272.18462pt.
+(pdftex.def)             Requested size: 234.8775pt x 136.0923pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/techhui_events.png, id=483, 1200.485pt x 692.5875pt>
+<images/techhui_events.png, id=496, 1200.485pt x 692.5875pt>
 File: images/techhui_events.png Graphic file (type png)
 
 <use images/techhui_events.png>
 Package pdftex.def Info: images/techhui_events.png used on input line 229.
-(pdftex.def)             Requested size: 469.75502pt x 271.00632pt.
- [17 <./images/linkedin_home.png>]
+(pdftex.def)             Requested size: 234.8775pt x 135.50316pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/techhui_forum.png, id=493, 1200.485pt x 695.59875pt>
+[16 <./images/techhui_profile.png> <./images/techhui_members.png>]
+<images/techhui_forum.png, id=508, 1200.485pt x 695.59875pt>
 File: images/techhui_forum.png Graphic file (type png)
 
 <use images/techhui_forum.png>
 Package pdftex.def Info: images/techhui_forum.png used on input line 237.
-(pdftex.def)             Requested size: 469.75502pt x 272.18462pt.
+(pdftex.def)             Requested size: 234.8775pt x 136.0923pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/techhui_groups.png, id=494, 1200.485pt x 693.59125pt>
+<images/techhui_groups.png, id=509, 1200.485pt x 693.59125pt>
 File: images/techhui_groups.png Graphic file (type png)
 
 <use images/techhui_groups.png>
 Package pdftex.def Info: images/techhui_groups.png used on input line 245.
-(pdftex.def)             Requested size: 469.75502pt x 271.39908pt.
+(pdftex.def)             Requested size: 234.8775pt x 135.69954pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18 <./images/linkedin_profile.png>]
-<images/techhui_photos.png, id=503, 1199.48125pt x 693.59125pt>
+[17 <./images/techhui_events.png> <./images/techhui_forum.png>]
+<images/techhui_photos.png, id=520, 1199.48125pt x 693.59125pt>
 File: images/techhui_photos.png Graphic file (type png)
 
 <use images/techhui_photos.png>
 Package pdftex.def Info: images/techhui_photos.png used on input line 253.
-(pdftex.def)             Requested size: 469.75502pt x 271.63191pt.
+(pdftex.def)             Requested size: 234.8775pt x 135.81595pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/techhui_videos.png, id=504, 1199.48125pt x 699.61375pt>
+<images/techhui_videos.png, id=521, 1199.48125pt x 699.61375pt>
 File: images/techhui_videos.png Graphic file (type png)
 
 <use images/techhui_videos.png>
 Package pdftex.def Info: images/techhui_videos.png used on input line 261.
-(pdftex.def)             Requested size: 469.75502pt x 273.99051pt.
+(pdftex.def)             Requested size: 234.8775pt x 136.99525pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/techhui_blogs.png, id=505, 1201.48875pt x 696.6025pt>
+<images/techhui_blogs.png, id=522, 1201.48875pt x 696.6025pt>
 File: images/techhui_blogs.png Graphic file (type png)
 
 <use images/techhui_blogs.png>
 Package pdftex.def Info: images/techhui_blogs.png used on input line 269.
-(pdftex.def)             Requested size: 469.75502pt x 272.35416pt.
+(pdftex.def)             Requested size: 234.8775pt x 136.17175pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19 <./images/linkedin_network.png>]
-<images/techhui_directory.png, id=516, 1201.48875pt x 695.59875pt>
+<images/techhui_directory.png, id=523, 1201.48875pt x 695.59875pt>
 File: images/techhui_directory.png Graphic file (type png)
 
 <use images/techhui_directory.png>
 Package pdftex.def Info: images/techhui_directory.png used on input line 277.
-(pdftex.def)             Requested size: 469.75502pt x 271.96172pt.
-
+(pdftex.def)             Requested size: 234.8775pt x 135.97554pt.
+ [18 <./images/techhui_groups.png> <./images/techhui_photos.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/techhui_coders.png, id=517, 1202.4925pt x 694.595pt>
+<images/techhui_coders.png, id=535, 1202.4925pt x 694.595pt>
 File: images/techhui_coders.png Graphic file (type png)
 
 <use images/techhui_coders.png>
 Package pdftex.def Info: images/techhui_coders.png used on input line 285.
-(pdftex.def)             Requested size: 469.75502pt x 271.3467pt.
+(pdftex.def)             Requested size: 234.8775pt x 135.66275pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <./images/linkedin_learning.png>]
-<images/ratemyprofessor.png, id=528, 1203.49625pt x 695.59875pt>
+[19 <./images/techhui_videos.png> <./images/techhui_blogs.png>]
+<images/ratemyprofessor.png, id=548, 1203.49625pt x 695.59875pt>
 File: images/ratemyprofessor.png Graphic file (type png)
 
 <use images/ratemyprofessor.png>
 Package pdftex.def Info: images/ratemyprofessor.png used on input line 296.
-(pdftex.def)             Requested size: 469.75502pt x 271.50531pt.
+(pdftex.def)             Requested size: 234.8775pt x 135.75266pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 297--297
 []\OT1/cmr/m/n/10.95 Figure 2.31: |Ex-am-ple Rate My Pro-fes-sor page for UH Ma
@@ -797,142 +756,196 @@ noa. \OT1/cmr/m/it/10.95 Source:
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21 <./images/linkedin_jobs.png>] [22 <./images/linkedin_companies.png>]
+[20 <./images/techhui_directory.png> <./images/techhui_coders.png>]
 Overfull \hbox (7.03627pt too wide) in paragraph at lines 309--335
 [] 
  []
 
-<images/sw.png, id=546, 1103.12125pt x 663.47874pt>
+[21 <./images/ratemyprofessor.png>]
+<images/sw.png, id=568, 1103.12125pt x 663.47874pt>
 File: images/sw.png Graphic file (type png)
  <use images/sw.png>
 Package pdftex.def Info: images/sw.png used on input line 338.
-(pdftex.def)             Requested size: 469.75502pt x 282.5366pt.
+(pdftex.def)             Requested size: 234.8775pt x 141.2683pt.
 
-[23 <./images/techhui_profile.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[24 <./images/techhui_members.png>] [25 <./images/techhui_events.png>]
-<images/lol.png, id=568, 1171.37625pt x 659.46375pt>
+[22 <./images/sw.png>] <images/lol.png, id=576, 1171.37625pt x 659.46375pt>
 File: images/lol.png Graphic file (type png)
- <use images/lol.png>
+
+<use images/lol.png>
 Package pdftex.def Info: images/lol.png used on input line 350.
-(pdftex.def)             Requested size: 469.75502pt x 264.46507pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[26 <./images/techhui_forum.png>]
-<images/hearthstone.png, id=577, 1171.37625pt x 659.46375pt>
+(pdftex.def)             Requested size: 234.8775pt x 132.23253pt.
+ [23 <./images/lol.png>]
+<images/hearthstone.png, id=585, 1171.37625pt x 659.46375pt>
 File: images/hearthstone.png Graphic file (type png)
 
 <use images/hearthstone.png>
 Package pdftex.def Info: images/hearthstone.png used on input line 361.
-(pdftex.def)             Requested size: 469.75502pt x 264.46507pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[27 <./images/techhui_groups.png>]
-<images/overwatch.png, id=586, 1176.395pt x 661.47125pt>
+(pdftex.def)             Requested size: 234.8775pt x 132.23253pt.
+ [24 <./images/hearthstone.png>]
+<images/overwatch.png, id=595, 1176.395pt x 661.47125pt>
 File: images/overwatch.png Graphic file (type png)
 
 <use images/overwatch.png>
 Package pdftex.def Info: images/overwatch.png used on input line 369.
-(pdftex.def)             Requested size: 469.75502pt x 264.13971pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[28 <./images/techhui_photos.png>]
-<images/pokemon.png, id=595, 1174.3875pt x 661.47125pt>
+(pdftex.def)             Requested size: 234.8775pt x 132.05975pt.
+ [25 <./images/overwatch.png>]
+<images/pokemon.png, id=605, 1174.3875pt x 661.47125pt>
 File: images/pokemon.png Graphic file (type png)
 
 <use images/pokemon.png>
 Package pdftex.def Info: images/pokemon.png used on input line 379.
-(pdftex.def)             Requested size: 469.75502pt x 264.58382pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[29 <./images/techhui_videos.png>] [30 <./images/techhui_blogs.png>] [31 <./ima
-ges/techhui_directory.png>]
-
-LaTeX Warning: Citation `Junco2011' undefined on input line 409.
-
-
-LaTeX Warning: Citation `Zhao' undefined on input line 410.
-
-
-LaTeX Warning: Citation `Kuh2001' undefined on input line 411.
-
-
-LaTeX Warning: Citation `Kuh2003' undefined on input line 412.
-
-
-LaTeX Warning: Citation `Huang' undefined on input line 413.
-
-) [32 <./images/techhui_coders.png>] [33 <./images/ratemyprofessor.png>]
-[34 <./images/sw.png> <./images/lol.png>] [35 <./images/hearthstone.png> <./ima
-ges/overwatch.png>] [36 <./images/pokemon.png>]
+(pdftex.def)             Requested size: 234.8775pt x 132.2919pt.
+ [26 <./images/pokemon.png>]) [27]
 \openout2 = `description.aux'.
 
  (./description.tex
 Chapter 3.
-[37
+[28
 
 
 
-] [38] [39] [40]) [41]
+] [29] [30] [31]) [32]
 \openout2 = `design.aux'.
 
  (./design.tex
 Chapter 4.
-[42
+[33
 
 
 
-] [43]
+] [34]
 Missing character: There is no â in font cmti10!
 Missing character: There is no € in font cmti10!
 Missing character: There is no ™ in font cmti10!
- [44]) [45]
+ [35]) [36]
 \openout2 = `milestones.aux'.
 
  (./milestones.tex
 Chapter 5.
-) [46
+) [37
 
 
 
-] (./thesis.bbl [47
+]
+\openout2 = `appendix.aux'.
+
+ (./appendix.tex
+Appendix A.
+<images/q1.png, id=677, 581.17125pt x 603.25375pt>
+File: images/q1.png Graphic file (type png)
+ <use images/q1.png>
+Package pdftex.def Info: images/q1.png used on input line 16.
+(pdftex.def)             Requested size: 422.77664pt x 438.84357pt.
+
+<images/q2.png, id=678, 581.17125pt x 261.97874pt>
+File: images/q2.png Graphic file (type png)
+ <use images/q2.png>
+Package pdftex.def Info: images/q2.png used on input line 22.
+(pdftex.def)             Requested size: 469.75502pt x 211.7579pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/q3.png, id=679, 581.17125pt x 443.6575pt>
+File: images/q3.png Graphic file (type png)
+ <use images/q3.png>
+Package pdftex.def Info: images/q3.png used on input line 28.
+(pdftex.def)             Requested size: 469.75502pt x 358.60916pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/q41.png, id=680, 582.175pt x 430.60875pt>
+File: images/q41.png Graphic file (type png)
+ <use images/q41.png>
+Package pdftex.def Info: images/q41.png used on input line 34.
+(pdftex.def)             Requested size: 469.75502pt x 347.46391pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/q42.png, id=681, 584.1825pt x 333.245pt>
+File: images/q42.png Graphic file (type png)
+ <use images/q42.png>
+Package pdftex.def Info: images/q42.png used on input line 40.
+(pdftex.def)             Requested size: 469.75502pt x 267.97945pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/q43.png, id=682, 579.16376pt x 413.545pt>
+File: images/q43.png Graphic file (type png)
+ <use images/q43.png>
+Package pdftex.def Info: images/q43.png used on input line 46.
+(pdftex.def)             Requested size: 469.75502pt x 335.42393pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/q44.png, id=683, 580.1675pt x 561.09625pt>
+File: images/q44.png Graphic file (type png)
+ <use images/q44.png>
+Package pdftex.def Info: images/q44.png used on input line 52.
+(pdftex.def)             Requested size: 469.75502pt x 454.31424pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/q51.png, id=684, 582.175pt x 553.06625pt>
+File: images/q51.png Graphic file (type png)
+ <use images/q51.png>
+Package pdftex.def Info: images/q51.png used on input line 58.
+(pdftex.def)             Requested size: 469.75502pt x 446.2765pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/q52.png, id=685, 579.16376pt x 193.72375pt>
+File: images/q52.png Graphic file (type png)
+ <use images/q52.png>
+Package pdftex.def Info: images/q52.png used on input line 64.
+(pdftex.def)             Requested size: 469.75502pt x 157.12819pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/q6.png, id=686, 585.18625pt x 441.65pt>
+File: images/q6.png Graphic file (type png)
+ <use images/q6.png>
+Package pdftex.def Info: images/q6.png used on input line 70.
+(pdftex.def)             Requested size: 469.75502pt x 354.54697pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [38
+
+
+
+ <./images/q1.png>] [39 <./images/q2.png>] [40 <./images/q3.png>] [41 <./images
+/q41.png>] [42 <./images/q42.png>] [43 <./images/q43.png>] [44 <./images/q44.pn
+g>] [45 <./images/q51.png>] [46 <./images/q52.png> <./images/q6.png>]
+(./thesis.bbl [47
 
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
  [48]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
- (./thesis.aux (./abstract.aux)
-(./introduction.aux) (./related-work.aux) (./description.aux) (./design.aux)
-(./milestones.aux))
+ (./thesis.aux (./abstract.aux) (./introduction.aux)
+(./related-work.aux) (./description.aux) (./design.aux) (./milestones.aux)
+(./appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: FA6AA632FB2D3D5FB98A40C87624B617;3732.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: 2A53B0CF70AEF6AE349392A04EB5B54C;3789.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 7732 strings out of 493014
- 120239 string characters out of 6133351
- 219660 words of memory out of 5000000
- 10894 multiletter control sequences out of 15000+600000
+ 7800 strings out of 493014
+ 121315 string characters out of 6133351
+ 218215 words of memory out of 5000000
+ 10936 multiletter control sequences out of 15000+600000
  8668 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,8n,41p,1545b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -943,10 +956,10 @@ usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (54 pages, 46735874 bytes).
+Output written on thesis.pdf (54 pages, 47369635 bytes).
 PDF statistics:
- 826 PDF objects out of 1000 (max. 8388607)
- 684 compressed objects within 7 object streams
- 235 named destinations out of 1000 (max. 500000)
- 621 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 861 PDF objects out of 1000 (max. 8388607)
+ 699 compressed objects within 7 object streams
+ 245 named destinations out of 1000 (max. 500000)
+ 679 words of extra memory for PDF output out of 10000 (max. 10000000)
 

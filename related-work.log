@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 OCT 2016 11:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 OCT 2016 19:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -498,12 +498,13 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.6 \begin{figure}
-                  [h]
+                  [!h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Missing character: There is no [ in font nullfont!
+Missing character: There is no ! in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
@@ -698,6 +699,23 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{STAR}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.12 ...d by the University of Hawaii. \cite{STAR}
+                                                   As of September 2016, the...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `STAR' on page  undefined on input line 12.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -851,6 +869,11 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 5--13
 
 Overfull \hbox (224.21165pt too wide) in paragraph at lines 5--13
 []\OML/cmm/m/it/10 ome[]$
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 5--13
+[]
  []
 
 
@@ -5499,6 +5522,23 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no " in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Starfish}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.76 ...ents find their best fit." \cite{Starfish}
+                                                   Hobsons offers a wide ran...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Starfish' on page  undefined on input line 76.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no b in font nullfont!
@@ -7219,6 +7259,11 @@ Overfull \hbox (330.77736pt too wide) in paragraph at lines 70--83
 []\OML/cmm/m/it/10 onnect[]$
  []
 
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 70--83
+[]
+ []
+
 ! Undefined control sequence.
 l.84 \subsubsection
                    {Starfish by Hobsons and Academic/Professional/Social Eng...
@@ -7389,6 +7434,23 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no k in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Starfish}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.85 ...and keep students on track \cite{Starfish}
+                                                  . It's integration into di...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Starfish' on page  undefined on input line 85.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no I in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -8239,6 +8301,11 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 84--86
 []
  []
 
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 84--86
+[]
+ []
+
 ! Undefined control sequence.
 l.87 \subsection
                 {College Scheduler}
@@ -8350,6 +8417,24 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{CollegeScheduler}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.88 ...d Pathway Planner. \cite{CollegeScheduler}
+                                                   The Schedule Planner focu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `CollegeScheduler' on page  undefined on input line 88.
+
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -8504,6 +8589,11 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 87--89
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 87--89
 []
  []
 
@@ -10633,6 +10723,23 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Blackboard}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.118 ...led Blackboard Planner. \cite{Blackboard}
+                                                   The main goals of Blackbo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Blackboard' on page  undefined on input line 118.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -10864,6 +10971,11 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 112--119
 
 Overfull \hbox (646.77966pt too wide) in paragraph at lines 112--119
 []\OML/cmm/m/it/10 tudents[]$
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 112--119
+[]
  []
 
 ! Undefined control sequence.
@@ -12681,6 +12793,23 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no " in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Coursicle}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.144 ...rsicle makes it better." \cite{Coursicle}
+                                                   The features of Coursicle...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Coursicle' on page  undefined on input line 144.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -13138,6 +13267,11 @@ Overfull \hbox (31.56087pt too wide) in paragraph at lines 138--145
 
 Overfull \hbox (141.19354pt too wide) in paragraph at lines 138--145
 \OT1/cmr/m/it/10 https://www.coursicle.com/unc/
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 138--145
+[]
  []
 
 ! Undefined control sequence.
@@ -14396,6 +14530,23 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{LinkedIn}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.154 ...est professional network. \cite{LinkedIn}
+                                                   It sets itself apart from...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `LinkedIn' on page  undefined on input line 154.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no I in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -14622,6 +14773,11 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 152--155
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 152--155
 []
  []
 
@@ -18113,6 +18269,23 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no " in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{TechHui}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.209 ...i's Technology Community." \cite{TechHui}
+                                                   The TechHui site has ten ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `TechHui' on page  undefined on input line 209.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -18224,6 +18397,11 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 208--210
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 208--210
 []
  []
 
@@ -23226,7 +23404,7 @@ or  <return>  to continue without it.
 
 ! Undefined control sequence.
 l.299 \subsection
-                 {Rate My Professor}
+                 {Rate My Professors}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -23248,6 +23426,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no R in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -23356,6 +23535,24 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{RateMyProfessors}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.300 ...s and professors. \cite{RateMyProfessors}
+                                                   Although users can create...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `RateMyProfessors' on page  undefined on input line 300
+.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -23647,6 +23844,11 @@ Overfull \hbox (31.56087pt too wide) in paragraph at lines 294--301
 
 Overfull \hbox (142.47127pt too wide) in paragraph at lines 294--301
 \OT1/cmr/m/it/10 http://www.ratemyprofessor.com
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 294--301
+[]
  []
 
 ! Undefined control sequence.
@@ -24789,6 +24991,24 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 6 in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Most_Popular_Social_Media}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.306 ...ber 2016 \cite{Most_Popular_Social_Media}
+                                                   are Facebook, Instagram, ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Most_Popular_Social_Media' on page  undefined on input
+ line 306.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -25313,6 +25533,11 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 305--307
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 305--307
 []
  []
 
@@ -27196,6 +27421,23 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no ! in font nullfont!
 Missing character: There is no " in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{SummonersWar}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.343 ...strategic victories!" \cite{SummonersWar}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `SummonersWar' on page  undefined on input line 343.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no w in font nullfont!
@@ -28389,6 +28631,11 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 342--345
  []
 
 
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 342--345
+[]
+ []
+
+
 ! LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -28898,6 +29145,24 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{LeagueOfLegends}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.355 ...um business model. \cite{LeagueOfLegends}
+                                                   In this game, the player ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `LeagueOfLegends' on page  undefined on input line 355.
+
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no I in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -30267,6 +30532,11 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 354--358
  []
 
 
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 354--358
+[]
+ []
+
+
 ! LaTeX Error: Environment figure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -30568,6 +30838,23 @@ Missing character: There is no w in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Hearthstone}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.365 ...o with a unique power. \cite{Hearthstone}
+                                                   Players can attack the op...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Hearthstone' on page  undefined on input line 365.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -31099,6 +31386,11 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 359--366
  []
 
 
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 359--366
+[]
+ []
+
+
 ! LaTeX Error: Environment figure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -31364,6 +31656,23 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{Overwatch}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.373 ...edefined hero character. \cite{Overwatch}
+                                                   There are four classes of...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `Overwatch' on page  undefined on input line 373.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -33463,6 +33772,11 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 367--376
  []
 
 
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 367--376
+[]
+ []
+
+
 ! LaTeX Error: Environment figure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -33675,6 +33989,23 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{PokemonGo}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.383 ...game for mobile devices. \cite{PokemonGo}
+                                                   Players use their device'...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `PokemonGo' on page  undefined on input line 383.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -33860,6 +34191,11 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 377--384
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 377--384
 []
  []
 
@@ -37218,173 +37554,135 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 402--403
  []
 
 
-! LaTeX Error: Missing \begin{document}.
+! LaTeX Error: Cannot be used in preamble.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.404 \cite {Most_Popular_Social_Media}
-                                       
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no [ in font nullfont!
-\citation{Most_Popular_Social_Media}
-! Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.404 \cite {Most_Popular_Social_Media}
-                                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `Most_Popular_Social_Media' on page  undefined on input
- line 404.
-
-Missing character: There is no ] in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{TechHui}
-! Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.405 \cite {TechHui}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `TechHui' on page  undefined on input line 405.
-
-Missing character: There is no ] in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{LinkedIn}
-! Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.406 \cite{LinkedIn}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `LinkedIn' on page  undefined on input line 406.
-
-Missing character: There is no ] in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{RateMyProfessors}
-! Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.407 \cite{RateMyProfessors}
-                             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `RateMyProfessors' on page  undefined on input line 407
-.
-
-Missing character: There is no ] in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{Starfish}
-! Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.408 \cite {Starfish}
+l.404 \nocite {Carini}
                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-LaTeX Warning: Citation `Starfish' on page  undefined on input line 408.
+! LaTeX Error: Cannot be used in preamble.
 
-Missing character: There is no ] in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{STAR}
-! Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.409 \cite {STAR}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.405 \nocite {Junco}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-LaTeX Warning: Citation `STAR' on page  undefined on input line 409.
+! LaTeX Error: Cannot be used in preamble.
 
-Missing character: There is no ] in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{Blackboard}
-! Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.410 \cite {Blackboard}
-                        
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.406 \nocite {Kuh}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-LaTeX Warning: Citation `Blackboard' on page  undefined on input line 410.
+! LaTeX Error: Cannot be used in preamble.
 
-Missing character: There is no ] in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{Coursicle}
-! Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.411 \cite {Coursicle}
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.407 \nocite {Chen}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.408 \nocite {Handelsman}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.409 \nocite {Junco2011}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.410 \nocite {Zhao}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.411 \nocite {Kuh2001}
                        
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-LaTeX Warning: Citation `Coursicle' on page  undefined on input line 411.
+! LaTeX Error: Cannot be used in preamble.
 
-Missing character: There is no ] in font nullfont!
-Missing character: There is no [ in font nullfont!
-\citation{CollegeScheduler}
-! Undefined control sequence.
-<write> ...: Citation `\@citeb ' on page \thepage 
-                                                  \space undefined\on@line .
-l.412 \cite {CollegeScheduler}
-                              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.412 \nocite {Kuh2003}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-LaTeX Warning: Citation `CollegeScheduler' on page  undefined on input line 412
-.
+! LaTeX Error: Cannot be used in preamble.
 
-Missing character: There is no ] in font nullfont!
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.413 \nocite {Huang}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 )
 ! Emergency stop.
 <*> related-work.tex
@@ -37393,10 +37691,10 @@ Missing character: There is no ] in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 23 strings out of 493014
- 357 string characters out of 6133351
- 70601 words of memory out of 5000000
- 3664 multiletter control sequences out of 15000+600000
+ 28 strings out of 493014
+ 423 string characters out of 6133351
+ 71601 words of memory out of 5000000
+ 3669 multiletter control sequences out of 15000+600000
  4294 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  18i,8n,21p,1447b,119s stack positions out of 5000i,500n,10000p,200000b,80000s
