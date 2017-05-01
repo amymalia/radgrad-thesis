@@ -34,7 +34,7 @@
 %%
 %%% Load the new uhthesis document class
 
-\documentclass[11pt, proposal]{uhthesis}
+\documentclass[11pt, thesis, actual]{uhthesis}
 \setcounter{secnumdepth}{5}
 %%% Load some useful packages:
 %% New LaTeX2e graphics support
@@ -113,8 +113,11 @@
 %%% Bring in the body of the thesis from external file
 \include{introduction}
 \include{related-work}
-\include{description}
-\include{design}
+\include{survey-design}
+\include{system-design}
+\include{survey-results}
+\include{system-results}
+\include{conclusion}
 \include{milestones}
 
 %%% Switch to appendix mode

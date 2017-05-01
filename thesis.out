@@ -20,39 +20,79 @@
 \BOOKMARK [2][-]{subsection.2.3.4}{Overwatch}{section.2.3}% 20
 \BOOKMARK [2][-]{subsection.2.3.5}{Pokemon Go}{section.2.3}% 21
 \BOOKMARK [2][-]{subsection.2.3.6}{Gamification and Academic/Professional/Social}{section.2.3}% 22
-\BOOKMARK [0][-]{chapter.3}{RadGrad System Requirements}{}% 23
-\BOOKMARK [1][-]{section.3.1}{Degree Planner}{chapter.3}% 24
-\BOOKMARK [2][-]{subsection.3.1.1}{Degree Plan}{section.3.1}% 25
-\BOOKMARK [2][-]{subsection.3.1.2}{Degree Goal}{section.3.1}% 26
-\BOOKMARK [2][-]{subsection.3.1.3}{Dashboard}{section.3.1}% 27
-\BOOKMARK [2][-]{subsection.3.1.4}{Recommendations}{section.3.1}% 28
-\BOOKMARK [2][-]{subsection.3.1.5}{STAR Interface}{section.3.1}% 29
-\BOOKMARK [2][-]{subsection.3.1.6}{Workload Adviser}{section.3.1}% 30
-\BOOKMARK [1][-]{section.3.2}{Degree Planner: Possible Further Implementations}{chapter.3}% 31
-\BOOKMARK [2][-]{subsection.3.2.1}{Predictions}{section.3.2}% 32
-\BOOKMARK [1][-]{section.3.3}{Social Network}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.3.1}{Profile}{section.3.3}% 34
-\BOOKMARK [2][-]{subsection.3.3.2}{Course Feedback}{section.3.3}% 35
-\BOOKMARK [2][-]{subsection.3.3.3}{Degree Feedback}{section.3.3}% 36
-\BOOKMARK [2][-]{subsection.3.3.4}{Feedback and User Evaluation}{section.3.3}% 37
-\BOOKMARK [1][-]{section.3.4}{Social Network: Possible Further Implementations}{chapter.3}% 38
-\BOOKMARK [2][-]{subsection.3.4.1}{Department Feedback}{section.3.4}% 39
-\BOOKMARK [2][-]{subsection.3.4.2}{Mentorship}{section.3.4}% 40
-\BOOKMARK [2][-]{subsection.3.4.3}{Billboard}{section.3.4}% 41
-\BOOKMARK [1][-]{section.3.5}{Gamification}{chapter.3}% 42
-\BOOKMARK [2][-]{subsection.3.5.1}{Stoplight}{section.3.5}% 43
-\BOOKMARK [2][-]{subsection.3.5.2}{Leaderboard}{section.3.5}% 44
-\BOOKMARK [2][-]{subsection.3.5.3}{Gamification: Possible Further Implementations}{section.3.5}% 45
-\BOOKMARK [2][-]{subsection.3.5.4}{ICE}{section.3.5}% 46
-\BOOKMARK [0][-]{chapter.4}{Experimental Evaluation}{}% 47
-\BOOKMARK [1][-]{section.4.1}{Baseline Assessment}{chapter.4}% 48
-\BOOKMARK [2][-]{subsection.4.1.1}{Basic Information}{section.4.1}% 49
-\BOOKMARK [2][-]{subsection.4.1.2}{Prospective ICS Students}{section.4.1}% 50
-\BOOKMARK [2][-]{subsection.4.1.3}{Current ICS Students}{section.4.1}% 51
-\BOOKMARK [2][-]{subsection.4.1.4}{Current ICS Students: Influences}{section.4.1}% 52
-\BOOKMARK [2][-]{subsection.4.1.5}{Graduating ICS Students}{section.4.1}% 53
-\BOOKMARK [1][-]{section.4.2}{Post-Deployment Assessment}{chapter.4}% 54
-\BOOKMARK [1][-]{section.4.3}{Comparison}{chapter.4}% 55
-\BOOKMARK [0][-]{chapter.5}{Thesis Timeline}{}% 56
-\BOOKMARK [0][-]{appendix.A}{Baseline Assessment}{}% 57
-\BOOKMARK [0][-]{appendix*.47}{Bibliography}{}% 58
+\BOOKMARK [0][-]{chapter.3}{Survey Design}{}% 23
+\BOOKMARK [1][-]{section.3.1}{Baseline Assessment}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.1.1}{Basic Information}{section.3.1}% 25
+\BOOKMARK [2][-]{subsection.3.1.2}{Prospective ICS Students}{section.3.1}% 26
+\BOOKMARK [2][-]{subsection.3.1.3}{Current ICS Students}{section.3.1}% 27
+\BOOKMARK [2][-]{subsection.3.1.4}{Current ICS Students: Influences}{section.3.1}% 28
+\BOOKMARK [2][-]{subsection.3.1.5}{Graduating ICS Students}{section.3.1}% 29
+\BOOKMARK [1][-]{section.3.2}{Post-Deployment Assessment}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.3}{Comparison}{chapter.3}% 31
+\BOOKMARK [0][-]{chapter.4}{System Design}{}% 32
+\BOOKMARK [1][-]{section.4.1}{Degree Planner}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.1.1}{Degree Plan}{section.4.1}% 34
+\BOOKMARK [2][-]{subsection.4.1.2}{Degree Goal}{section.4.1}% 35
+\BOOKMARK [2][-]{subsection.4.1.3}{Dashboard}{section.4.1}% 36
+\BOOKMARK [2][-]{subsection.4.1.4}{Recommendations}{section.4.1}% 37
+\BOOKMARK [2][-]{subsection.4.1.5}{STAR Interface}{section.4.1}% 38
+\BOOKMARK [2][-]{subsection.4.1.6}{Workload Adviser}{section.4.1}% 39
+\BOOKMARK [1][-]{section.4.2}{Degree Planner: Possible Further Implementations}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.2.1}{Predictions}{section.4.2}% 41
+\BOOKMARK [1][-]{section.4.3}{Social Network}{chapter.4}% 42
+\BOOKMARK [2][-]{subsection.4.3.1}{Profile}{section.4.3}% 43
+\BOOKMARK [2][-]{subsection.4.3.2}{Course Feedback}{section.4.3}% 44
+\BOOKMARK [2][-]{subsection.4.3.3}{Degree Feedback}{section.4.3}% 45
+\BOOKMARK [2][-]{subsection.4.3.4}{Feedback and User Evaluation}{section.4.3}% 46
+\BOOKMARK [1][-]{section.4.4}{Social Network: Possible Further Implementations}{chapter.4}% 47
+\BOOKMARK [2][-]{subsection.4.4.1}{Department Feedback}{section.4.4}% 48
+\BOOKMARK [2][-]{subsection.4.4.2}{Mentorship}{section.4.4}% 49
+\BOOKMARK [2][-]{subsection.4.4.3}{Billboard}{section.4.4}% 50
+\BOOKMARK [1][-]{section.4.5}{Gamification}{chapter.4}% 51
+\BOOKMARK [2][-]{subsection.4.5.1}{Stoplight}{section.4.5}% 52
+\BOOKMARK [2][-]{subsection.4.5.2}{Leaderboard}{section.4.5}% 53
+\BOOKMARK [2][-]{subsection.4.5.3}{Gamification: Possible Further Implementations}{section.4.5}% 54
+\BOOKMARK [2][-]{subsection.4.5.4}{ICE}{section.4.5}% 55
+\BOOKMARK [0][-]{chapter.5}{Survey Results}{}% 56
+\BOOKMARK [0][-]{chapter.6}{System Results}{}% 57
+\BOOKMARK [1][-]{section.6.1}{Development}{chapter.6}% 58
+\BOOKMARK [2][-]{subsection.6.1.1}{Frameworks and Environments}{section.6.1}% 59
+\BOOKMARK [2][-]{subsection.6.1.2}{Project Management}{section.6.1}% 60
+\BOOKMARK [1][-]{section.6.2}{Data Model}{chapter.6}% 61
+\BOOKMARK [2][-]{subsection.6.2.1}{Career Goals}{section.6.2}% 62
+\BOOKMARK [2][-]{subsection.6.2.2}{Courses}{section.6.2}% 63
+\BOOKMARK [2][-]{subsection.6.2.3}{Desired Degrees}{section.6.2}% 64
+\BOOKMARK [2][-]{subsection.6.2.4}{Degree Programs}{section.6.2}% 65
+\BOOKMARK [2][-]{subsection.6.2.5}{Feeds}{section.6.2}% 66
+\BOOKMARK [2][-]{subsection.6.2.6}{Feedbacks}{section.6.2}% 67
+\BOOKMARK [2][-]{subsection.6.2.7}{Help Messages}{section.6.2}% 68
+\BOOKMARK [2][-]{subsection.6.2.8}{ICE}{section.6.2}% 69
+\BOOKMARK [2][-]{subsection.6.2.9}{Integrity}{section.6.2}% 70
+\BOOKMARK [2][-]{subsection.6.2.10}{Interests}{section.6.2}% 71
+\BOOKMARK [2][-]{subsection.6.2.11}{Levels}{section.6.2}% 72
+\BOOKMARK [2][-]{subsection.6.2.12}{Advisor Logs}{section.6.2}% 73
+\BOOKMARK [2][-]{subsection.6.2.13}{Mentors}{section.6.2}% 74
+\BOOKMARK [2][-]{subsection.6.2.14}{Opportunities}{section.6.2}% 75
+\BOOKMARK [2][-]{subsection.6.2.15}{Public Stats}{section.6.2}% 76
+\BOOKMARK [2][-]{subsection.6.2.16}{Reviews}{section.6.2}% 77
+\BOOKMARK [2][-]{subsection.6.2.17}{Roles}{section.6.2}% 78
+\BOOKMARK [2][-]{subsection.6.2.18}{Semesters}{section.6.2}% 79
+\BOOKMARK [2][-]{subsection.6.2.19}{Slugs}{section.6.2}% 80
+\BOOKMARK [2][-]{subsection.6.2.20}{Teasers}{section.6.2}% 81
+\BOOKMARK [2][-]{subsection.6.2.21}{Users}{section.6.2}% 82
+\BOOKMARK [2][-]{subsection.6.2.22}{Verification Requests}{section.6.2}% 83
+\BOOKMARK [2][-]{subsection.6.2.23}{Academic Years}{section.6.2}% 84
+\BOOKMARK [1][-]{section.6.3}{Testing}{chapter.6}% 85
+\BOOKMARK [2][-]{subsection.6.3.1}{Interactive Testing}{section.6.3}% 86
+\BOOKMARK [2][-]{subsection.6.3.2}{Personas}{section.6.3}% 87
+\BOOKMARK [2][-]{subsection.6.3.3}{Beta Testing}{section.6.3}% 88
+\BOOKMARK [1][-]{section.6.4}{Student Mode}{chapter.6}% 89
+\BOOKMARK [2][-]{subsection.6.4.1}{Degree Planner}{section.6.4}% 90
+\BOOKMARK [2][-]{subsection.6.4.2}{Social Network}{section.6.4}% 91
+\BOOKMARK [2][-]{subsection.6.4.3}{Gamification}{section.6.4}% 92
+\BOOKMARK [1][-]{section.6.5}{Advisor Mode}{chapter.6}% 93
+\BOOKMARK [1][-]{section.6.6}{Administrator Mode}{chapter.6}% 94
+\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 95
+\BOOKMARK [0][-]{chapter.8}{Thesis Timeline}{}% 96
+\BOOKMARK [0][-]{appendix.A}{Baseline Assessment}{}% 97
+\BOOKMARK [0][-]{appendix*.51}{Bibliography}{}% 98
