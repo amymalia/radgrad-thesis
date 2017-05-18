@@ -145,22 +145,22 @@
 \contentsline {subsection}{\numberline {6.5.1}Student Configuration}{53}{subsection.6.5.1}
 \contentsline {subsection}{\numberline {6.5.2}Verification}{53}{subsection.6.5.2}
 \contentsline {subsection}{\numberline {6.5.3}Moderation}{53}{subsection.6.5.3}
-\contentsline {subsection}{\numberline {6.5.4}Academic Plan}{53}{subsection.6.5.4}
-\contentsline {section}{\numberline {6.6}Faculty Mode}{53}{section.6.6}
-\contentsline {subsection}{\numberline {6.6.1}Profile}{53}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.5.4}Academic Plan}{54}{subsection.6.5.4}
+\contentsline {section}{\numberline {6.6}Faculty Mode}{54}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}Profile}{54}{subsection.6.6.1}
 \contentsline {subsection}{\numberline {6.6.2}Manage Opportunities}{54}{subsection.6.6.2}
 \contentsline {subsection}{\numberline {6.6.3}Verification}{54}{subsection.6.6.3}
 \contentsline {subsection}{\numberline {6.6.4}Explorers}{54}{subsection.6.6.4}
-\contentsline {section}{\numberline {6.7}Mentor Mode}{54}{section.6.7}
-\contentsline {subsubsection}{\numberline {6.7.0.1}Profile}{54}{subsubsection.6.7.0.1}
-\contentsline {subsubsection}{\numberline {6.7.0.2}MentorSpace}{54}{subsubsection.6.7.0.2}
-\contentsline {subsubsection}{\numberline {6.7.0.3}Explorer}{54}{subsubsection.6.7.0.3}
+\contentsline {section}{\numberline {6.7}Mentor Mode}{55}{section.6.7}
+\contentsline {subsubsection}{\numberline {6.7.0.1}Profile}{55}{subsubsection.6.7.0.1}
+\contentsline {subsubsection}{\numberline {6.7.0.2}MentorSpace}{55}{subsubsection.6.7.0.2}
+\contentsline {subsubsection}{\numberline {6.7.0.3}Explorer}{55}{subsubsection.6.7.0.3}
 \contentsline {section}{\numberline {6.8}Administrator Mode}{55}{section.6.8}
 \contentsline {subsection}{\numberline {6.8.1}Retrieve User}{55}{subsection.6.8.1}
 \contentsline {subsection}{\numberline {6.8.2}Data Model}{55}{subsection.6.8.2}
-\contentsline {subsection}{\numberline {6.8.3}Data Base}{55}{subsection.6.8.3}
-\contentsline {subsection}{\numberline {6.8.4}Moderation}{55}{subsection.6.8.4}
-\contentsline {chapter}{\numberline {7}Conclusions}{68}{chapter.7}
-\contentsline {chapter}{\numberline {8}Thesis Timeline}{69}{chapter.8}
-\contentsline {chapter}{\numberline {A}Baseline Assessment}{70}{appendix.A}
-\contentsline {chapter}{Bibliography}{78}{appendix*.63}
+\contentsline {subsection}{\numberline {6.8.3}Data Base}{56}{subsection.6.8.3}
+\contentsline {subsection}{\numberline {6.8.4}Moderation}{56}{subsection.6.8.4}
+\contentsline {chapter}{\numberline {7}Conclusions}{80}{chapter.7}
+\contentsline {chapter}{\numberline {8}Thesis Timeline}{81}{chapter.8}
+\contentsline {chapter}{\numberline {A}Baseline Assessment}{82}{appendix.A}
+\contentsline {chapter}{Bibliography}{90}{appendix*.75}
