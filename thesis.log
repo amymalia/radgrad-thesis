@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  24 MAY 2017 22:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  25 MAY 2017 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -890,106 +890,106 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: images/sr-support-bar.png Graphic file (type png)
 
 <use images/sr-support-bar.png>
-Package pdftex.def Info: images/sr-support-bar.png used on input line 58.
+Package pdftex.def Info: images/sr-support-bar.png used on input line 61.
 (pdftex.def)             Requested size: 469.75502pt x 242.02621pt.
-
+ [39 <./images/sr-program-status.png>] [40 <./images/sr-excited-intimidated.png
+>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/sr-support-pie.png, id=1008, 298.11375pt x 258.9675pt>
+<images/sr-support-pie.png, id=1024, 298.11375pt x 258.9675pt>
 File: images/sr-support-pie.png Graphic file (type png)
 
 <use images/sr-support-pie.png>
-Package pdftex.def Info: images/sr-support-pie.png used on input line 64.
+Package pdftex.def Info: images/sr-support-pie.png used on input line 67.
 (pdftex.def)             Requested size: 469.75502pt x 408.09326pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/sr-changes.png, id=1009, 330.23375pt x 266.9975pt>
+<images/sr-changes.png, id=1025, 330.23375pt x 266.9975pt>
 File: images/sr-changes.png Graphic file (type png)
 
 <use images/sr-changes.png>
-Package pdftex.def Info: images/sr-changes.png used on input line 71.
+Package pdftex.def Info: images/sr-changes.png used on input line 76.
 (pdftex.def)             Requested size: 469.75502pt x 379.81537pt.
- [39 <./images/sr-program-status.png>]
+ [41 <./images/sr-extracurric-bar.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/sr-proud.png, id=1020, 657.45625pt x 286.06876pt>
+<images/sr-proud.png, id=1033, 657.45625pt x 286.06876pt>
 File: images/sr-proud.png Graphic file (type png)
 
 <use images/sr-proud.png>
-Package pdftex.def Info: images/sr-proud.png used on input line 78.
+Package pdftex.def Info: images/sr-proud.png used on input line 83.
 (pdftex.def)             Requested size: 469.75502pt x 204.40228pt.
-
+ [42 <./images/sr-extracurric-pie.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[40 <./images/sr-excited-intimidated.png>]
-<images/sr-alumni-influence.png, id=1030, 367.3725pt x 289.08pt>
+[43 <./images/sr-extracurric-pie-midgrad.png>]
+<images/sr-alumni-influence.png, id=1048, 367.3725pt x 289.08pt>
 File: images/sr-alumni-influence.png Graphic file (type png)
 
 <use images/sr-alumni-influence.png>
-Package pdftex.def Info: images/sr-alumni-influence.png used on input line 89.
+Package pdftex.def Info: images/sr-alumni-influence.png used on input line 94.
 (pdftex.def)             Requested size: 469.75502pt x 369.66824pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/sr-peer-influence.png, id=1031, 397.485pt x 280.04625pt>
+<images/sr-peer-influence.png, id=1049, 397.485pt x 280.04625pt>
 File: images/sr-peer-influence.png Graphic file (type png)
 
 <use images/sr-peer-influence.png>
-Package pdftex.def Info: images/sr-peer-influence.png used on input line 96.
+Package pdftex.def Info: images/sr-peer-influence.png used on input line 101.
 (pdftex.def)             Requested size: 469.75502pt x 330.973pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/sr-self-influence.png, id=1032, 343.2825pt x 246.9225pt>
+<images/sr-self-influence.png, id=1050, 343.2825pt x 246.9225pt>
 File: images/sr-self-influence.png Graphic file (type png)
 
 <use images/sr-self-influence.png>
-Package pdftex.def Info: images/sr-self-influence.png used on input line 103.
+Package pdftex.def Info: images/sr-self-influence.png used on input line 108.
 (pdftex.def)             Requested size: 469.75502pt x 337.89368pt.
-
+ [44 <./images/sr-support-bar.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Missing character: There is no â in font cmti10!
 Missing character: There is no € in font cmti10!
 Missing character: There is no ™ in font cmti10!
-<images/sr-prepared.png, id=1033, 360.34625pt x 298.11375pt>
+[45 <./images/sr-support-pie.png>]
+<images/sr-prepared.png, id=1067, 360.34625pt x 298.11375pt>
 File: images/sr-prepared.png Graphic file (type png)
 
 <use images/sr-prepared.png>
-Package pdftex.def Info: images/sr-prepared.png used on input line 114.
+Package pdftex.def Info: images/sr-prepared.png used on input line 119.
 (pdftex.def)             Requested size: 469.75502pt x 388.6259pt.
- [41 <./images/sr-extracurric-bar.png>]
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/sr-unprepared-grad-reasons.png, id=1043, 640.3925pt x 356.33125pt>
+<images/sr-unprepared-grad-reasons.png, id=1068, 640.3925pt x 356.33125pt>
 File: images/sr-unprepared-grad-reasons.png Graphic file (type png)
 
 <use images/sr-unprepared-grad-reasons.png>
 Package pdftex.def Info: images/sr-unprepared-grad-reasons.png used on input li
-ne 121.
+ne 126.
 (pdftex.def)             Requested size: 469.75502pt x 261.3865pt.
-
+ [46 <./images/sr-changes.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[42 <./images/sr-extracurric-pie.png>]) [43 <./images/sr-extracurric-pie-midgra
-d.png>] [44 <./images/sr-support-bar.png>] [45 <./images/sr-support-pie.png>]
-[46 <./images/sr-changes.png>] [47 <./images/sr-proud.png>] [48 <./images/sr-al
-umni-influence.png>] [49 <./images/sr-peer-influence.png>] [50 <./images/sr-sel
-f-influence.png>] [51 <./images/sr-prepared.png>] [52 <./images/sr-unprepared-g
-rad-reasons.png>]
+) [47 <./images/sr-proud.png>] [48 <./images/sr-alumni-influence.png>] [49 <./i
+mages/sr-peer-influence.png>] [50 <./images/sr-self-influence.png>] [51 <./imag
+es/sr-prepared.png>] [52 <./images/sr-unprepared-grad-reasons.png>]
 \openout2 = `system-results.aux'.
 
- (./system-results.tex
+
+(./system-results.tex
 Chapter 6.
 [53
 
@@ -1416,7 +1416,7 @@ usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (114 pages, 54304072 bytes).
+Output written on thesis.pdf (114 pages, 54309155 bytes).
 PDF statistics:
  1612 PDF objects out of 1728 (max. 8388607)
  1309 compressed objects within 14 object streams
