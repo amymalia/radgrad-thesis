@@ -29,7 +29,7 @@ Career goals represent possible ICS related careers that ICS students can aspire
 \subsection{Courses}
 Courses represent all past, present, and future ICS courses. Each course has an associated name, short name, slug, course number, description, credit hours, related interests, a syllabus URL, a URL for more information, and associated prerequisites. The course name is the official name appearing in the UH registration guide, and the course short name is used for display purposes. Students may add as many courses as they would like to their degree plan. 
 
-Course instances represent individual instances for each student. Each course instance has an associated semester, course, whether it has been verified or not, whether it came from STAR or not, grade, credit hours, note, student, and associated ICE points. A course instance is considered verified if ???. A course instance has a note if it is not an ICS course. It is important to note that course instances on RadGrad are only valid on RadGrad, and students must use other methods to officially make UH course registration changes.
+Course instances represent individual instances for each student. Each course instance has an associated semester, course, whether it has been verified or not, whether it came from STAR or not, grade, credit hours, note, student, and associated ICE points. A course instance is always considered verified if it is from STAR, but special courses that are manually input (not from STAR) could also be considered verified by an advisor. A course instance has a note if it is not an ICS course. It is important to note that course instances on RadGrad are only valid on RadGrad, and students must use other methods to officially make UH course registration changes.
 
 \subsection{Desired Degrees}
 Desired degrees represent all past, present, and future ICS degrees. Each desired degree has an associated name, short name, slug, and description. Students can only choose one desired degree at any given time. However, they are free to switch desired degrees as many times as they want. It is important to note that desired degrees on RadGrad are only valid on RadGrad, and students must use other methods to officially change their declared degree at UH. 
@@ -81,7 +81,7 @@ Virtual Reality & Web Development & iOS
 \end{table}
 
 \subsection{Levels}
-Levels represent a student's RadGrad level. There are six possible levels, from Level 1 to Level 6. A student's level is calculated based off the amount of ICS courses they have passed, the amount of opportunities they have done, and the amount of reviews they have contributed on RadGrad. Levels are calculated each time ??? 
+Levels represent a student's RadGrad level. There are six possible levels, from Level 1 to Level 6. A student's level is calculated based off the amount of ICS courses they have passed, the amount of opportunities they have done, and the amount of reviews they have contributed on RadGrad. Levels can be recalculated for all users at any time through the administrator pages.
 
 \subsection{Advisor Logs}
 Advisor logs represent an interaction between an ICS advisor and a student. Each advisor log has an associated student, advisor, text, and date created. A new log can be created by the advisor whenever they have a meeting with a student. Advisors and students can use these logs to keep track of when meetings were held, and what occurred at these meetings. 
@@ -114,7 +114,7 @@ Reviews represent all course and opportunity reviews written by students on RadG
 Roles represent the different user roles allowed in RadGrad. There are currently six roles: faculty, student, admin, alumni, advisor, and mentor. Currently, users are allowed to have exactly one role. All users except for admin and advisor can view only their own RadGrad pages. Advisors can also view student RadGrad pages, and admin can view all RadGrad pages. 
 
 \subsection{Semesters}
-Semesters represent an academic semester at the University of Hawaii. Each semester has an associated term, year, number to sort by, semester number, and slug. There are three possible terms: Spring, Summer, and Fall. The number to sort by easily allows chronological comparisons between semesters. Semester number is used for ??? 
+Semesters represent an academic semester at the University of Hawaii. Each semester has an associated term, year, number to sort by, semester number, and slug. There are three possible terms: Spring, Summer, and Fall. The number to sort by easily allows chronological comparisons between semesters. Semester number is another number used for sorting semesters, using 2010 as the earliest year. 
 
 \subsection{Slugs}
 Slugs are strings used as part of a URL to uniquely identify an entity. These strings do not change with different instantiations of the database like docIDs do. Slugs are used in the RadGrad data model to represent relationships between different entities. Therefore, only collections that need to be referenced by other collections contain a slug. 
@@ -208,7 +208,7 @@ Below the inspector is the academic plan pane. In this pane, students can select
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{degree-planner}
+\includegraphics[width=0.5\textwidth]{degree-planner}
 \caption{Degree Planner page.}
 \end{figure}
 
@@ -245,25 +245,25 @@ Course is not offered in chosen semester (future implementation) & Recommendatio
 \subsubsection{Career Goal, Course, Desired Degree and Opportunity Explorers}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{careergoal-explorer}
+\includegraphics[width=0.5\textwidth]{careergoal-explorer}
 \caption{Career Goal Explorer page.}
 \end{figure}
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{course-explorer}
+\includegraphics[width=0.5\textwidth]{course-explorer}
 \caption{Course Explorer page.}
 \end{figure}
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{degree-explorer}
+\includegraphics[width=0.5\textwidth]{degree-explorer}
 \caption{Degree Explorer page.}
 \end{figure}
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{opportunity-explorer}
+\includegraphics[width=0.5\textwidth]{opportunity-explorer}
 \caption{Opportunity Explorer page.}
 \end{figure}
 
@@ -282,7 +282,7 @@ The opportunity explorer lists all ICS opportunities on the left side. These opp
 \subsubsection{Teasers}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{student-home}
+\includegraphics[width=0.5\textwidth]{student-home}
 \caption{Student Home page with Teasers, Feed, and Recommended Courses and Opportunities.}
 \end{figure}
 Teasers are short (around 30 seconds) YouTube videos created by members of RadGrad to advertise their opportunity to the rest of RadGrad. Faculty members can create a teaser to help give students an idea of what their current research is about, and students can create a teaser to help give students an idea of what their club or event does and why other students should participate. These teasers supplement the textual opportunity descriptions in the explorer, and appear on the student's home page based off matching interests.
@@ -297,7 +297,7 @@ Another way RadGrad reminds users that they are not alone in using the system is
 \subsubsection{Mentorspace}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{mentor-space}
+\includegraphics[width=0.5\textwidth]{mentor-space}
 \caption{MentorSpace page.}
 \end{figure}
 Mentors and students can interact with each other on the MentorSpace page. The mentors are listed in the Mentor Directory on the right side of the page. Students can explore who the mentors are by expanding their profile and viewing information about their current company, current location, current job title, email address, LinkedIn, and a description about what inspired them to become a RadGrad mentor. On the left side of the page, students can submit new questions that they have for a mentor. Once the question has gone through moderation (by  Administrators), it will be posted on the MentorSpace for everyone to see. If a question is rejected, it can be edited and resubmitted as many times as desired. A question may be rejected if it contains profanity, is unclear, or is unrelated to ICS. Once a question is posted, mentors can leave an answer for the rest of the community to see. If a student has a specific question for a specific mentor, they can instead contact the mentor through the provided email rather than posting on MentorSpace, which is reserved for questions that can benefit the general ICS student community. 
@@ -305,7 +305,7 @@ Mentors and students can interact with each other on the MentorSpace page. The m
 \subsubsection{Advisor Log}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{advisor-log}
+\includegraphics[width=0.5\textwidth]{advisor-log}
 \caption{Student Advisor Log page.}
 \end{figure}
 Advisors and students can interact with each other on the Advisor Log page. When an advisor holds a meeting with a student, he can leave notes from the meeting on the student's Advisor Log. Each log includes a date, the name and avatar of the advisor, and the meeting notes. Advisors can use the log to keep track of their interactions with each student, and students can refer back to the log whenever they can't remember details about what their advisor had said. 
@@ -316,7 +316,7 @@ Students can post two different types of reviews: course reviews and opportunity
 \subsubsection{User Explorer}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{user-explorer-faculty}
+\includegraphics[width=0.5\textwidth]{user-explorer-faculty}
 \caption{User Explorer page.}
 \end{figure}
 
@@ -326,7 +326,7 @@ The user explorer lists all RadGrad users with their first name, last name, and 
 \subsubsection{ICE}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{student-ice}
+\includegraphics[width=0.5\textwidth]{student-ice}
 \caption{ICE page.}
 \end{figure}
 
@@ -337,7 +337,7 @@ ICE points are also represented for specific courses or opportunities. These ICE
 \subsubsection{Levels}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{levels}
+\includegraphics[width=0.5\textwidth]{levels}
 \caption{Levels page.}
 \end{figure}
 
@@ -349,7 +349,7 @@ Levels also persist physically off of RadGrad in the form of stickers. These sti
 \subsection{Student Configuration}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{advisor-student-configuration}
+\includegraphics[width=0.5\textwidth]{advisor-student-configuration}
 \caption{Advisor student configuration page.}
 \end{figure}
 On the student configuration page, advisors can add new students or update existing students. Existing students are listed alphabetically by last name. Advisors can update a student's first name, last name, picture, website, role, career goals, interests, desired degree, declared semester, level, year, academic plan, and plan starting semester from this interface. (Slug, email, and UH ID cannot be changed once the student has been added to RadGrad). On this page, advisors can also add advisor log comments and view any past advisor logs for a particular student. Advisors can also use this page to upload new star data and view past star data uploads. 
@@ -358,14 +358,14 @@ Advisors can verify a student's completion of an opportunity in two ways: with a
 \subsection{Moderation}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{advisor-moderation}
+\includegraphics[width=0.5\textwidth]{advisor-moderation}
 \caption{Advisor Moderation Page.}
 \end{figure}
 Advisors can use the moderation page to moderate course reviews, opportunity reviews, and MentorSpace questions. Advisors can choose to either accept or deny these posts. In the case of denial, advisors can leave reasons for denial so that the student can edit and resubmit their post accordingly. 
 \subsection{Academic Plan}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{advisor-academic-plan}
+\includegraphics[width=0.5\textwidth]{advisor-academic-plan}
 \caption{Advisor Academic Plan Page.}
 \end{figure}
 The academic plan page is the only place on RadGrad that allows the user to build academic plans. There are two tabs: Viewer and Builder. The viewer allows the advisor to choose a year and a plan name, and view the four year plan for that plan. To make any edits to an existing plan or add a new plan, advisors can go over to the builder, which allows them to name a new academic plan with a degree, name, and year. The advisor can then build the four year plan easily by dragging and dropping possible courses onto the initially empty plan. Some plans have more complex requirements than a single courses (i.e. a student must take one course from one of the four groups: ICS312 or ICS331, ICS 313 or ICS361, ICS351 or ICS451, or ICS355). For requirements like this, advisors can easily create groupings by dragging courses to the box with the link icon. Once a complex requirement is completely built, it can be dragged directly onto the plan. If an advisor no longer needs a certain requirement, they can delete it by dragging it to the trash can icon. 
@@ -374,27 +374,27 @@ The academic plan page is the only place on RadGrad that allows the user to buil
 \subsection{Profile}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{faculty-profile}
+\includegraphics[width=0.5\textwidth]{faculty-profile}
 \caption{Faculty profile page.}
 \end{figure}
 Faculty can use the profile page to view and edit their profile, which reflects how others will see them on RadGrad. On this page, faculty can update their photo and information about their website. Faculty can personalize their profiles in a way that accurately communicates their background and research to students. 
 \subsection{Manage Opportunities}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{faculty-opportunity}
+\includegraphics[width=0.5\textwidth]{faculty-opportunity}
 \caption{Faculty Manage Opportunities page.}
 \end{figure}
 Faculty can use the manage opportunities page to easily view, add, edit, or delete their sponsored opportunities. They can also view other opportunities, but they can only edit their own. Faculty can edit their opportunities at any time.
 \subsection{Verification}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{faculty-verification}
+\includegraphics[width=0.5\textwidth]{faculty-verification}
 \caption{Verification Page.}
 \end{figure}
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{faculty-pending-verification}
+\includegraphics[width=0.5\textwidth]{faculty-pending-verification}
 \caption{Pending Verifications Page.}
 \end{figure}
 Faculty have the same verification interface as advisors, except they can only view their own verifications for their own sponsored opportunities. 
@@ -405,14 +405,14 @@ Faculty view the same explorer as students, except they cannot add courses or op
 \subsubsection{Profile}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{mentor-profile}
+\includegraphics[width=0.5\textwidth]{mentor-profile}
 \caption{Mentor profile page.}
 \end{figure}
 Mentors can use the profile page to view and edit their profile, which reflects how others will see them on RadGrad. On this page, mentors can update their photo and information about their website, company, job title, location, LinkedIn, and motivation for becoming a mentor. Mentors can personalize their profiles in a way that accurately communicates their background and willingness to help to the students. 
 \subsubsection{MentorSpace}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{mentor-mentorspace}
+\includegraphics[width=0.5\textwidth]{mentor-mentorspace}
 \caption{Mentor MentorSpace Page.}
 \end{figure}
 Mentors view the same MentorSpace that students do, except each question has an ``Answer this question" or ``Edit your answer" button. Clicking on this button brings up a form at the top of the page, which mentors can use to either submit a new answer or revise their existing answer. 
@@ -423,7 +423,7 @@ Mentors view the same explorer as students, except they cannot add courses or op
 \subsection{Retrieve User}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{admin-retrieve-user}
+\includegraphics[width=0.5\textwidth]{admin-retrieve-user}
 \caption{Administrator Retrieve User page.}
 \end{figure}
 On the Administrator home page, an administrator can access any user's account. Users are organized by role (on tabs) and then alphabetically by last name. Clicking on the user's name will lead to their profile. Administrators can use this for testing or troubleshooting purposes. On the student tab, there is also a button to update student levels. Clicking this button will automatically recalculate and set the levels for all of the students.
@@ -431,14 +431,14 @@ On the Administrator home page, an administrator can access any user's account. 
 \subsection{Data Model}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{admin-datamodel}
+\includegraphics[width=0.5\textwidth]{admin-datamodel}
 \caption{Administrator Data Model page.}
 \end{figure}
 The data model page allows administrators to view, add, edit, and delete items from the data model. The menu on the left lists all collections. When an administrator clicks on a collection, they will see a form, which they can use manipulate items in that collection. Below the form, they can view a list of all existing collection items. 
 \subsection{Data Base}
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\textwidth]{admin-database}
+\includegraphics[width=0.5\textwidth]{admin-database}
 \caption{Administrator Data Base page.}
 \end{figure}
 The database page allows administrators to easily run an integrity check on the database, dump the database, and restore the database. The integrity check tests every item in the database to make sure that all parts of it are valid. Dumping the database saves the current state of the database to a JSON file and downloads it to your computer. Restoring the database deletes the current database and reloads an earlier version from a JSON file. Administrators can use this in backup and testing situations.
