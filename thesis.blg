@@ -4,9 +4,10 @@ The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: related-work.aux
-A level-1 auxiliary file: description.aux
-A level-1 auxiliary file: design.aux
-A level-1 auxiliary file: milestones.aux
+A level-1 auxiliary file: survey.aux
+A level-1 auxiliary file: radgrad-system.aux
+A level-1 auxiliary file: conclusion.aux
+A level-1 auxiliary file: appendix.aux
 The style file: plain.bst
 Database file #1: references.bib
 Warning--to sort, need author or key in STAR
@@ -18,50 +19,52 @@ Warning--to sort, need author or key in LinkedIn
 Warning--to sort, need author or key in TechHui
 Warning--to sort, need author or key in RateMyProfessors
 Warning--to sort, need author or key in Most_Popular_Social_Media
-Warning--to sort, need author or key in SummonersWar
 Warning--to sort, need author or key in LeagueOfLegends
 Warning--to sort, need author or key in Hearthstone
 Warning--to sort, need author or key in Overwatch
 Warning--to sort, need author or key in PokemonGo
-You've used 25 entries,
+Warning--to sort, need author or key in Serious_Games
+Warning--to sort, need author or key in gamification
+Warning--to sort, need author or key in Nike
+You've used 30 entries,
             2118 wiz_defined-function locations,
-            633 strings with 7015 characters,
-and the built_in function-call counts, 5188 in all, are:
-= -- 517
-> -- 168
+            657 strings with 7809 characters,
+and the built_in function-call counts, 6508 in all, are:
+= -- 639
+> -- 248
 < -- 0
-+ -- 75
-- -- 50
-* -- 241
-:= -- 810
-add.period$ -- 76
-call.type$ -- 25
-change.case$ -- 100
++ -- 108
+- -- 78
+* -- 321
+:= -- 1031
+add.period$ -- 92
+call.type$ -- 30
+change.case$ -- 129
 chr.to.int$ -- 0
-cite$ -- 39
-duplicate$ -- 205
-empty$ -- 515
-format.name$ -- 50
-if$ -- 1153
+cite$ -- 46
+duplicate$ -- 246
+empty$ -- 617
+format.name$ -- 78
+if$ -- 1428
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 10
-newline$ -- 129
-num.names$ -- 22
-pop$ -- 158
+int.to.str$ -- 30
+missing$ -- 12
+newline$ -- 155
+num.names$ -- 28
+pop$ -- 201
 preamble$ -- 1
-purify$ -- 75
+purify$ -- 99
 quote$ -- 0
-skip$ -- 169
+skip$ -- 201
 stack$ -- 0
-substring$ -- 125
-swap$ -- 25
+substring$ -- 150
+swap$ -- 30
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 100
-warning$ -- 14
-while$ -- 22
-width$ -- 27
-write$ -- 262
-(There were 14 warnings)
+type$ -- 120
+warning$ -- 16
+while$ -- 28
+width$ -- 32
+write$ -- 314
+(There were 16 warnings)

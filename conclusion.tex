@@ -1,18 +1,125 @@
 \chapter{Conclusions}
-The main goal of this thesis is to find evidence of a problem, gather more concrete evidence of this problem, and attempt to solve the problem with the initial design and implementation of a system. When I initially gathered TechHui data about the pros and cons of being an ICS student at UH Manoa, I found the first evidence of a problem: over the past eight years, students were not fully satisfied with the ICS experience. I then designed and implemented an ICS experience survey, which surveyed 100 current ICS students and asked more specific questions about their ICS experience. The results of this survey gave more concrete evidence that there is room for improvement in the ICS department when it comes to encouraging and enabling students to participate in extracurricular activities, giving students the support they need from all members of the department, and encouraging and enabling students to interact with each other and ICS alumni on an academic or professional level. Along with the rest of the RadGrad team, I have helped to design and implement a system called RadGrad, which aims to address many perceived deficiencies within the ICS department. By combining degree planning, social networking, and gamification, RadGrad aims to improve the ICS student experience on academic, professional, and social levels. 
 
-With the current implemented features, RadGrad aims to solve the following five out of the ten categories from the TechHui data. The social networking features aim to solve numbers 1, 4, and 5. The review feature has the potential to solve number 2. The degree planner system, interests, career goals, and opportunities will help students become more aware of the degree focuses that are offered, and allows students to create their own customized ICS experience based off their own interests and career goals, which solves number 3. Although RadGrad doesn't currently address all of the problems that students have, it could potentially cover more issues in future deployments. 
+The main goal of this thesis was to find evidence of a problem, gather baseline values for this problem, and attempt to solve the problem with the initial design and implementation of a system. When I initially gathered TechHui data about the pros and cons of being an ICS student at UH Manoa, I found the first evidence of a problem: over the past eight years, students were not fully satisfied academically, professionally, or socially with their ICS experience. I then researched existing degree planning, social networking, and gamification systems to get an idea of what is currently available to students, and how they could be improved. I then designed and implemented an ICS experience baseline survey, which surveyed 100 current ICS students and asked more specific questions about their ICS experience. The results of this survey gave more concrete evidence that there is room for improvement in the ICS department when it comes to encouraging and enabling students to participate in extracurricular activities, giving students the support they need from all members of the department, and encouraging and enabling students to interact with each other and ICS alumni on an academic or professional level. The results of this baseline survey can be used in a future study that compares the undergraduate experience before and after using RadGrad to test the effectiveness of the system. Along with the rest of the RadGrad team, I have helped to design and implement the RadGrad system, which aims to address many perceived deficiencies within the ICS department. By combining degree planning, social networking, and gamification, RadGrad aims to improve the ICS student experience on academic, professional, and social levels. 
+
+With the current implemented features, RadGrad aims to solve the following eight out of the ten complaints from the TechHui data. The social networking features encourage students to get to know and work with other members of the community, which aim to solve numbers 3, 4, 7, and 8. The degree planner system, and explorers will help students become more aware of the different opportunities available to them, and allows students to create their own customized ICS experience based off their own interests, career goals, and time constraints which solves number 1, 2, 5, and 6. Although RadGrad doesn't currently address all of the problems that students have, it could potentially cover more issues in future deployments. 
 
 \begin{enumerate}
+  \item The ICS department needs to offer classes more frequently.
+  \item The ICS department needs to offer a wider variety of classes.
   \item The ICS department needs a better sense of community.
   \item Some of the professors in the ICS department need to improve their teaching.
   \item The ICS department should offer more focused areas of study.
+  \item ICS classes are too time consuming and take up more time than anticipated.
   \item ICS courses should involve more group work 
   \item ICS should encourage more interaction among students.
 \end{enumerate}
 
-After completing this thesis, RadGrad development will continue, and is scheduled to be deployed within the ICS department in Fall 2017. Future studies will be necessary to test whether or not RadGrad is adequately addressing problems within the department. After students have integrated RadGrad into their life for at least one semester (the time needed to go through once registration process and have enough time to participate in opportunities and courses), future studies may want to conduct another survey with ICS students. This survey could include similar questions to the survey conducted in my survey, which can then be used to compare and contrast pre- and post-RadGrad results. This survey could also include more RadGrad specific questions, to get an idea of how students feel about using the system. Furthermore, gathering usage statistics could possibly add valuable insight into how users are actually responding to and interacting with the system. Based on the results of these studies, RadGrad could either be further improved to better solve the perceived problems, or discarded if there is no evidence that RadGrad has any positive impact on the ICS community.
+When comparing RadGrad to the existing degree planning systems discussed in Section \ref{related-work}, RadGrad implements many potentially degree experience enhancing features that these current systems do not \ref{degree-compare}. 
 
-Assuming that RadGrad is successful within the ICS department, future possible expansions include integration into other departments at UH Manoa, being established as a staple UH system that will get its own funding and staff positions, being integrated at other universities, and finally being integrated in other environments, such as within tech companies. 
+\begin{table}[htbp!]
+\centering
+\begin{tabular}{ |p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}| } 
+  \hline
+ \textbf{} & \textbf{STAR} & \textbf{Starfish} & \textbf{College Scheduler} & \textbf{Blackboard Planner}  & \textbf{Coursicle}  & \textbf{RadGrad} \\ 
+  \hline
+  Major specific & & & & & & X\\
+  \hline
+    Provides personal degree plan recommendations & & & X & & & X\\
+  \hline
+    Helps students explore interests & & & & X & & X\\
+  \hline
+    Helps students explore career goals & & & & X & & X\\
+  \hline
+    Emphasizes extracurriculars in degree plans & & & & & & X\\
+  \hline
+
+\end{tabular}
+ \caption{Comparison of existing degree planner systems and RadGrad}
+  \label{degree-compare}
+\end{table}
+
+When comparing RadGrad to the existing social networking systems discussed in Section \ref{related-work}, RadGrad implements many potentially socially helpful features that these current systems do not \ref{social-compare}. 
+
+\begin{table}[htbp!]
+\centering
+\begin{tabular}{ |p{8cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}| } 
+  \hline
+ \textbf{} & \textbf{LinkedIn} & \textbf{TechHui} & \textbf{Rate My Professors} &  \textbf{RadGrad} \\ 
+  \hline
+  Special support for students & & & X & X\\
+  \hline
+    Encourages open and honest communication between professors, students, alumni, advisors
+ & & X & & X\\
+  \hline
+   Computer science focused & & X & & X\\
+  \hline
+  Local community & & X & & X\\
+  \hline
+
+\end{tabular}
+ \caption{Comparison of existing social networking systems and RadGrad}
+ \label{social-compare}
+\end{table}
+
+When comparing RadGrad to the popular video games discussed in Section \ref{related-work}, RadGrad implements many of the same gamification features as several of these games \ref{gamification-compare}. 
+
+\begin{table}[htbp!]
+\centering
+\begin{tabular}{ |p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}| } 
+  \hline
+ \textbf{} & \textbf{League of Legends} & \textbf{Hearth- stone} & \textbf{Overwatch} & \textbf{Pokemon Go} & \textbf{RadGrad} \\ 
+  \hline
+  Enjoyable/ addicting/ satisfying & X & X & X & X & X\\
+  \hline
+   Multiplayer & X & X & X & X & X\\
+  \hline
+    Work together as a team to advance individually & X & & X & X & X\\
+  \hline
+    Small and large rewards throughout & X & X & X & X & X\\
+  \hline
+    Rewards for putting in the time & X &  & X & X & X\\
+  \hline
+    Persistence of the player & X & X & X & X & X\\
+  \hline
+\end{tabular}
+ \caption{Comparison of popular games and RadGrad}
+  \label{gamification-compare}
+\end{table}
+
+When comparing RadGrad to the common game mechanics that many serious games use, as discussed in Section \ref{related-work}, RadGrad implements 8 of the 12 game mechanics as well. \ref{serious-games}. 
+
+\begin{table}[htbp!]
+\centering
+\begin{tabular}{ |p{8cm}|p{8cm}| } 
+  \hline
+ \textbf{Game mechanics} & \textbf{RadGrad Implementation} \\ 
+  \hline
+   Points & ICE points \\ 
+  \hline
+   Achievements &  RadGrad levels award badges for certain achievements\\ 
+  \hline
+   Progression &  ICE graphs change throughout the degree program to reflect progress\\ 
+  \hline
+   Countdown & Students must achieve 100 ICE points in each area before they graduate \\ 
+  \hline
+   Quests & Each semester in a student's degree plan represents a set of obstacles (courses and opportunities) that they must overcome \\ 
+  \hline
+   Loss Aversion & Students can maximize their ability to gain points and levels by choosing courses and opportunities that interest them, rather than courses or opportunities they believe they may not do well in. \\ 
+  \hline
+  Status &  Levels establish a sense of status\\ 
+  \hline
+   Community Collaboration &  Students can meet each other on RadGrad and work together to achieve ICE points and levels\\ 
+  \hline
+
+\end{tabular}
+ \caption{Comparison of popular games and RadGrad}
+  \label{serious-games}
+\end{table}
+
+
+Comparing RadGrad to existing degree planning, social networking, and game systems suggests that RadGrad can potentially improve upon and combine aspects from these three areas together in a novel way. After completing this thesis, RadGrad development will continue, and is scheduled to be deployed within the ICS department in Fall 2017. Future studies will be necessary to test whether or not RadGrad is adequately addressing problems within the department. After students have integrated RadGrad into their life for around 18 months (the time needed to go through once registration process several times and have enough time to participate in several opportunities and courses), future studies may want to conduct another survey with ICS students. This survey could include similar questions to the survey conducted in my survey, which can then be used to compare and contrast pre- and post-RadGrad results. To account for possible confounding variables, this survey could also include more RadGrad specific questions, to get a more direct idea of how students feel about using the system. Furthermore, gathering usage statistics could possibly add valuable insight into how users are actually responding to and interacting with the system. Based on the results of these studies, RadGrad could either be further improved to better solve the perceived problems, or discarded if there is no evidence that RadGrad has any positive impact on the ICS community.
+
+Assuming that RadGrad is successful within the ICS department, future possible expansions include integration into other departments at UH Manoa, being established as a staple UH system that will get its own funding and staff positions, being integrated at other universities, being available for high school students to learn more about the department before choosing a major, and finally being integrated in other environments, such as within tech companies. 
 
 This thesis marks the beginning of the RadGrad journey, and will hopefully be the first of many studies. After completing this thesis, the overall results suggest that RadGrad is progressing in a promising direction, and if it continues on that path, it will have the potential to positively revolutionize the lives of future students in many different ways.   

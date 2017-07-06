@@ -26,7 +26,7 @@
 \contentsline {subsection}{\numberline {2.1.5}Coursicle}{12}{subsection.2.1.5}
 \contentsline {subsubsection}{\numberline {2.1.5.1}Coursicle and Academic/Professional/Social Engagement}{12}{subsubsection.2.1.5.1}
 \contentsline {subsection}{\numberline {2.1.6}Individual Student Software and Academic/Professional/Social Engagement}{12}{subsection.2.1.6}
-\contentsline {section}{\numberline {2.2}Social Network}{12}{section.2.2}
+\contentsline {section}{\numberline {2.2}Social Networks}{12}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}LinkedIn}{12}{subsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.1.1}Home}{13}{subsubsection.2.2.1.1}
 \contentsline {subsubsection}{\numberline {2.2.1.2}Profile}{13}{subsubsection.2.2.1.2}
@@ -48,121 +48,91 @@
 \contentsline {subsubsection}{\numberline {2.2.2.10}Coders}{19}{subsubsection.2.2.2.10}
 \contentsline {subsubsection}{\numberline {2.2.2.11}TechHui and Academic/Professional/Social Engagement}{19}{subsubsection.2.2.2.11}
 \contentsline {subsection}{\numberline {2.2.3}Rate My Professors}{20}{subsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.3.1}Rate My Professor and Academic/Professional/Social Engagement}{21}{subsubsection.2.2.3.1}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Rate My Professor and Academic/Professional/Social Engagement}{20}{subsubsection.2.2.3.1}
 \contentsline {subsection}{\numberline {2.2.4}Other Popular Social Networks and Academic/Professional/Social Engagement}{21}{subsection.2.2.4}
 \contentsline {section}{\numberline {2.3}Gamification}{22}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Summoners War}{23}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}League Of Legends}{24}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Hearthstone}{24}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Overwatch}{25}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Pokemon Go}{26}{subsection.2.3.5}
-\contentsline {subsection}{\numberline {2.3.6}Gamification and Academic/Professional/Social}{27}{subsection.2.3.6}
-\contentsline {chapter}{\numberline {3}Survey Design}{28}{chapter.3}
-\contentsline {section}{\numberline {3.1}Baseline Survey}{28}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Basic Information}{28}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Prospective ICS Students}{28}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Current ICS Students}{29}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Current ICS Students: Influences}{29}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}Graduating ICS Students}{30}{subsection.3.1.5}
-\contentsline {section}{\numberline {3.2}Analysis}{30}{section.3.2}
-\contentsline {chapter}{\numberline {4}System Design}{31}{chapter.4}
-\contentsline {section}{\numberline {4.1}Degree Planner}{31}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Degree Plan}{31}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Degree Goal}{31}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Dashboard}{31}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Recommendations}{32}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}STAR Interface}{32}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Workload Adviser}{32}{subsection.4.1.6}
-\contentsline {section}{\numberline {4.2}Degree Planner: Possible Enhancements}{32}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Predictions}{32}{subsection.4.2.1}
-\contentsline {section}{\numberline {4.3}Social Network}{33}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Profile}{33}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Course Feedback}{33}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Degree Feedback}{33}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Feedback and User Evaluation}{34}{subsection.4.3.4}
-\contentsline {section}{\numberline {4.4}Social Network: Possible Enhancements}{34}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Department Feedback}{34}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Mentorship}{34}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Billboard}{34}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Gamification}{35}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}ICE}{35}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}Gamification: Possible Enhancements}{35}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}Stoplight}{35}{subsection.4.5.3}
-\contentsline {subsection}{\numberline {4.5.4}Leaderboard}{36}{subsection.4.5.4}
-\contentsline {chapter}{\numberline {5}Survey Results}{37}{chapter.5}
-\contentsline {section}{\numberline {5.1}Basic Information}{37}{section.5.1}
-\contentsline {section}{\numberline {5.2}Prospective ICS Students}{38}{section.5.2}
-\contentsline {section}{\numberline {5.3}Current ICS Students}{39}{section.5.3}
-\contentsline {section}{\numberline {5.4}Current ICS Students: Influences}{43}{section.5.4}
-\contentsline {section}{\numberline {5.5}Graduating ICS Students}{46}{section.5.5}
-\contentsline {chapter}{\numberline {6}System Results}{52}{chapter.6}
-\contentsline {section}{\numberline {6.1}Development}{52}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Frameworks and Environments}{52}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Project Management}{52}{subsection.6.1.2}
-\contentsline {section}{\numberline {6.2}Data Model}{52}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Career Goals}{52}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Courses}{54}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Desired Degrees}{55}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Degree Plan}{55}{subsection.6.2.4}
-\contentsline {subsection}{\numberline {6.2.5}Feeds}{56}{subsection.6.2.5}
-\contentsline {subsection}{\numberline {6.2.6}Feedbacks}{56}{subsection.6.2.6}
-\contentsline {subsection}{\numberline {6.2.7}Help Messages}{57}{subsection.6.2.7}
-\contentsline {subsection}{\numberline {6.2.8}ICE}{57}{subsection.6.2.8}
-\contentsline {subsection}{\numberline {6.2.9}Interests}{58}{subsection.6.2.9}
-\contentsline {subsection}{\numberline {6.2.10}Levels}{59}{subsection.6.2.10}
-\contentsline {subsection}{\numberline {6.2.11}Advisor Logs}{60}{subsection.6.2.11}
-\contentsline {subsection}{\numberline {6.2.12}Mentors}{60}{subsection.6.2.12}
-\contentsline {subsection}{\numberline {6.2.13}Opportunities}{61}{subsection.6.2.13}
-\contentsline {subsection}{\numberline {6.2.14}Public Stats}{62}{subsection.6.2.14}
-\contentsline {subsection}{\numberline {6.2.15}Reviews}{62}{subsection.6.2.15}
-\contentsline {subsection}{\numberline {6.2.16}Roles}{63}{subsection.6.2.16}
-\contentsline {subsection}{\numberline {6.2.17}Semesters}{63}{subsection.6.2.17}
-\contentsline {subsection}{\numberline {6.2.18}Slugs}{64}{subsection.6.2.18}
-\contentsline {subsection}{\numberline {6.2.19}Teasers}{64}{subsection.6.2.19}
-\contentsline {subsection}{\numberline {6.2.20}Users}{65}{subsection.6.2.20}
-\contentsline {subsection}{\numberline {6.2.21}Verification Requests}{66}{subsection.6.2.21}
-\contentsline {subsection}{\numberline {6.2.22}Academic Years}{66}{subsection.6.2.22}
-\contentsline {section}{\numberline {6.3}Testing}{66}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Interactive Testing}{66}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Personas}{67}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Beta Testing}{67}{subsection.6.3.3}
-\contentsline {subsubsection}{\numberline {6.3.3.1}Student Beta Testing}{68}{subsubsection.6.3.3.1}
-\contentsline {subsubsection}{\numberline {6.3.3.2}Advisor Beta Test}{68}{subsubsection.6.3.3.2}
-\contentsline {section}{\numberline {6.4}Student Mode}{68}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Degree Planner}{68}{subsection.6.4.1}
-\contentsline {subsubsection}{\numberline {6.4.1.1}Degree Planner}{68}{subsubsection.6.4.1.1}
-\contentsline {subsubsection}{\numberline {6.4.1.2}Recommendations and Warnings}{74}{subsubsection.6.4.1.2}
-\contentsline {subsubsection}{\numberline {6.4.1.3}Career Goal, Course, Desired Degree and Opportunity Explorers}{74}{subsubsection.6.4.1.3}
-\contentsline {subsubsection}{\numberline {6.4.1.4}Teasers}{79}{subsubsection.6.4.1.4}
-\contentsline {subsection}{\numberline {6.4.2}Social Network}{82}{subsection.6.4.2}
-\contentsline {subsubsection}{\numberline {6.4.2.1}Avatars}{82}{subsubsection.6.4.2.1}
-\contentsline {subsubsection}{\numberline {6.4.2.2}Feed}{82}{subsubsection.6.4.2.2}
-\contentsline {subsubsection}{\numberline {6.4.2.3}Mentorspace}{82}{subsubsection.6.4.2.3}
-\contentsline {subsubsection}{\numberline {6.4.2.4}Advisor Log}{85}{subsubsection.6.4.2.4}
-\contentsline {subsubsection}{\numberline {6.4.2.5}Reviews}{85}{subsubsection.6.4.2.5}
-\contentsline {subsubsection}{\numberline {6.4.2.6}User Explorer}{85}{subsubsection.6.4.2.6}
-\contentsline {subsection}{\numberline {6.4.3}Gamification}{88}{subsection.6.4.3}
-\contentsline {subsubsection}{\numberline {6.4.3.1}ICE}{88}{subsubsection.6.4.3.1}
-\contentsline {subsubsection}{\numberline {6.4.3.2}Levels}{88}{subsubsection.6.4.3.2}
-\contentsline {section}{\numberline {6.5}Advisor Mode}{90}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Student Configuration}{90}{subsection.6.5.1}
-\contentsline {subsection}{\numberline {6.5.2}Verification}{93}{subsection.6.5.2}
-\contentsline {subsection}{\numberline {6.5.3}Moderation}{93}{subsection.6.5.3}
-\contentsline {subsection}{\numberline {6.5.4}Academic Plan}{95}{subsection.6.5.4}
-\contentsline {section}{\numberline {6.6}Faculty Mode}{95}{section.6.6}
-\contentsline {subsection}{\numberline {6.6.1}Profile}{95}{subsection.6.6.1}
-\contentsline {subsection}{\numberline {6.6.2}Manage Opportunities}{96}{subsection.6.6.2}
-\contentsline {subsection}{\numberline {6.6.3}Verification}{97}{subsection.6.6.3}
-\contentsline {subsection}{\numberline {6.6.4}Explorers}{97}{subsection.6.6.4}
-\contentsline {section}{\numberline {6.7}Mentor Mode}{97}{section.6.7}
-\contentsline {subsubsection}{\numberline {6.7.0.1}Profile}{97}{subsubsection.6.7.0.1}
-\contentsline {subsubsection}{\numberline {6.7.0.2}MentorSpace}{98}{subsubsection.6.7.0.2}
-\contentsline {subsubsection}{\numberline {6.7.0.3}Explorer}{98}{subsubsection.6.7.0.3}
-\contentsline {section}{\numberline {6.8}Administrator Mode}{99}{section.6.8}
-\contentsline {subsection}{\numberline {6.8.1}Retrieve User}{99}{subsection.6.8.1}
-\contentsline {subsection}{\numberline {6.8.2}Data Model}{99}{subsection.6.8.2}
-\contentsline {subsection}{\numberline {6.8.3}Data Base}{99}{subsection.6.8.3}
-\contentsline {subsection}{\numberline {6.8.4}Moderation}{99}{subsection.6.8.4}
-\contentsline {chapter}{\numberline {7}Conclusions}{102}{chapter.7}
-\contentsline {chapter}{\numberline {A}Baseline Assessment}{104}{appendix.A}
-\contentsline {chapter}{Bibliography}{112}{appendix*.119}
+\contentsline {subsection}{\numberline {2.3.1}League Of Legends}{22}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Hearthstone}{24}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Overwatch}{24}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Pokemon Go}{25}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Serious Games}{26}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Gamification and Academic/Professional/Social Engagement}{27}{subsection.2.3.6}
+\contentsline {chapter}{\numberline {3}Survey}{30}{chapter.3}
+\contentsline {section}{\numberline {3.1}Demographics}{30}{section.3.1}
+\contentsline {section}{\numberline {3.2}Prospective ICS Students}{32}{section.3.2}
+\contentsline {section}{\numberline {3.3}Current ICS Students}{33}{section.3.3}
+\contentsline {section}{\numberline {3.4}Current ICS Students: Influences}{38}{section.3.4}
+\contentsline {section}{\numberline {3.5}Graduating ICS Students}{40}{section.3.5}
+\contentsline {chapter}{\numberline {4}RadGrad System}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}Development}{45}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Frameworks and Environments}{45}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Project Management}{45}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}RadGrad Users}{46}{section.4.2}
+\contentsline {section}{\numberline {4.3}Student Components}{46}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Degree Planning}{46}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Degree Planner}{46}{subsubsection.4.3.1.1}
+\contentsline {subsubsection}{\numberline {4.3.1.2}Recommendations and Warnings}{49}{subsubsection.4.3.1.2}
+\contentsline {subsubsection}{\numberline {4.3.1.3}Career Goal, Course, Desired Degree and Opportunity Explorers}{53}{subsubsection.4.3.1.3}
+\contentsline {subsubsection}{\numberline {4.3.1.4}Teasers}{57}{subsubsection.4.3.1.4}
+\contentsline {subsection}{\numberline {4.3.2}Social Network}{60}{subsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2.1}User Explorer}{60}{subsubsection.4.3.2.1}
+\contentsline {subsubsection}{\numberline {4.3.2.2}Feed}{60}{subsubsection.4.3.2.2}
+\contentsline {subsubsection}{\numberline {4.3.2.3}Mentorspace}{62}{subsubsection.4.3.2.3}
+\contentsline {subsubsection}{\numberline {4.3.2.4}Advisor Log}{62}{subsubsection.4.3.2.4}
+\contentsline {subsubsection}{\numberline {4.3.2.5}Reviews}{65}{subsubsection.4.3.2.5}
+\contentsline {subsubsection}{\numberline {4.3.2.6}Avatars}{67}{subsubsection.4.3.2.6}
+\contentsline {subsection}{\numberline {4.3.3}Gamification}{67}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}ICE}{69}{subsubsection.4.3.3.1}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Levels}{70}{subsubsection.4.3.3.2}
+\contentsline {section}{\numberline {4.4}Testing}{71}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Interactive Testing}{71}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Personas}{71}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Beta Testing}{72}{subsection.4.4.3}
+\contentsline {subsubsection}{\numberline {4.4.3.1}Student Beta Testing}{73}{subsubsection.4.4.3.1}
+\contentsline {subsubsection}{\numberline {4.4.3.2}Advisor Beta Test}{73}{subsubsection.4.4.3.2}
+\contentsline {chapter}{\numberline {5}Conclusions}{75}{chapter.5}
+\contentsline {chapter}{\numberline {A}Baseline Assessment}{79}{appendix.A}
+\contentsline {chapter}{\numberline {B}RadGrad Data Model}{87}{appendix.B}
+\contentsline {subsection}{\numberline {B.0.1}Career Goals}{87}{subsection.B.0.1}
+\contentsline {subsection}{\numberline {B.0.2}Courses}{89}{subsection.B.0.2}
+\contentsline {subsection}{\numberline {B.0.3}Desired Degrees}{89}{subsection.B.0.3}
+\contentsline {subsection}{\numberline {B.0.4}Degree Plan}{90}{subsection.B.0.4}
+\contentsline {subsection}{\numberline {B.0.5}Feeds}{90}{subsection.B.0.5}
+\contentsline {subsection}{\numberline {B.0.6}Feedbacks}{91}{subsection.B.0.6}
+\contentsline {subsection}{\numberline {B.0.7}Help Messages}{91}{subsection.B.0.7}
+\contentsline {subsection}{\numberline {B.0.8}ICE}{93}{subsection.B.0.8}
+\contentsline {subsection}{\numberline {B.0.9}Interests}{93}{subsection.B.0.9}
+\contentsline {subsection}{\numberline {B.0.10}Levels}{93}{subsection.B.0.10}
+\contentsline {subsection}{\numberline {B.0.11}Advisor Logs}{95}{subsection.B.0.11}
+\contentsline {subsection}{\numberline {B.0.12}Mentors}{95}{subsection.B.0.12}
+\contentsline {subsection}{\numberline {B.0.13}Opportunities}{96}{subsection.B.0.13}
+\contentsline {subsection}{\numberline {B.0.14}Public Stats}{96}{subsection.B.0.14}
+\contentsline {subsection}{\numberline {B.0.15}Reviews}{97}{subsection.B.0.15}
+\contentsline {subsection}{\numberline {B.0.16}Roles}{98}{subsection.B.0.16}
+\contentsline {subsection}{\numberline {B.0.17}Semesters}{98}{subsection.B.0.17}
+\contentsline {subsection}{\numberline {B.0.18}Slugs}{98}{subsection.B.0.18}
+\contentsline {subsection}{\numberline {B.0.19}Teasers}{98}{subsection.B.0.19}
+\contentsline {subsection}{\numberline {B.0.20}Users}{100}{subsection.B.0.20}
+\contentsline {subsection}{\numberline {B.0.21}Verification Requests}{101}{subsection.B.0.21}
+\contentsline {subsection}{\numberline {B.0.22}Academic Years}{101}{subsection.B.0.22}
+\contentsline {chapter}{\numberline {C}Other RadGrad User Components}{102}{appendix.C}
+\contentsline {section}{\numberline {C.1}Advisor Mode}{102}{section.C.1}
+\contentsline {subsection}{\numberline {C.1.1}Student Configuration}{102}{subsection.C.1.1}
+\contentsline {subsection}{\numberline {C.1.2}Verification}{103}{subsection.C.1.2}
+\contentsline {subsection}{\numberline {C.1.3}Moderation}{104}{subsection.C.1.3}
+\contentsline {subsection}{\numberline {C.1.4}Academic Plan}{105}{subsection.C.1.4}
+\contentsline {section}{\numberline {C.2}Faculty Mode}{106}{section.C.2}
+\contentsline {subsection}{\numberline {C.2.1}Profile}{106}{subsection.C.2.1}
+\contentsline {subsection}{\numberline {C.2.2}Manage Opportunities}{106}{subsection.C.2.2}
+\contentsline {subsection}{\numberline {C.2.3}Verification}{108}{subsection.C.2.3}
+\contentsline {subsection}{\numberline {C.2.4}Explorers}{108}{subsection.C.2.4}
+\contentsline {section}{\numberline {C.3}Mentor Mode}{108}{section.C.3}
+\contentsline {subsubsection}{\numberline {C.3.0.1}Profile}{108}{subsubsection.C.3.0.1}
+\contentsline {subsubsection}{\numberline {C.3.0.2}MentorSpace}{109}{subsubsection.C.3.0.2}
+\contentsline {subsubsection}{\numberline {C.3.0.3}Explorer}{109}{subsubsection.C.3.0.3}
+\contentsline {section}{\numberline {C.4}Administrator Mode}{110}{section.C.4}
+\contentsline {subsection}{\numberline {C.4.1}Retrieve User}{110}{subsection.C.4.1}
+\contentsline {subsection}{\numberline {C.4.2}Data Model}{110}{subsection.C.4.2}
+\contentsline {subsection}{\numberline {C.4.3}Data Base}{110}{subsection.C.4.3}
+\contentsline {subsection}{\numberline {C.4.4}Moderation}{110}{subsection.C.4.4}
+\contentsline {chapter}{Bibliography}{113}{appendix*.136}

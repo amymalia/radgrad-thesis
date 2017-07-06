@@ -1,5 +1,17 @@
 \begin{thebibliography}{10}
 
+\bibitem{gamification}
+Game mechanics.
+\newblock \url{<http://www.gamification.org/wiki/Encyclopedia}, 2011.
+\newblock [Online; accessed 1-July-2017].
+
+\bibitem{Serious_Games}
+What is a serious game, gamification.
+\newblock
+  \url{<http://www.designingdigitally.com/blog/2013/08/gamification-or-serious-game-whats-difference},
+  2013.
+\newblock [Online; accessed 1-July-2017].
+
 \bibitem{Blackboard}
 Blackboard planner.
 \newblock \url{<http://www.blackboard.com/sites/bbplanner/>}, 2016.
@@ -55,11 +67,6 @@ Starfish by hobsons.
 \newblock \url{<http://www.starfishsolutions.com/>}, 2016.
 \newblock [Online; accessed 4-October-2016].
 
-\bibitem{SummonersWar}
-Summoners war.
-\newblock \url{<http://www.summonerswar.co>}, 2016.
-\newblock [Online; accessed 4-October-2016].
-
 \bibitem{TechHui}
 Techhui.
 \newblock \url{<http://www.techhui.com>}, 2016.
@@ -71,6 +78,19 @@ Top 15 most popular social networking sites.
   2016.
 \newblock [Online; accessed 28-September-2016].
 
+\bibitem{Nike}
+Nikeplus.
+\newblock \url{<http://nikeplus.com}, 2017.
+\newblock [Online; accessed 1-July-2017].
+
+\bibitem{khan_academy}
+Eric Bruenner.
+\newblock Play to learn with khan academy.
+\newblock
+  \url{<http://www.gamification.co/2011/05/26/quests-skill-trees-for-learning-with-khan-academy/},
+  2011.
+\newblock [Online; accessed 1-July-2017].
+
 \bibitem{Carini}
 Robert Carini, George Kuh, and Stephen Klein.
 \newblock {Student Engagement and Student Learning}.
@@ -81,6 +101,11 @@ Pu-Shih Daniel~Chen, Amber Lambert, and Kevin Guidry.
 \newblock {Engaging online learners: The impact of Web-based learning
   technology on college student engagement}.
 \newblock {\em Computers And Education}, 54, 2009.
+
+\bibitem{Deterding}
+Sebastian Deterding, Dan Dixon, Rilla Khaled, and Lennart Nacke.
+\newblock {From game design elements to gamefulness: Defining gamification}.
+\newblock {\em Proceedings of MindTrek}, 2011.
 
 \bibitem{Handelsman}
 Mitchell Handelsman, William Briggs, Nora Sullivan, and Annette Towler.
@@ -110,6 +135,12 @@ Reynol Junco.
 \newblock {The relationship between frequency of Facebook use, participation in
   Facebook activities, and student engagement}.
 \newblock {\em Computers and Education}, 58, 2011.
+
+\bibitem{Koepp}
+MJ~Koepp, RN~Gunn, AD~Lawrence, VJ~Cunningham, A.~Dagher, T.~Jones, DJ~Brooks,
+  CJ~Bench, and PM~Grasby.
+\newblock {Evidence for striatal dopamine release during a video game}.
+\newblock {\em Nature}, 1998.
 
 \bibitem{Kuh2001}
 George Kuh.
