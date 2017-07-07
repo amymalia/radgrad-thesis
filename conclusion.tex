@@ -1,24 +1,41 @@
 \chapter{Conclusions}
 
-The main goal of this thesis was to find evidence of a problem, gather baseline values for this problem, and attempt to solve the problem with the initial design and implementation of a system. When I initially gathered TechHui data about the pros and cons of being an ICS student at UH Manoa, I found the first evidence of a problem: over the past eight years, students were not fully satisfied academically, professionally, or socially with their ICS experience. I then researched existing degree planning, social networking, and gamification systems to get an idea of what is currently available to students, and how they could be improved. I then designed and implemented an ICS experience baseline survey, which surveyed 100 current ICS students and asked more specific questions about their ICS experience. The results of this survey gave more concrete evidence that there is room for improvement in the ICS department when it comes to encouraging and enabling students to participate in extracurricular activities, giving students the support they need from all members of the department, and encouraging and enabling students to interact with each other and ICS alumni on an academic or professional level. The results of this baseline survey can be used in a future study that compares the undergraduate experience before and after using RadGrad to test the effectiveness of the system. Along with the rest of the RadGrad team, I have helped to design and implement the RadGrad system, which aims to address many perceived deficiencies within the ICS department. By combining degree planning, social networking, and gamification, RadGrad aims to improve the ICS student experience on academic, professional, and social levels. 
+The main goal of this thesis was to find evidence of a problem, gather baseline values for this problem, and attempt to address the problem with the initial design and implementation of a system. When I initially gathered TechHui data about the pros and cons of being an ICS student at UH Manoa, I found the first evidence of a problem: over the past eight years, students were not fully satisfied academically, professionally, or socially with their ICS experience. I then researched existing degree planning, social networking, and gamification systems to get an idea of what is currently available to students, and how they could be improved. I then designed and implemented an ICS experience baseline survey, which surveyed 100 current ICS students and asked more specific questions about their ICS experience. The results of this survey gave more concrete evidence that there is room for improvement in the ICS department when it comes to encouraging and enabling students to participate in extracurricular activities, giving students the support they need from all members of the department, and encouraging and enabling students to interact with each other and ICS alumni on an academic or professional level. The results of this baseline survey can be used in a future study that compares the undergraduate experience before and after using RadGrad to test the effectiveness of the system. Along with the rest of the RadGrad team, I have helped to design and implement the RadGrad system, which aims to address many perceived deficiencies within the ICS department. By combining degree planning, social networking, and gamification, RadGrad aims to improve the ICS student experience on academic, professional, and social levels. 
 
-With the current implemented features, RadGrad aims to solve the following eight out of the ten complaints from the TechHui data. The social networking features encourage students to get to know and work with other members of the community, which aim to solve numbers 3, 4, 7, and 8. The degree planner system, and explorers will help students become more aware of the different opportunities available to them, and allows students to create their own customized ICS experience based off their own interests, career goals, and time constraints which solves number 1, 2, 5, and 6. Although RadGrad doesn't currently address all of the problems that students have, it could potentially cover more issues in future deployments. 
+With the current implemented features, RadGrad aims to solve the following eight out of the ten complaints from the TechHui data, and seven out of the eleven baseline survey questions (not including the demographic questions) \ref{techhui-survey}. The social networking features encourage students to get to know and work with other members of the community, which aim to solve numbers 3, 4, 7, and 8 (TechHui) and 2, 3, 4, and 5 (baseline survey). The degree planner system, and explorers will help students become more aware of the different opportunities available to them, and allows students to create their own customized ICS experience based off their own interests, career goals, and time constraints which aim to solve number 1, 2, 5, and 6 (TechHui) and 1, 6, and 7 (baseline survey). Gamification also helps students motivate each other and enforces the importance of excelling in both courses and opportunities, which aims to solve 3 and 8 (TechHui) and 1, 4, 5, 6 ,and 7 (baseline survey). Although RadGrad doesn't currently address all of the problems that students have, it could potentially cover more issues in future deployments. 
 
-\begin{enumerate}
-  \item The ICS department needs to offer classes more frequently.
-  \item The ICS department needs to offer a wider variety of classes.
-  \item The ICS department needs a better sense of community.
-  \item Some of the professors in the ICS department need to improve their teaching.
-  \item The ICS department should offer more focused areas of study.
-  \item ICS classes are too time consuming and take up more time than anticipated.
-  \item ICS courses should involve more group work 
-  \item ICS should encourage more interaction among students.
-\end{enumerate}
+\begin{table}[htbp!]
+\centering
+ \caption{TechHui Complaints and Survey Questions Potentially Addressed by RadGrad}
+\begin{tabular}{ |p{8cm}|p{8cm}|} 
+  \hline
+ \textbf{TechHui Complaints} & \textbf{Survey Questions} \\ 
+  \hline
+The ICS department needs to offer classes more frequently. & Which of the following extracurricular activities, if any, pertain to you?\\
+  \hline
+  The ICS department needs to offer a wider variety of classes. & Do you feel that you get enough support from others in the ICS department?\\
+  \hline
+  The ICS department needs a better sense of community. & To what extent have ICS alumni influenced your development in the ICS program?\\
+  \hline
+  Some of the professors in the ICS department need to improve their teaching. & To what extent have ICS peers influenced your development in the ICS program?\\
+  \hline
+  The ICS department should offer more focused areas of study. & To what extent have you influenced your ICS peers development in the ICS program?\\
+  \hline
+  CS classes are too time consuming and take up more time than anticipated. & Now that you are nearing the end of your ICS degree program experience, how well prepared do you feel to find a job after graduation?\\
+  \hline
+  ICS courses should involve more group work. &  If you answered above that you feel unprepared to find a job after graduation, please explain why. \\
+  \hline
+    ICS should encourage more interaction among students. & \\
+  \hline
+\end{tabular}
+  \label{techhui-survey}
+\end{table}
 
 When comparing RadGrad to the existing degree planning systems discussed in Section \ref{related-work}, RadGrad implements many potentially degree experience enhancing features that these current systems do not \ref{degree-compare}. 
 
 \begin{table}[htbp!]
 \centering
+ \caption{Comparison of existing degree planner systems and RadGrad}
 \begin{tabular}{ |p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}| } 
   \hline
  \textbf{} & \textbf{STAR} & \textbf{Starfish} & \textbf{College Scheduler} & \textbf{Blackboard Planner}  & \textbf{Coursicle}  & \textbf{RadGrad} \\ 
@@ -35,7 +52,6 @@ When comparing RadGrad to the existing degree planning systems discussed in Sect
   \hline
 
 \end{tabular}
- \caption{Comparison of existing degree planner systems and RadGrad}
   \label{degree-compare}
 \end{table}
 
@@ -43,6 +59,7 @@ When comparing RadGrad to the existing social networking systems discussed in Se
 
 \begin{table}[htbp!]
 \centering
+ \caption{Comparison of existing social networking systems and RadGrad}
 \begin{tabular}{ |p{8cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}| } 
   \hline
  \textbf{} & \textbf{LinkedIn} & \textbf{TechHui} & \textbf{Rate My Professors} &  \textbf{RadGrad} \\ 
@@ -58,7 +75,6 @@ When comparing RadGrad to the existing social networking systems discussed in Se
   \hline
 
 \end{tabular}
- \caption{Comparison of existing social networking systems and RadGrad}
  \label{social-compare}
 \end{table}
 
@@ -66,11 +82,12 @@ When comparing RadGrad to the popular video games discussed in Section \ref{rela
 
 \begin{table}[htbp!]
 \centering
+ \caption{Comparison of popular games and RadGrad}
 \begin{tabular}{ |p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}| } 
   \hline
  \textbf{} & \textbf{League of Legends} & \textbf{Hearth- stone} & \textbf{Overwatch} & \textbf{Pokemon Go} & \textbf{RadGrad} \\ 
   \hline
-  Enjoyable/ addicting/ satisfying & X & X & X & X & X\\
+  Enjoyable/ addicting/ satisfying & X & X & X & X & Not yet determined\\
   \hline
    Multiplayer & X & X & X & X & X\\
   \hline
@@ -83,7 +100,6 @@ When comparing RadGrad to the popular video games discussed in Section \ref{rela
     Persistence of the player & X & X & X & X & X\\
   \hline
 \end{tabular}
- \caption{Comparison of popular games and RadGrad}
   \label{gamification-compare}
 \end{table}
 
@@ -91,6 +107,7 @@ When comparing RadGrad to the common game mechanics that many serious games use,
 
 \begin{table}[htbp!]
 \centering
+ \caption{Comparison of common game mechanics in serious games and RadGrad}
 \begin{tabular}{ |p{8cm}|p{8cm}| } 
   \hline
  \textbf{Game mechanics} & \textbf{RadGrad Implementation} \\ 
@@ -113,7 +130,6 @@ When comparing RadGrad to the common game mechanics that many serious games use,
   \hline
 
 \end{tabular}
- \caption{Comparison of popular games and RadGrad}
   \label{serious-games}
 \end{table}
 

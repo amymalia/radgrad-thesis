@@ -18,9 +18,9 @@ We developed RadGrad using GitHub issues and GitHub projects. Development tasks 
 
 There are currently five different types of RadGrad users: administrators, advisors, faculty, mentors, and students. Administrators can be RadGrad team members, or UHM academic advisors or faculty that request access. Advisors are UHM academic advisors for ICS students. Faculty members include all professors in the ICS department. Mentors include any ICS alumni that desire to give back to the ICS community. Students include all currently enrolled ICS undergraduate students. 
 
-\section{Student Components}
+For each user, the three main RadGrad themes (degree planner, social networking, and gamification) are manifested through several different components throughout the system. In the following section, I describe all of these components from the student point of view. Refer to Appendix \ref{other-radgrad-components} to view these components from the point of view of other user types.
 
-The three main RadGrad themes (degree planner, social networking, and gamification) are manifested through several different components throughout the system. In this section, I describe all of these components from the student point of view. Refer to Appendix \ref{other-radgrad-components} to view these components from the point of view of other user types.
+\section{Student Components}
 
 \subsection{Degree Planning}
 
@@ -48,7 +48,7 @@ There are degree planner components on the degree planner page (Figure \ref{degr
 \label{degree-planner}
 \end{figure}
 
-The student degree planner was created to help students increase their extracurricular engagement in a way that makes sense for their specific path and fits into their time constraints ( Figure ~\ref{degree-planner}, Figure ~\ref{degree-planner-page}). The student degree planner is the main place that students will go to view and make changes to their entire degree plan. Students can view up to four academic years at a time, but they can view additional past or future years by clicking on the green arrows at the bottom. Semesters that are in the past are greyed out and cannot be changed by the student. Any present or future semesters can be changed by dragging and dropping courses or opportunities into that semester pane. The grades for a course can be changed with the drop down menus. 
+The student degree planner was created to help students increase their extracurricular engagement in a way that makes sense for their specific path and fits into their time constraints (Figure ~\ref{degree-planner}, Figure ~\ref{degree-planner-page}). The student degree planner is the main place that students will go to view and make changes to their entire degree plan. Students can view up to four academic years at a time, but they can view additional past or future years by clicking on the green arrows at the bottom. Semesters that are in the past are greyed out and cannot be changed by the student. Any present or future semesters can be changed by dragging and dropping courses or opportunities into that semester pane. The grades for a course can be changed with the drop down menus. 
 
 \begin{figure}[htbp!]
 \centering
@@ -69,10 +69,9 @@ Below the inspector is the academic plan pane (Figure ~\ref{academic-plans}, Fig
 
 \begin{table}[htbp!]
 \centering
+\caption{Potential Areas the Degree Planner Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
 \hline
- \multicolumn{2}{|c|}{Potential Areas the Degree Planner Could Improve}\\
-  \hline
  \textbf{TechHui Complaints} & \textbf{Reasoning} \\ 
   \hline
 ICS department should offer classes more frequently & Advisors will be able to gather data about which future classes students are interested in, and advisors will be able to schedule these classes with the students' needs in mind. \\
@@ -83,8 +82,19 @@ ICS department should offer classes more frequently & Advisors will be able to g
   \hline
   How well prepared do you feel to find a job after graduation? & The RadGrad degree planner encourages students to plan ahead, be more in control of their degree plans, and to include both courses and opportunities, which can make students more confident and competitive when finding jobs.\\
   \hline
+   \textbf{Existing Degree Planning Systems} & \textbf{Reasoning} \\ 
+  \hline
+  STAR & Unlike STAR's degree planner, RadGrad degree planner is specific to ICS students and emphasizes including extracurriculars along with courses in degree plan \\
+    \hline
+  Starfish & Unlike Starfish's degree planner, RadGrad degree planner is specific to ICS students and emphasizes including extracurriculars along with courses in degree plan \\
+    \hline
+  College Scheduler & Unlike College Scheduler's degree planner, RadGrad degree planner is specific to ICS students and emphasizes including extracurriculars along with courses in degree plan \\
+    \hline
+  Blackboard Planner & Unlike Blackboard Planner's degree planner, RadGrad degree planner is specific to ICS students and emphasizes including extracurriculars along with courses in degree plan \\
+    \hline
+  Coursicle & Unlike Coursicle's degree planner, RadGrad degree planner is specific to ICS students and emphasizes including extracurriculars along with courses in degree plan \\
+  \hline
 \end{tabular} 
-\caption{Potential Areas the Degree Planner Could Improve}
 \end{table}
 
 \subsubsection{Recommendations and Warnings}
@@ -110,6 +120,7 @@ On the student home page, students can see details about recommended courses and
 
 \begin{table}[htbp!]
 \centering
+\caption{Automatically generated warnings and recommendations as of May 2017}
 \begin{tabular}{  |p{8cm}|p{8cm}| } 
   \hline
  \textbf{Warnings} & \textbf{Recommendations} \\ 
@@ -129,15 +140,13 @@ Course is not offered in chosen semester (future implementation) & Recommendatio
 & See your ICS advisor to upload STAR data\\
  \hline
 \end{tabular}
-\caption{Automatically generated warnings and recommendations as of May 2017}
 \label{table:warnings-recommendations}
 \end{table}
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas Warnings and Recommendations Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
-\hline
- \multicolumn{2}{|c|}{Potential Areas Warnings and Recommendations Could Improve}\\
 \hline
  \textbf{Survey Questions} & \textbf{Reasoning} \\ 
   \hline
@@ -145,8 +154,19 @@ Course is not offered in chosen semester (future implementation) & Recommendatio
   \hline
   How well prepared do you feel to find a job after graduation? & Recommendations and warnings help students to take all the required courses, and also help students to add more courses and opportunities of interest to their degree plans, which can make students feel more confident and in control of how they prepare for life after graduation. \\
   \hline
-\end{tabular}
- \caption{Potential Areas Warnings and Recommendations Could Improve}
+   \textbf{Existing Degree Planning Systems} & \textbf{Reasoning} \\ 
+  \hline
+  STAR & Unlike STAR's generic warnings, RadGrad provides students with descriptive and personalized warnings and recommendations \\
+    \hline
+  Starfish & Starfish does not have any warnings or recommendations\\
+    \hline
+  College Scheduler &  Unlike College Scheduler's time constraint-based warnings, RadGrad gives specific and personalized warnings and recommendations based off students' specified interests and career goals\\
+    \hline
+  Blackboard Planner & Blackboard Planner does not have any warnings or recommendations\\
+    \hline
+  Coursicle & Coursicle does not have any warnings or recommendations \\
+  \hline
+  \end{tabular}
 \end{table}
 
 \subsubsection{Career Goal, Course, Desired Degree and Opportunity Explorers}
@@ -200,9 +220,8 @@ The opportunity explorer lists all ICS opportunities on the left side (Figure ~\
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas the Career Goal, Course, Degree, Interest, and Opportunity Explorers Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
-\hline
- \multicolumn{2}{|c|}{Potential Areas the Career Goal, Course, Degree, Interest, and Opportunity Explorers Could Improve}\\
   \hline
  \textbf{TechHui Complaints} & \textbf{Reasoning} \\ 
   \hline
@@ -217,9 +236,20 @@ ICS classes are too time consuming and take up more time than anticipated & The 
   How many extracurriculars have you participated in? & The RadGrad explorers can help students easily find opportunities of interest to add to their schedules.\\
   \hline
   How well prepared do you feel to find a job after graduation? & The RadGrad explorers encourage students to learn more about computer science topics, careers, and opportunities, which can help students get a better idea of, and become better prepared for what they want to do after graduation.\\
+    \hline
+   \textbf{Existing Degree Planning Systems} & \textbf{Reasoning} \\ 
+  \hline
+  STAR & STAR doesn't provide any way for students to learn details about interests, career goals, degrees, courses, and opportunities. \\
+    \hline
+  Starfish & STAR doesn't provide any way for students to learn details about interests, career goals, degrees, courses, and opportunities.\\
+    \hline
+  College Scheduler & STAR doesn't provide any way for students to learn details about interests, career goals, degrees, courses, and opportunities.\\
+    \hline
+  Blackboard Planner & Unlike Blackboard's broad career explorer, RadGrad explorers provide a way for students to learn details about interests, career goals, degrees, courses, and opportunities and use them to design their degree plan.\\
+    \hline
+  Coursicle & STAR doesn't provide any way for students to learn details about interests, career goals, degrees, courses, and opportunities.\\
   \hline
 \end{tabular}
- \caption{Potential Areas the Career Goal, Course, Degree, Interest, and Opportunity Explorers Could Improve}
 \end{table}
 
 \subsubsection{Teasers}
@@ -234,6 +264,7 @@ Teasers are short (around 30 seconds) YouTube videos created by members of RadGr
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas Teasers Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
 \hline
  \multicolumn{2}{|c|}{Potential Areas Teasers Could Improve}\\
@@ -243,9 +274,20 @@ Teasers are short (around 30 seconds) YouTube videos created by members of RadGr
   How many extracurriculars have you participated in? & Teasers encourage students to add  opportunities of interest to their schedules.\\
   \hline
   How well prepared do you feel to find a job after graduation? & Teasers reinforce the importance of opportunities in students' degree plans.  If teasers successfully encourage students to participate in more opportunities, this can make students more confident and competitive when finding jobs.\\
+    \hline
+   \textbf{Existing Degree Planning Systems} & \textbf{Reasoning} \\ 
+  \hline
+  STAR & STAR doesn't incorporate any opportunities. \\
+    \hline
+  Starfish & Starfish doesn't incorporate any opportunities.\\
+    \hline
+  College Scheduler & College Scheduler doesn't incorporate any opportunities.\\
+    \hline
+  Blackboard Planner & Blackboard Planner doesn't incorporate any opportunities.\\
+    \hline
+  Coursicle & Coursicle doesn't incorporate any opportunities. \\
   \hline
 \end{tabular}
- \caption{Potential Areas Teasers Could Improve}
 \end{table}
 
 \subsection{Social Network}
@@ -265,10 +307,9 @@ The user explorer lists all RadGrad users with their first name, last name, and 
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas the User Explorer Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
 \hline
- \multicolumn{2}{|c|}{Potential Areas the User Explorer Could Improve}\\
-  \hline
  \textbf{TechHui Complaints} & \textbf{Reasoning} \\ 
   \hline
   ICS department should have a better sense of community & RadGrad user explorer can help students learn more about all members of the ICS community, and could potentially facilitate off-RadGrad relationships.\\
@@ -280,9 +321,8 @@ The user explorer lists all RadGrad users with their first name, last name, and 
  \textbf{Survey Questions} & \textbf{Reasoning} \\ 
   \hline
     Do you feel like you get enough support from others in the ICS department? & RadGrad user explorer can help students easily meet people with similar interests and degree plans, and get more support from all members of the community. \\
-  \hline
+      \hline
 \end{tabular}
- \caption{Potential Areas the User Explorer Could Improve}
 \end{table}
 
 \subsubsection{Feed}
@@ -297,16 +337,14 @@ Another way RadGrad reminds users that they are not alone in using the system is
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas the Feed Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
 \hline
- \multicolumn{2}{|c|}{Potential Areas the Feed Could Improve}\\
-  \hline
  \textbf{TechHui Complaints} & \textbf{Reasoning} \\ 
   \hline
 ICS department should have a better sense of community & The RadGrad feed help students to feel like they are part of a larger community and keep up with the latest ICS related events. \\
 \hline
 \end{tabular}
- \caption{Potential Areas the Feed Could Improve}
 \end{table}
 
 \subsubsection{Mentorspace}
@@ -321,10 +359,9 @@ Mentors and students can interact with each other on the MentorSpace page (Figur
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas MentorSpace Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
 \hline
- \multicolumn{2}{|c|}{Potential Areas MentorSpace Could Improve}\\
-  \hline
  \textbf{TechHui Complaints} & \textbf{Reasoning} \\ 
   \hline
   ICS department should have a better sense of community & RadGrad MentorSpace brings students and mentors together in one place and feel more connected.\\
@@ -334,9 +371,16 @@ Mentors and students can interact with each other on the MentorSpace page (Figur
   Do you feel like you get enough support from others in the department? & RadGrad MentorSpace can help students get the support they need through questions and answers with mentors who have been in their position before. \\
   \hline
     To what extent have ICS alumni influenced your development in the ICS program? & RadGrad MentorSpace can help students get influenced by alumni both academically and professionally. \\
+   \hline
+   \textbf{Existing Social Networking Systems} & \textbf{Reasoning} \\ 
   \hline
-\end{tabular}
- \caption{Potential Areas MentorSpace Could Improve}
+  LinkedIn & LinkedIn doesn't provide specific support for alumni to interact with students. \\
+    \hline
+  TechHui & TechHui doesn't provide specific support for alumni to interact with students. \\
+    \hline
+  Rate My Professors & Rate My Professor doesn't provide specific support for alumni to interact with students. \\
+    \hline
+    \end{tabular}
 \end{table}
 
 \subsubsection{Advisor Log}
@@ -351,10 +395,9 @@ Advisors and students can interact with each other on the Advisor Log page (Figu
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas the Advisor Log Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
 \hline
- \multicolumn{2}{|c|}{Potential Areas the Advisor Log Could Improve}\\
-  \hline
  \textbf{TechHui Complaints} & \textbf{Reasoning} \\ 
   \hline
   ICS department should have a better sense of community & RadGrad MentorSpace brings students and advisors together in one place and helps them communicate better and feel more connected.\\
@@ -362,9 +405,15 @@ Advisors and students can interact with each other on the Advisor Log page (Figu
  \textbf{Survey Questions} & \textbf{Reasoning} \\ 
   \hline
   Do you feel like you get enough support from others in the department? & RadGrad advisor logs can help students to get more out of their advisors, and can hopefully improve the quality of advisor support and interaction.\\
+   \hline
+   \textbf{Existing Social Networking Systems} & \textbf{Reasoning} \\ 
   \hline
-\end{tabular}
- \caption{Potential Areas the Advisor Log Could Improve}
+  LinkedIn & LinkedIn doesn't provide specific support for advisors to interact with students. \\
+    \hline
+  TechHui & TechHui doesn't provide specific support for advisors to interact with students. \\
+    \hline
+  Rate My Professors & Rate My Professor doesn't provide specific support for advisors to interact with students. \\
+    \hline\end{tabular}
 \end{table}
 
 \subsubsection{Reviews}
@@ -379,10 +428,9 @@ Students can post two different types of reviews: course reviews and opportunity
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas Reviews Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
 \hline
- \multicolumn{2}{|c|}{Potential Areas Reviews Could Improve}\\
-  \hline
  \textbf{TechHui Complaints} & \textbf{Reasoning} \\ 
   \hline
   ICS department should have a better sense of community & Non-anonymous RadGrad reviews help facilitate more open communication between students and the rest of the community.\\
@@ -394,9 +442,15 @@ Students can post two different types of reviews: course reviews and opportunity
     To what extent have ICS peers influenced your development in the ICS program? & RadGrad reviews can help students help others students plan which courses to add to their degree. \\
       \hline
     To what extent have you influenced your ICS peers' development in the ICS program? & RadGrad reviews can help students help others students plan which courses to add to their degree. \\
+   \hline
+   \textbf{Existing Social Networking Systems} & \textbf{Reasoning} \\ 
   \hline
-\end{tabular}
- \caption{Potential Areas Reviews Could Improve}
+  LinkedIn & LinkedIn doesn't provide specific support for students to leave feedback for professors. \\
+    \hline
+  TechHui & TechHui doesn't provide specific support for students to leave feedback for professors. \\
+    \hline
+  Rate My Professors & Rate My Professor allows anonymous reviews, which reduces the validity of reviews, and focuses on a student audience, which means reviews may not actually be used by professors to improve their teaching quality.  \\
+    \hline\end{tabular}
 \end{table}
 
 \subsubsection{Avatars}
@@ -411,10 +465,9 @@ RadGrad quietly reminds users that they are not alone in using the system--they 
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas Avatars Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
 \hline
- \multicolumn{2}{|c|}{Potential Areas Avatars Could Improve}\\
-  \hline
  \textbf{TechHui Complaints} & \textbf{Reasoning} \\ 
   \hline
 ICS department should have a better sense of community & RadGrad avatars help students to feel like they are part of a larger community and help students to get a better idea of the people in the department (i.e. who shares interests with them, who has taken the same courses as them, etc.). \\
@@ -422,21 +475,22 @@ ICS department should have a better sense of community & RadGrad avatars help st
 ICS department should encourage more interaction among students & RadGrad avatars help students to find other students that have common interests, and could potentially facilitate relationships off of RadGrad.\\
 \hline
 \end{tabular}
- \caption{Potential Areas Avatars Could Improve}
 \end{table}
 
 
 \subsection{Gamification}
 
 The gamification components appear on the ICE page (Figure \ref{ice}), the levels page (Figure \ref{levels}), the explorer pages, and several other pages. These components are also constantly present for students to see on any page, on their top menu bar. In the following section, I will describe the social network components in further detail. 
-\subsubsection{ICE}
+\subsubsection{ICE (Innovation, Competency, Experience)}
 \begin{figure}[htbp!]
 \centering
 \includegraphics[width=1.0\textwidth]{student-ice}
 \caption{ICE page.}
 \label{ice}
 \end{figure}
-ICE is an acronym for Innovation (i.e. a student's involvement in research or other innovative activity), Competency (i.e. a student's grades in ICS courses), and Experience (i.e. a student's involvement in high tech environments through internships or other professional activities). ICE is a measurement of these aspects, calculated using the information provided on the student's profile. Contrasting with traditional requirements that focus solely on GPA, ICE balances the three aspects to emphasize the importance of all three in an ideal ICS experience. The ICE point system can encourage students to become more competitive and give them more incentive to do better.
+ICE is an acronym for Innovation (i.e. a student's involvement in research or other innovative activity), Competency (i.e. a student's grades in ICS courses), and Experience (i.e. a student's involvement in high tech environments through internships or other professional activities). ICS alumni have expressed concern that employers have been looking for outside opportunities like hackathons and internships on resumes, instead of just a degree and a high GPA. While a high GPA (competency) showcases a student's work ethic, responsibility to get work done, and basic understanding of standard topics, hackathons showcase a student's ability to use the information they learned in class in a creative and innovative way (innovation), and internships showcase a student's experience working with others in a non-academic environment (experience). Arguably, all three of these aspects are equally important when preparing to enter the workforce.
+
+ICE is a measurement of these three aspects, calculated using the information provided on the student's profile. Contrasting with traditional requirements that focus solely on GPA, ICE balances the three aspects to emphasize the importance of all three areas in an ideal ICS experience. The ICE point system can encourage students to become more competitive and give them more incentive to do better.
 
 The student ICE page displays three circular graphs: one each for innovation, competency, and experience (Figure ~\ref{ice}). The number in the center of each graph represents the current amount of points earned for that category. The dark fill in the graph represents the same number. The light fill on the graph represents the amount of planned points. In addition to the student ICE page, these ICE graphs also appear in the top right corner of the menu bar. 
 
@@ -444,10 +498,9 @@ ICE points are also represented for specific courses or opportunities. These ICE
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas ICE Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
 \hline
- \multicolumn{2}{|c|}{Potential Areas ICE Could Improve}\\
-  \hline
  \textbf{TechHui Complaints} & \textbf{Reasoning} \\ 
   \hline
   ICS department should have a better sense of community & RadGrad ICE can help students to compete and worth with each other to achieve a common goal.\\
@@ -457,9 +510,7 @@ ICE points are also represented for specific courses or opportunities. These ICE
   How well prepared do you feel to find a job after graduation? & RadGrad ICE can help students to gain experience in more areas than just courses. With the "innovation" and "experience" opportunities added to their degree plan, students will have more to offer potential employers than just a decent GPA.\\
   \hline
     How many extracurriculars have you participated in? & RadGrad ICE can help students to participate in more extracurriculars and a wider variety of extracurriculars as they try to reach 100 points in each category. \\
-  \hline
-\end{tabular}
- \caption{Potential Areas ICE Could Improve}
+    \hline\end{tabular}
 \end{table}
 
 \subsubsection{Levels}
@@ -477,10 +528,9 @@ Levels also persist physically off of RadGrad in the form of stickers. These sti
 
 \begin{table}[htbp!]
 \centering
+ \caption{Potential Areas Levels Could Improve}
 \begin{tabular}{  |p{4cm}|p{12cm}| } 
 \hline
- \multicolumn{2}{|c|}{Potential Areas Levels Could Improve}\\
-  \hline
  \textbf{TechHui Complaints} & \textbf{Reasoning} \\ 
   \hline
   ICS department should have a better sense of community & RadGrad levels can help students find other students at the same level as them, and also find students who are more advanced and less advanced than them. In this way, students will get a better understanding of those around them.\\
@@ -492,7 +542,6 @@ Levels also persist physically off of RadGrad in the form of stickers. These sti
    To what extent have ICS peers influenced your development in the ICS program?? & RadGrad levels can help students view other students' level achievements as personal goals, and the levels can also help students choose who they interact with in certain situations (i.e. who to help, or who to go to for help).\\
   \hline
 \end{tabular}
- \caption{Potential Areas Levels Could Improve}
 \end{table}
 
 
@@ -515,7 +564,9 @@ In order to ensure that a wide variety of students will be able to use RadGrad e
  
 \end{enumerate} 
 
-The RadGrad team used these personas to test different scenarios while building the interface. For instance, these personas were useful when testing different how types of degree plans appear in the degree planner. These personas were also useful when testing how the different components on the student home page would appear for different types of students (i.e. students with few versus many interests, students who have completed many versus few courses and opportunities, etc.) We also used these personas when we calculated specific gamification aspects, in order to make sure the games were challenging enough, but not unreasonable. 
+The RadGrad team used these personas to test different scenarios while building the interface. For instance, these personas were useful when testing different how types of degree plans appear in the degree planner. Each student has their own degree plan based off their desired degree, interests, and career goals. Each student's degree plan also appears a little differently because of their different statuses in the program (e.g. freshman, sophomore, junior, senior). These personas were also useful when testing how the different components on the student home page would appear for different types of students (e.g. students with few versus many interests, students who have completed many versus few courses and opportunities, etc.) 
+
+We also used these personas when we calculated specific gamification aspects, in order to make sure the games were challenging enough, but not unreasonable. For instance, Alfred is in his last semester, and he has reached 100 points in each ICE category. Therefore, Alfred should represent a ``RadGrad successful" student. To get to this point, he has a four year plan, and completed 1-2 opportunities and 2 ICS courses per semester. He also did one opportunity each summer for 3 summers. He received 14 As and 2 Bs in his ICS courses. If Alfred had managed to get 100 points in each ICE category while participating in only 1 opportunity per year and with 5 As, 4 Bs, and 7 Cs, he would not represent a ``RadGrad successful" student, which would mean that the amount of ICE points given should be lower, making ICE more difficult. Alternatively, if Alfred at his current state had failed to reach 100 in each ICE category, it would suggest that even a ``RadGrad successful" student will struggle to reach their ICE goals, so the amount of ICE points given should be higher, making ICE easier to obtain.
  
 \subsection{Beta Testing}
 
