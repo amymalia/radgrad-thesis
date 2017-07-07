@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 JUL 2017 22:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 JUL 2017 08:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1336,12 +1336,12 @@ Overfull \hbox (10.68904pt too wide) in paragraph at lines 532--545
  []
 
 [73] [74]
-Overfull \hbox (10.68904pt too wide) in paragraph at lines 581--620
+Overfull \hbox (10.68904pt too wide) in paragraph at lines 582--622
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 9.16986pt on input line 622.
+LaTeX Warning: Float too large for page by 10.16986pt on input line 622.
 
 ) [75] [76] [77]
 \openout2 = `conclusion.aux'.
@@ -1815,7 +1815,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
 Here is how much of TeX's memory you used:
  8528 strings out of 493014
  136239 string characters out of 6133351
- 231025 words of memory out of 5000000
+ 231016 words of memory out of 5000000
  11363 multiletter control sequences out of 15000+600000
  8668 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1827,7 +1827,7 @@ usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (126 pages, 51874085 bytes).
+Output written on thesis.pdf (126 pages, 51874062 bytes).
 PDF statistics:
  1745 PDF objects out of 2073 (max. 8388607)
  1385 compressed objects within 14 object streams
